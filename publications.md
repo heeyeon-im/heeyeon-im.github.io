@@ -6,7 +6,7 @@ nohead: true
 ---
 
 ## Publications
-* **Im, H.Y.**, Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. _Human Brain Mapping_, 39, 2725-2741. [[pdf]](Im_Hum._Brain_Mapp._2018.pdf)
+* **Im, H.Y.**, Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. _Human Brain Mapping_, 39, 2725-2741. [[pdf]](./Im_Hum._Brain_Mapp._2018.pdf)
 * Cushing, C., **Im, H.Y.**, Adams, R.B.Jr., Ward, N., Albohn, N.D., Steiner, T.G., & Kveraga, K. (2018). Neurodynamics and connectivity during facial fear perception: The role of threat exposure and signal congruity. _Scientific Reports_, 8, 2776.
 * **Im, H.Y.**, Albohn, N.D., Steiner, T.G., Cushing, C., Adams, R.B.Jr., & Kveraga, K. (2017). Ensemble coding of crowd emotion: Differential hemispheric and visual stream contributions. _Nature Human Behaviour_, 1, 828-842. [[pdf]](Im_etal_NHB_2017.pdf)
 * **Im, H.Y.**, Adams, R.B.Jr., Boshyan, J., Ward, N., Cushing, C., & Kveraga, K. (2017). Observer’s anxiety facilitates magnocellular processing of clear facial threat cues, but impairs parvocellular processing of ambiguous facial threat cues. _Scientific Reports_, 7, 15151. [[pdf]](Im_etal_Sci_Rep_2017.pdf)
