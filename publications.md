@@ -2,6 +2,7 @@
 title: Publications
 layout: page
 permalink: /publications/
+nohead: true
 ---
 
 This is my Publications.

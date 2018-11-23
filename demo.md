@@ -2,6 +2,7 @@
 title: Demo
 layout: page
 permalink: /demo/
+nohead: true
 ---
 
 This is my Demo.
