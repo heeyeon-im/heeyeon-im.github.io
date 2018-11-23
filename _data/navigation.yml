@@ -1,7 +1,7 @@
 # Sample site navigation bar links
 
 - title: About
-  url: /index/
+  url: /
 - title: Research Projects
   url: /projects/
 - title: Publications
