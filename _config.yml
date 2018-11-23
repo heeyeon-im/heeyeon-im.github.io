@@ -19,8 +19,8 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "Hee Yeon Im"
-description: "Postdoctoral Research Fellow at Massachusetts General Hospital / Harvard Medical School"
-baseurl: "https://heeyeon-im.github.io/about/"
+description: "Postdoctoral Fellow at Massachusetts General Hospital & Harvard Medical School"
+baseurl: ""
 url: "https://heeyeon-im.github.io"
 logo: "/images/heeyeon.jpg"
 date_format: "%B %-d, %Y"
@@ -29,8 +29,8 @@ words_per_minute: # 200
 mathjax: true
 google_fonts:
   - name: "Source Sans Pro"
-    weights: "500,500,700,700"
- #   weights: "400,400i,700,700i"
+    #weights: "500,500,700,700"
+    weights: "400,400i,700,700i"
   # - name: "Lora"
     # weights: "400,400i,700,700i"
 # google_analytics: "UA-2011187-2"
