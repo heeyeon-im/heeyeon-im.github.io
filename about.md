@@ -19,4 +19,4 @@ Human behaviors are surprisingly adaptive and goal-driven in diverse contexts. N
 
 Human behaviors are made up of complex patterns of neural activity and dynamics across multiple brain areas. Determining the mechanism by which many thousands or millions of patterns of neural activity are relevant for ever-changing human behavior can appear as an insurmountable challenge. One approach to the solution may be directly mapping a very simple behavior and a specific brain area one by one. However, I strive to adapt an opposite approach by making the task more complex: By studying how the brain solves the same problem in many different contexts and for different action outcomes, I aim to delineate the invariant components of brain dynamics that are critical to the task at hand and the variable components that are rather supplementary. Adaptive and flexible human behaviors may emerge from different interactions between these invariant and variant components of brain dynamics.
 
-[Google Scholar Link](https://scholar.google.com/citations?user=Zq3Z-ioAAAAJ&hl=en)
+[Click here for Google Scholar Link](https://scholar.google.com/citations?user=Zq3Z-ioAAAAJ&hl=en)
