@@ -20,8 +20,8 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Hee Yeon Im"
 description: "Postdoctoral Research Fellow at Massachusetts General Hospital / Harvard Medical School"
-baseurl: "/heeyeon-im.github.io"
-url: "https://stlim0730.github.io"
+baseurl: ""
+url: "https://heeyeon-im.github.io"
 logo: "/images/heeyeon.jpg"
 date_format: "%B %-d, %Y"
 read_time: true
@@ -106,32 +106,32 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
-  picture: /images/michael-rose-photo.jpg
-  email:
-  twitter: mmistakes
-  links:
-    - title: Twitter
-      url: https://twitter.com/mmistakes
-      icon: fab fa-twitter-square
-    - title: Instagram
-      url: https://instagram.com/mmistakes
-      icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/mmistakes
-      icon: fab fa-github-square
+  name: Hee Yeon Im
+  picture: /images/heeyeon.jpg
+  email:him3@mgh.harvard.edu
+  # twitter: mmistakes
+#   links:
+#     - title: Twitter
+#       url: https://twitter.com/mmistakes
+#       icon: fab fa-twitter-square
+#     - title: Instagram
+#       url: https://instagram.com/mmistakes
+#       icon: fab fa-instagram
+#     - title: GitHub
+#       url: https://github.com/mmistakes
+#       icon: fab fa-github-square
 
 # Footer Links
-footer_links:
-  - title: Twitter
-    url: https://twitter.com/mmistakes
-    icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/mmistakes
-    icon: fab fa-instagram
-  - title: GitHub
-    url: https://github.com/mmistakes
-    icon: fab fa-github-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+# footer_links:
+#   - title: Twitter
+#     url: https://twitter.com/mmistakes
+#     icon: fab fa-twitter-square
+#   - title: Instagram
+#     url: https://instagram.com/mmistakes
+#     icon: fab fa-instagram
+#   - title: GitHub
+#     url: https://github.com/mmistakes
+#     icon: fab fa-github-square
+#   - title: Feed
+#     url: atom.xml
+#     icon: fas fa-rss-square
