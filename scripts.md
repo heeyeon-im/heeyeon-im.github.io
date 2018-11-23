@@ -1,9 +1,9 @@
 ---
-title: Scripts
+title: Resources
 layout: page
-permalink: /scripts/
+permalink: /resources/
 nohead: true
 ---
 
-This is my Scripts.
+This is my Resources.
 
