@@ -11,7 +11,7 @@ nohead: true
    
    [Demo flash](../Flash.gif)
    
-   Reference: Encoding attentional states during visuomotor adaptation (Im et al., 2015)
+   Reference: Encoding attentional states during visuomotor adaptation (Im et al., _Journal of Vision_, 2015)
 
 2. 
 
