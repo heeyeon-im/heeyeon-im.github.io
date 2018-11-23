@@ -5,6 +5,7 @@ permalink: /demo/
 nohead: true
 ---
 
-This is my Demo.
+* [[Example of a trial sequence of Experiment in Im et al., 2015]](Flash.gif)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0QmxP64UJuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
