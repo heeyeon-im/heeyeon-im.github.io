@@ -20,7 +20,7 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Hee Yeon Im"
 description: "Postdoctoral Research Fellow at Massachusetts General Hospital / Harvard Medical School"
-baseurl: ""
+baseurl: "https://heeyeon-im.github.io/about/"
 url: "https://heeyeon-im.github.io"
 logo: "/images/heeyeon.jpg"
 date_format: "%B %-d, %Y"
