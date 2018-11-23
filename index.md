@@ -6,7 +6,7 @@ paginate: true
 entries_layout: list
 ---
 
-## Research interests
+### Research interests <br />
 **[General]** Behavioral and neural dynamics of Perception, Cognition, and Action<br />
 
 **[Specific]** Goal-directed action, Visuomotor learning, Global ensemble perception, Social vision, Brain pathways, Hemispheric lateralization<br />
