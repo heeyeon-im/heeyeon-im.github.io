@@ -21,7 +21,7 @@ nohead: true
 * **Im, H.Y.**, & Chong, S.C. (2009). Computation of mean size is based on perceived size. _Attention, Perception, & Psychophysics_, 71, 375-384. [[pdf]](Im, Chong_APP_2009.pdf)
 * Park, K.M., Cha, O., Kim, S., **Im, H.Y.**, Chong, S.C., (2007). The Influence of Depth Context on Blind Spot Filling-in. _Korean Journal of Cognitive Science_, 18, 351-370.
 
-## Manuscripts under review
+## Manuscripts under review (Email me for a preprint)
 * **Im, H.Y.**, & Song, J-H., Paradoxical benefits of attentional distraction for visuomotor adaptation without awareness. 
 * Kveraga, K., **Im, H.Y.**, Ward, N., & Adams, R.B.Jr., Fast saccadic and manual responses to faces presented to the koniocellular visual pathway. 
 * Cushing, C., **Im, H.Y.**, Adams, R.B.Jr., Ward, N., & Kveraga, K., Magnocellular and parvocellular pathway contributions to facial threat cue processing. 
