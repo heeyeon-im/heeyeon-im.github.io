@@ -13,7 +13,7 @@ nohead: true
 
 2. 
 <div class="container">
-  <div class="row">
+  <div class="row" style="margin-bottom: 5px">
     <div class="col-md-3 col-sm-12">
       <a href="../Flash.gif">
         <img src="../images/Flash_logo.jpg" />
@@ -24,7 +24,7 @@ nohead: true
     </div>
   </div>
   
-  <div class="row">
+  <div class="row" style="margin-bottom: 5px">
     <div class="col-md-3 col-sm-12">
       <a href="../Flash.gif">
         <img src="../images/Flash_logo.jpg" />
