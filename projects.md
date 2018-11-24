@@ -99,6 +99,7 @@ This line of research has led me to pursue one of my future research aims of cha
 </div>
 New findings from this research will contribute to better rehabilitation/training programs for patients with motor degenerative diseases and those who need to refine and adjust their perception-action coordination after injuries or surgeries. _This work in this area was recognized and supported by a Center for Vision Research Award at Brown University._
 <br />
+
 **Reaching:**
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
