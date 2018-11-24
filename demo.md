@@ -9,9 +9,9 @@ nohead: true
 (Click the image to see the animation)
 
   [![Demo flash](../images/Flash_logo.jpg)](../Flash.gif)<br />
-  Reference: Encoding attentional states during visuomotor adaptation (Im et al., _Journal of Vision_, 2015)
-
-2. 
+  Reference: Encoding attentional states during visuomotor adaptation (Im et al., _Journal of Vision_, 2015)<br />
+  
+2. Demo 2
 <div class="container">
   <div class="row" style="margin-bottom: 5px">
     <div class="col-md-3 col-sm-12" style="text-align:center">
