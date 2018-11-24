@@ -15,7 +15,9 @@ nohead: true
 <div class="container">
   <div class="row">
     <div class="col-md-3 col-sm-12">
-      [![Demo flash](../images/Flash_logo.jpg)](../Flash.gif)<br />
+      
+      [![Demo flash](../images/Flash_logo.jpg)](../Flash.gif)
+      
     </div>
     <div class="col-md-9 col-sm-12">
       A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks
