@@ -15,28 +15,4 @@ nohead: true
 * Ensemble coding of crowd emotion: Differential hemispheric and visual stream contributions (Im et al., _Nature Human Behav._, 2017)<br/>
 * Cross-cultural effects on ensemble coding of emotion in facial crowds (Im et al., _Culture and Brain_, 2017)
 
-
-
-<div class="container">
-  <div class="row" style="margin-bottom: 5px">
-    <div class="col-md-3 col-sm-12" style="text-align:center">
-      <a href="../Flash.gif">
-        <img src="../images/Flash_logo.jpg" />
-      </a>
-    </div>
-    <div class="col-md-9 col-sm-12">
-      A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasksA dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasksA dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasksA dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasksA dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks
-    </div>
-  </div>
-  
-  <div class="row" style="margin-bottom: 5px">
-    <div class="col-md-3 col-sm-12">
-      <a href="../Flash.gif">
-        <img src="../images/Flash_logo.jpg" width="100%" />
-      </a>
-    </div>
-    <div class="col-md-9 col-sm-12">
-      A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks
-    </div>
-  </div>
-</div>
+**3. 
