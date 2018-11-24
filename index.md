@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+excerpt: "Personal webpage of Hee Yeon Im."
 show_excerpts: false
 paginate: true
 entries_layout: list
