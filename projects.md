@@ -4,9 +4,8 @@ layout: tag
 permalink: /projects/
 nohead: true
 ---
+My primary research interest is to identify and understand fundamental mechanisms of human brain dynamics, which involves cross-talks across different modalities of perceptual, cognitive and action control processes. Since the brain dynamics is manifested in many processing channels and pathways that emerge in parallel during adaptive, goal-driven behaviors, the findings of my research immediately provide clear insights into complex brain-behavior relationships, leading to translational studies to improve the way we interact with, respond to, and control the external world.<br/>
 
-My primary research interest is to identify and understand fundamental mechanisms of human brain dynamics, which involves cross-talks across different modalities of perceptual, cognitive and action control processes. Since the brain dynamics is manifested in many processing channels and pathways that emerge in parallel during adaptive, goal-driven behaviors, the findings of my research immediately provide clear insights into complex brain-behavior relationships, leading to translational studies to improve the way we interact with, respond to, and control the external world.
-<br />
 ## **1. Perceptual flexibility empowers cognitive capabilities and action outcomes.**
 ------
 The visual system can achieve flexibility by extracting two different units of perception – objects and ensembles. This perceptual ability allows the brain to “do more with less”, by using powerful and efficient heuristics that bypass its perceptual and cognitive limitations.
@@ -22,8 +21,7 @@ I have shown that representations of objects and ensembles can be extracted to b
     </div>
   </div>
 </div>
-Thus, these findings provide an insight to richness of our perceptual experiences, resulting from hierarchical coding of different levels and modalities of visual representations. Characterizing how such hierarchical representations fill in the gaps in our perception will also have broad applicability to science and engineering that is impacted by the interface between sighted humans and machines of all types.<br />
-
+Thus, these findings provide an insight to richness of our perceptual experiences, resulting from hierarchical coding of different levels and modalities of visual representations. Characterizing how such hierarchical representations fill in the gaps in our perception will also have broad applicability to science and engineering that is impacted by the interface between sighted humans and machines of all types.<br/>
 **Ensemble representations:** 
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
@@ -37,7 +35,8 @@ Ensemble representation Ensemble representation Ensemble representation
     </div>
   </div>
 </div>
-<br />
+<br/>
+
 ## **2. Action goals guide perception.**
 ------
 Interactions between perception and action are bidirectional. I have found the behavioral and neural evidence suggesting that different social motivations and action goals (e.g., approach and avoidance) shape the way we perceive emotional states and behavioral intent of crowds of people.
@@ -53,9 +52,8 @@ For example, when the observers’ goal was to avoid a potential threat in a soc
     </div>
   </div>
 </div>
- _This work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital._
-
-**Eye movement:**
+ _This work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital._<br/>
+ **Eye movement:**
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
     <div class="col-md-3 col-sm-12">
@@ -68,7 +66,8 @@ Eye movement Eye movement
     </div>
   </div>
 </div>
-<br /> 
+<br/> 
+
 ## **3. Attentional distraction can facilitate perception and action.** 
 ------
 Although it is generally accepted, and usually valid, that distracted attention impairs perceptual and behavioral performance, I have found advantages of distributed (or distracted) attention over focused attention in some perceptual tasks and motor learning. 
@@ -98,8 +97,7 @@ This line of research has led me to pursue one of my future research aims of cha
   </div>
 </div>
 New findings from this research will contribute to better rehabilitation/training programs for patients with motor degenerative diseases and those who need to refine and adjust their perception-action coordination after injuries or surgeries. _This work in this area was recognized and supported by a Center for Vision Research Award at Brown University._
-<br />
-
+<br/>
 **Reaching:**
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
