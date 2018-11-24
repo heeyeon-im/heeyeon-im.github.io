@@ -11,7 +11,7 @@ I'm a Postdoctoral Researcher in Dr. Kestutis Kveraga's [Neurodynamics lab](http
 ### Research interests <br />
 **General:** Behavioral and neural dynamics of Perception, Cognition, and Action<br />
 **Specific:** Goal-directed action, Visuomotor learning, Global ensemble perception, Social vision, Brain pathways, Hemispheric lateralization<br />
-**Methods** Behavioral psychophysics, Neuroimaging (fMRI and MEG), Computational analyses, Eye and hand movement tracking<br />
+**Methods:** Behavioral psychophysics, Neuroimaging (fMRI and MEG), Computational analyses, Eye and hand movement tracking<br />
 
 Human behaviors are surprisingly adaptive and goal-driven in diverse contexts. Not only that, our visual impression of the external world is richly detailed; and the way we respond to each circumstance is effective enough to deal with constant changes across time and context. However, what empirical findings consistently suggest is rather surprising in that we only seem to carry limited capacity of perception, attention and memory. There is such a clear discrepancy that existing models fail to explain given the complexity of human behaviors: How do we execute and control our real-time actions in the dynamic and complex environment, despite limited mental resource? My research aims to provide complementary and novel answers to this conundrum by identifying dynamic relationships between brain and behaviors.
 
