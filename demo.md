@@ -20,7 +20,7 @@ nohead: true
       </a>
     </div>
     <div class="col-md-9 col-sm-12">
-      A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks
+      A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasksA dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasksA dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasksA dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasksA dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks
     </div>
   </div>
   
