@@ -27,7 +27,7 @@ nohead: true
   <div class="row" style="margin-bottom: 5px">
     <div class="col-md-3 col-sm-12">
       <a href="../Flash.gif">
-        <img src="../images/Flash_logo.jpg" />
+        <img src="../images/Flash_logo.jpg" width="100%" />
       </a>
     </div>
     <div class="col-md-9 col-sm-12">
