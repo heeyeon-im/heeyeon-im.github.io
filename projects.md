@@ -9,7 +9,7 @@ My primary research interest is to identify and understand fundamental mechanism
 <br />
 ## **1. Perceptual flexibility empowers cognitive capabilities and action outcomes.**
 ------
-The visual system can achieve flexibility by extracting two different units of perception – objects and ensembles. This perceptual ability allows the brain to “do more with less”, by using powerful and efficient heuristics that bypass its perceptual and cognitive limitations.<br />
+The visual system can achieve flexibility by extracting two different units of perception – objects and ensembles. This perceptual ability allows the brain to “do more with less”, by using powerful and efficient heuristics that bypass its perceptual and cognitive limitations.
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
     <div class="col-md-3 col-sm-12">
