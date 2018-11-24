@@ -8,6 +8,7 @@ nohead: true
 My primary research interest is to identify and understand fundamental mechanisms of human brain dynamics, which involves cross-talks across different modalities of perceptual, cognitive and action control processes. Since the brain dynamics is manifested in many processing channels and pathways that emerge in parallel during adaptive, goal-driven behaviors, the findings of my research immediately provide clear insights into complex brain-behavior relationships, leading to translational studies to improve the way we interact with, respond to, and control the external world.
 
 ### Perceptual flexibility empowers cognitive capabilities and action outcomes.
+The visual system can achieve flexibility by extracting two different units of perception – objects and ensembles. This perceptual ability allows the brain to “do more with less”, by using powerful and efficient heuristics that bypass its perceptual and cognitive limitations.<br />
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
     <div class="col-md-3 col-sm-12">
@@ -16,11 +17,11 @@ My primary research interest is to identify and understand fundamental mechanism
       </a>
     </div>
     <div class="col-md-9 col-sm-12">
-      The visual system can achieve flexibility by extracting two different units of perception – objects and ensembles. This perceptual ability allows the brain to “do more with less”, by using powerful and efficient heuristics that bypass its perceptual and cognitive limitations. I have shown that representations of objects and ensembles can be extracted to be available at the same time, such that they provide complementary information about the scene to be combined into a unified perception. By combining these different levels of representation, the visual system can perceive, and we can remember, the visual scene with greater detail, which can then effectively guide better action outcomes. For example, a visual impression of how objects are spatially clustered in the whole image modulates the way we see, remember, and act on each individual object in the scene. Thus, these findings provide an insight to richness of our perceptual experiences, resulting from hierarchical coding of different levels and modalities of visual representations. Characterizing how such hierarchical representations fill in the gaps in our perception will also have broad applicability to science and engineering that is impacted by the interface between sighted humans and machines of all types.
+I have shown that representations of objects and ensembles can be extracted to be available at the same time, such that they provide complementary information about the scene to be combined into a unified perception. By combining these different levels of representation, the visual system can perceive, and we can remember, the visual scene with greater detail, which can then effectively guide better action outcomes. For example, a visual impression of how objects are spatially clustered in the whole image modulates the way we see, remember, and act on each individual object in the scene. 
     </div>
   </div>
 </div>
-
+Thus, these findings provide an insight to richness of our perceptual experiences, resulting from hierarchical coding of different levels and modalities of visual representations. Characterizing how such hierarchical representations fill in the gaps in our perception will also have broad applicability to science and engineering that is impacted by the interface between sighted humans and machines of all types.<br />
 **Ensemble representations:** 
 
 ### Action goals guide perception.
