@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "Hee Yeon Im"
-description: "him3@mgh.harvard.edu"
+description: "[him3@mgh.harvard.edu]<him3@mgh.harvard.edu>"
 baseurl: ""
 url: "https://heeyeon-im.github.io"
 logo: "/images/heeyeon.jpg"
