@@ -14,7 +14,7 @@ nohead: true
 2. 
 <div class="container">
   <div class="row" style="margin-bottom: 5px">
-    <div class="col-md-3 col-sm-12">
+    <div class="col-md-3 col-sm-12" style="text-align:center">
       <a href="../Flash.gif">
         <img src="../images/Flash_logo.jpg" />
       </a>
