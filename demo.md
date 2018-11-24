@@ -12,7 +12,13 @@ nohead: true
   Reference: Encoding attentional states during visuomotor adaptation (Im et al., _Journal of Vision_, 2015)
 
 2. 
-
-
-
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-3 col-sm-12">
+      [![Demo flash](../images/Flash_logo.jpg)](../Flash.gif)<br />
+    </div>
+    <div class="col-md-9 col-sm-12">
+      A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks
+    </div>
+  </div>
+</div>
