@@ -6,8 +6,9 @@ nohead: true
 ---
 
 My primary research interest is to identify and understand fundamental mechanisms of human brain dynamics, which involves cross-talks across different modalities of perceptual, cognitive and action control processes. Since the brain dynamics is manifested in many processing channels and pathways that emerge in parallel during adaptive, goal-driven behaviors, the findings of my research immediately provide clear insights into complex brain-behavior relationships, leading to translational studies to improve the way we interact with, respond to, and control the external world.
-
+<br />
 ## **1. Perceptual flexibility empowers cognitive capabilities and action outcomes.**
+------
 The visual system can achieve flexibility by extracting two different units of perception – objects and ensembles. This perceptual ability allows the brain to “do more with less”, by using powerful and efficient heuristics that bypass its perceptual and cognitive limitations.<br />
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
@@ -22,7 +23,6 @@ I have shown that representations of objects and ensembles can be extracted to b
   </div>
 </div>
 Thus, these findings provide an insight to richness of our perceptual experiences, resulting from hierarchical coding of different levels and modalities of visual representations. Characterizing how such hierarchical representations fill in the gaps in our perception will also have broad applicability to science and engineering that is impacted by the interface between sighted humans and machines of all types.<br />
-
 **Ensemble representations:** 
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
@@ -36,8 +36,9 @@ Ensemble representation Ensemble representation Ensemble representation
     </div>
   </div>
 </div>
-
+<br />
 ## **2. Action goals guide perception.**
+------
 Interactions between perception and action are bidirectional. I have found the behavioral and neural evidence suggesting that different social motivations and action goals (e.g., approach and avoidance) shape the way we perceive emotional states and behavioral intent of crowds of people.
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
@@ -66,8 +67,9 @@ Eye movement Eye movement
     </div>
   </div>
 </div>
-
+<br /> 
 ## **3. Attentional distraction can facilitate perception and action.** 
+------
 Although it is generally accepted, and usually valid, that distracted attention impairs perceptual and behavioral performance, I have found advantages of distributed (or distracted) attention over focused attention in some perceptual tasks and motor learning. 
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
