@@ -5,9 +5,9 @@ permalink: /demo/
 nohead: true
 ---
 
-**1. A dual-task paradigm of reaching and RSVP (rapid serial visual presentation) tasks<br/>**
-  References: Encoding attentional states during visuomotor adaptation (Im et al., _Journal of Vision_, 2015)<br/>
-              Long lasting attentional-context dependent visuomotor memory (Im et al., _Journal of Experimental Psychology: Human Perception & Performance_, 2016)<br/>
+**1. A dual-task paradigm of reaching and rapid serial visual presentation (RSVP) tasks<br/>**
+  * Encoding attentional states during visuomotor adaptation (Im et al., _JOV_, 2015)<br/>
+  * Long lasting attentional-context dependent visuomotor memory (Im et al., _JEP: HPP_, 2016)<br/>
               
   (Click the image to see the animation.)<br/> 
   [![Demo flash](../images/Flash_logo.jpg)](../Flash.gif)<br />
