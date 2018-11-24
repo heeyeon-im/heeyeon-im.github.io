@@ -38,7 +38,6 @@ Ensemble representation Ensemble representation Ensemble representation
   </div>
 </div>
 <br />
-
 ## **2. Action goals guide perception.**
 ------
 Interactions between perception and action are bidirectional. I have found the behavioral and neural evidence suggesting that different social motivations and action goals (e.g., approach and avoidance) shape the way we perceive emotional states and behavioral intent of crowds of people.
@@ -70,7 +69,6 @@ Eye movement Eye movement
   </div>
 </div>
 <br /> 
-
 ## **3. Attentional distraction can facilitate perception and action.** 
 ------
 Although it is generally accepted, and usually valid, that distracted attention impairs perceptual and behavioral performance, I have found advantages of distributed (or distracted) attention over focused attention in some perceptual tasks and motor learning. 
