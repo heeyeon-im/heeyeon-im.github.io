@@ -6,7 +6,7 @@ paginate: true
 entries_layout: list
 ---
 ### About <br />
-I'm a Postdoctoral Researcher in Dr. Kestutis Kveraga's [Neurodynamics lab]( at the Massachusetts General Hospital and Harvard Medical School. I received my Ph.D. from Johns Hopkins University ([Department of Psychological and Brain Sciences](https://pbs.jhu.edu/)), working with Dr. [Justin Halberda](http://www.halberdalab.net/). Before coming to boston, I also worked with Dr. [Joo-Hyun Song](http://research.clps.brown.edu/songlab/) in the [Department of Cognitive, Linguistic & Psychological Sciences](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home) at Brown University.
+I'm a Postdoctoral Researcher in Dr. Kestutis Kveraga's [Neurodynamics lab](http://www.kveragalab.org/index.html) at the Massachusetts General Hospital and Harvard Medical School. I received my Ph.D. from Johns Hopkins University ([Department of Psychological and Brain Sciences](https://pbs.jhu.edu/)), working with Dr. [Justin Halberda](http://www.halberdalab.net/). Before coming to boston, I also worked with Dr. [Joo-Hyun Song](http://research.clps.brown.edu/songlab/) in the [Department of Cognitive, Linguistic & Psychological Sciences](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home) at Brown University.
 
 ### Research interests <br />
 **General:** Behavioral and neural dynamics of Perception, Cognition, and Action<br />
