@@ -13,6 +13,7 @@ need to store individuating information for most everyday purposes and needs. By
 
 * **Ensemble coding as a powerful heuristic that bypasses cognitive limitations of the visual system**
 
+[working on here..]
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
     <div class="col-md-3 col-sm-12">
