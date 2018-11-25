@@ -11,7 +11,7 @@ The visual system reorganizes complex visual scenes using efficient strategies t
 birds, the cars in a parking lot, for example, are seen as groups of similar but not identical objects about which we may not
 need to store individuating information for most everyday purposes and needs. By exploiting the natural redundancy and regularity, we can represent the structure and process copious amounts of information in a succinct and elegant manner. My research has shown that such perceptual ability to represent ensemble statistics from complex visual scenes can allow the brain to "do more with less" in order to better understand and interact with the visual environment. Ensemble perception is a crucial mechanism for coping with the limitations on visual processing, enhancing our cognitive abilities (e.g., remembering or making decisions) and action outcomes in many ways. 
 
-* **Ensemble coding** as a powerful heuristic that bypasses perceptual and cognitive limitations of the visual system. 
+* **Ensemble coding as a powerful heuristic that bypasses perceptual and cognitive limitations of the visual system**
 
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
