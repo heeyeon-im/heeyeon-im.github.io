@@ -15,7 +15,6 @@ need to store individuating information for most everyday purposes and needs. By
 [Figures - workng on Figures here] 
 
 * **Ensemble coding as a powerful heuristic that bypasses cognitive limitations of the visual system**
-
 [Text - working on Text here]
 
 <div class="container"> 
@@ -31,6 +30,10 @@ I have shown that representations of objects and ensembles can be extracted to b
   </div>
 </div>
 Thus, these findings provide an insight to richness of our perceptual experiences, resulting from hierarchical coding of different levels and modalities of visual representations. Characterizing how such hierarchical representations fill in the gaps in our perception will also have broad applicability to science and engineering that is impacted by the interface between sighted humans and machines of all types.<br/>
+
+* **Ensemble representation enhances perceptual flexibility**
+[Figure and Text- work on these]
+
 
 ## **2. Action goals guide perception.**
 ------
