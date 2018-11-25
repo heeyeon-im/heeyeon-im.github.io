@@ -7,8 +7,12 @@ nohead: true
 My research projects aim to identify and understand how brain dynamics guide adaptive behaviors in human. Human behaviors are made up of cross-talks across different modalities of perceptual, cognitive and action control processes. Since such cross-talks are manifested in many different processing channels and pathways that emerge in parallel, the findings of my research immediately provide clear insights into complex brain-behavior relationships across time and context, leading to translational studies to improve the way we interact with, respond to, and control the external world.<br/>
 
 ## **1. Perceptual flexibility empowers cognitive capabilities and action outcomes.**
-------
-The visual system can achieve flexibility by extracting two different units of perception – objects and ensembles. This perceptual ability allows the brain to “do more with less”, by using powerful and efficient heuristics that bypass its perceptual and cognitive limitations.
+The visual system reorganizes complex visual scenes using efficient strategies to form coherent and concise representations, rather than passively receiving all (millions of) bits of visual information hitting our retinas at any given moment. One powerful heuristic is to represent sets of similar objects as a group or **ensemble** using summary statistics such as mean, numerosity, and variance, etc. Ensemble perception makes great intuitive sense - If we look around, we always find some redundancy and regularity in the real world images and scenes. The trees in a forest, the grass in a field, a flock of
+birds, the cars in a parking lot, for example, are seen as groups of similar but not identical objects about which we may not
+need to store individuating information for most everyday purposes and needs. By exploiting the natural redundancy and regularity, we can represent the structure and process copious amounts of information in a succinct and elegant manner. My research has shown that such perceptual ability to represent ensemble statistics from complex visual scenes can allow the brain to "do more with less" in order to better understand and interact with the visual environment. Ensemble perception is a crucial mechanism for coping with the limitations on visual processing, enhancing our cognitive abilities (e.g., remembering or making decisions) and action outcomes in many ways. 
+
+* **Ensemble coding** as a powerful heuristic that bypasses perceptual and cognitive limitations of the visual system. 
+
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
     <div class="col-md-3 col-sm-12">
@@ -22,20 +26,6 @@ I have shown that representations of objects and ensembles can be extracted to b
   </div>
 </div>
 Thus, these findings provide an insight to richness of our perceptual experiences, resulting from hierarchical coding of different levels and modalities of visual representations. Characterizing how such hierarchical representations fill in the gaps in our perception will also have broad applicability to science and engineering that is impacted by the interface between sighted humans and machines of all types.<br/>
-**Ensemble representations:** 
-<div class="container"> 
-  <div class="row" style="margin-bottom: 5px">
-    <div class="col-md-3 col-sm-12">
-      <a href="../Flash.gif">
-        <img src="../images/Flash_logo.jpg" width="100%" />
-      </a>
-    </div>
-    <div class="col-md-9 col-sm-12">
-Ensemble representation Ensemble representation Ensemble representation
-    </div>
-  </div>
-</div>
-<br/>
 
 ## **2. Action goals guide perception.**
 ------
