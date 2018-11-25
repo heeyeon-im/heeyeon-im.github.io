@@ -4,7 +4,7 @@ layout: tag
 permalink: /projects/
 nohead: true
 ---
-My primary research interest is to identify and understand fundamental mechanisms of human brain dynamics, which involves cross-talks across different modalities of perceptual, cognitive and action control processes. Since the brain dynamics is manifested in many processing channels and pathways that emerge in parallel during adaptive, goal-driven behaviors, the findings of my research immediately provide clear insights into complex brain-behavior relationships, leading to translational studies to improve the way we interact with, respond to, and control the external world.<br/>
+My primary research interest is to identify and understand how brain dynamics guide adaptive behaviors in human. Brain dynamics during human behaviors involves continuous cross-talks across different modalities of perceptual, cognitive and action control processes. Since such cross-talks are manifested in many different processing channels and pathways that emerge in parallel, the findings of my research immediately provide clear insights into complex brain-behavior relationships across time and context, leading to translational studies to improve the way we interact with, respond to, and control the external world.<br/>
 
 ## **1. Perceptual flexibility empowers cognitive capabilities and action outcomes.**
 ------
