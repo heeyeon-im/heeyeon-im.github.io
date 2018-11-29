@@ -12,9 +12,7 @@ The visual system reorganizes complex visual scenes using efficient strategies f
 <div class="container"> 
   <div class="row" style="margin-bottom: 5px">
     <div class="col-md-3 col-sm-12">
-      <a href="../Flash.gif">
-        <img src="../images/Image_visualworld.jpg" width="100%" />
-      </a>
+        <img src="../images/Image_visualworld.jpg" width="130%" />
     </div>
     <div class="col-md-9 col-sm-12">
 Ensemble perception makes great intuitive sense. If we look around, we always find some redundancy and regularity in the real world images and scenes: Trees in a forest, blueberries in a bush, and buildings in a city, for example, are often seen as groups of similar but not identical objects. For most everyday needs, we may not need to store individuating information from these scenes. We can instead represent structures, patterns, and gists in a succinct and compact manner. 
