@@ -16,5 +16,6 @@ Since human behaviors are made up of complex patterns of neural activity and dyn
 **General:** Behavioral and neural dynamics of Perception, Cognition, and Action<br/>
 **Specific:** Goal-directed action, Visuomotor learning, Global ensemble perception, Social vision, Brain pathways, Hemispheric lateralization<br/>
 **Methods:** Behavioral psychophysics, Neuroimaging (fMRI and MEG), Computational analyses, Eye and hand movement tracking <br/>
-* [[Click here for more information on my research projects]](https://heeyeon-im.github.io/projects/)
+* [[Click here to read more on my research projects]](https://heeyeon-im.github.io/projects/)
+* [[Click here to see demos of my experimental paradigms]](https://heeyeon-im.github.io/projects/)
 * [[Click here for Google Scholar Link]](https://scholar.google.com/citations?user=Zq3Z-ioAAAAJ&hl=en)
