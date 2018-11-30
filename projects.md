@@ -29,8 +29,6 @@ __* Ensemble perception as a strategy for coping with limitations on cognitive a
     <div class="col-md-10 col-sm-12">
         <img src="../images/Meansize2.jpg" width="80%" />
     </div>
-    <div class="col-md-0 col-sm-12">     
-    </div>
   </div>
 </div>
 
@@ -39,10 +37,10 @@ __* Ensemble perception as a strategy for coping with limitations on cognitive a
 __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles__
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
-    <div class="col-md-12 col-sm-12">
-        <img src="../images/hierarchical_coding2.jpg" width="80%" alt="centered image" />
-    </div>
-    <div class="col-md-0 col-sm-12">
+    <div class="col-md-2 col-sm-12">
+    </div>    
+    <div class="col-md-10 col-sm-12">
+        <img src="../images/hierarchical_coding2.jpg" width="80%" />
     </div>
   </div>
 </div>
