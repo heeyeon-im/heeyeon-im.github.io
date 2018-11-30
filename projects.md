@@ -4,6 +4,8 @@ layout: tag
 permalink: /projects/
 nohead: true
 ---
+(I am currently working on this page..)
+
 My research projects aim to identify and understand how brain dynamics guide adaptive behaviors in human. Human behaviors are made up of cross-talks across different modalities of perceptual, cognitive and action control processes. Since such cross-talks are manifested in many different processing channels and pathways that emerge in parallel, the findings of my research immediately provide clear insights into complex brain-behavior relationships across time and context, leading to translational studies to improve the way we interact with, respond to, and control the external world.<br/>
 Specific contributions of my research projects in the field highlight interactions between object-based and ensemble-based representations, between selective and non-selective pathways, and between perceptual and action control processes. My research suggests that goal-driven behaviors are effectively supported by multiple streams of parallel processes across perception, cognition, and action. This stands in contrast to traditional theories of serial non-overlapping processing stages across perception, cognition, and action. Instead of simplifying that action is the aftermath of cognition or perception, a new model needs to include effects of continuous interactions across perception, cognition, and action control processes, which can be observed by measuring dynamic connections between brain and behavior. 
 
