@@ -56,7 +56,7 @@ Moreover, I also found that the way human observers grouped the dots into sets (
 <div class="container"> 
   <div class="row" style="margin-bottom: 0px">
     <div class="col-md-4 col-sm-12">
-        <img src="../images/grouping_fig2.jpg" width="100%" />
+        <img src="../images/grouping_fig3.jpg" width="100%" />
     </div>
     <div class="col-md-8 col-sm-12">
 Although Images A and B both have 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image A (less clustered) being perceived as having more dots than Image B (more clustered). My clustering algorithm could accurately predict the degree to which human observers underestimated the number of individual dots in the more clustered image (e.g., Image B). The findings of this study provides an example of how representations of "sets" and "individual objects" are extracted from the same image to interact with each other: The way dots are grouped and clustered modulates visual impression of number of the individuals, just as the way individuals are positioned modulates the way they are grouped.
