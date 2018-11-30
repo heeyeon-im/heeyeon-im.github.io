@@ -39,6 +39,7 @@ I have shown that the ease of parsing and segmenting individual dots from an ima
 <br/>
 
 __* Hierarchical coding for representational flexiblity: Objects and Ensembles__
+The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects and ensembles allows the visual system to acheive perceptual flexibility.
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">    
     <div class="col-md-7 col-sm-12">
