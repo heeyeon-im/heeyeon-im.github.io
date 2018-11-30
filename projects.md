@@ -24,9 +24,9 @@ Ensemble perception makes great intuitive sense. If we look around, we always fi
 __* Ensemble perception as a strategy for coping with limitations on cognitive abilities__ 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
-    <div class="col-md-0 col-sm-12">     
+    <div class="col-md-1 col-sm-12">     
     </div>    
-    <div class="col-md-12 col-sm-12">
+    <div class="col-md-11 col-sm-12">
         <img src="../images/Meansize2.jpg" width="90%" />
     </div>
   </div>
@@ -38,9 +38,9 @@ I have shown that
 __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles__
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
-    <div class="col-md-0 col-sm-12">
+    <div class="col-md-1 col-sm-12">
     </div>    
-    <div class="col-md-12 col-sm-12">
+    <div class="col-md-11 col-sm-12">
         <img src="../images/hierarchical_coding2.jpg" width="90%" />
     </div>
   </div>
