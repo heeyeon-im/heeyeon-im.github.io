@@ -10,7 +10,7 @@ My research projects aim to identify and understand how brain dynamics guide ada
 The visual system reorganizes complex visual scenes using efficient strategies for forming coherent and concise representations, rather than passively receiving all (millions of) bits of visual information hitting our retinas at any given moment. One powerful heuristic for this is to represent sets of similar objects as a group or **_ensemble_** using summary statistics such as mean, numerosity, and variance, etc. 
 
 <div class="container"> 
-  <div class="row" style="margin-bottom: 1px">
+  <div class="row" style="margin-bottom: 0px">
     <div class="col-md-4 col-sm-12">
         <img src="../images/Image_visualworld.jpg" width="120%" />
     </div>
@@ -22,7 +22,7 @@ Ensemble perception makes great intuitive sense. If we look around, we always fi
 
 ### * Ensemble perception as a strategy for coping with limitations on cognitive abilities 
 <div class="container"> 
-  <div class="row" style="margin-bottom: 1px">
+  <div class="row" style="margin-bottom: 0px">
     <div class="col-md-4 col-sm-12">
         <img src="../images/grouping_fig1.jpg" width="100%" />
     </div>
