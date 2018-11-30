@@ -25,6 +25,31 @@ __* Ensemble perception as a strategy for coping with limitations on cognitive a
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
     <div class="col-md-4 col-sm-12">
+        <img src="../images/Meansize1.jpg" width="100%" />
+    </div>
+    <div class="col-md-8 col-sm-12">
+Im & Chong, Im, Park, & Chong        
+    </div>
+  </div>
+</div>
+<br/>
+
+__* Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles__
+<div class="container"> 
+  <div class="row" style="margin-bottom: 4px">
+    <div class="col-md-4 col-sm-12">
+        <img src="../images/hierarchical_coding.jpg" width="100%" />
+    </div>
+    <div class="col-md-8 col-sm-12">
+Hierarchical coding        
+    </div>
+  </div>
+</div>
+<br/>
+
+<div class="container"> 
+  <div class="row" style="margin-bottom: 4px">
+    <div class="col-md-4 col-sm-12">
         <img src="../images/grouping_fig1.jpg" width="100%" />
     </div>
     <div class="col-md-8 col-sm-12">
@@ -35,8 +60,5 @@ Moreover, I also found that the way human observers grouped the dots into sets (
 </div>
 Although Images A and B both have 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image A (less clustered) being perceived as having more dots than Image B (more clustered). My clustering algorithm could accurately predict the degree to which human observers underestimated the number of individual dots in the more clustered image (e.g., Image B).
 <br/>
-
-__* Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles__
-
 
 
