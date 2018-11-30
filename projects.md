@@ -26,7 +26,7 @@ __* Ensemble perception as a strategy for coping with limitations on cognitive a
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
     <div class="col-md-12 col-sm-12">
-        <img src="../images/Meansize2.jpg" width="60%" />
+        <img src="../images/Meansize2.jpg" width="50%" />
     </div>
     <div class="col-md-0 col-sm-12">     
     </div>
