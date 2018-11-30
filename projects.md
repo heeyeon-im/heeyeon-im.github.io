@@ -27,11 +27,11 @@ __* Ensemble perception as a strategy for coping with limitations on cognitive a
     <div class="col-md-12 col-sm-12">
         <img src="../images/Meansize1.jpg" width="100%" />
     </div>
-    <div class="col-md-0 col-sm-12">
-Im & Chong, Im, Park, & Chong        
+    <div class="col-md-0 col-sm-12">     
     </div>
   </div>
 </div>
+Im & Chong, Im, Park, & Chong   
 <br/>
 
 __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles__
