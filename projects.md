@@ -42,7 +42,7 @@ __* Hierarchical coding for representational flexiblity: Objects and Ensembles__
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
     <div class="col-md-4 col-sm-12">
-        <img src="../images/hierarchical_coding3.jpg" width="90%" />
+        <img src="../images/hierarchical_coding3.jpg" width="100%" />
     </div>
     <div class="col-md-8 col-sm-12">
 The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects, sets, and ensembles allows the visual system to acheive perceptual flexibility.       
