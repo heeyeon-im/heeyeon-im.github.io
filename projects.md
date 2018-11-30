@@ -37,10 +37,10 @@ Im & Chong, Im, Park, & Chong
 __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles__
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
-    <div class="col-md-11 col-sm-12">
-        <img src="../images/hierarchical_coding.jpg" width="100%" />
+    <div class="col-md-12 col-sm-12">
+        <img src="../images/hierarchical_coding2.jpg" width="100%" />
     </div>
-    <div class="col-md-1 col-sm-12">
+    <div class="col-md-0 col-sm-12">
 
     </div>
   </div>
