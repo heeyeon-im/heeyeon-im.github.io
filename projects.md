@@ -37,20 +37,22 @@ Im & Chong, Im, Park, & Chong
 __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles__
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
-    <div class="col-md-12 col-sm-12">
+    <div class="col-md-11 col-sm-12">
         <img src="../images/hierarchical_coding.jpg" width="100%" />
     </div>
-    <div class="col-md-0 col-sm-12">
-Hierarchical coding        
+    <div class="col-md-1 col-sm-12">
+
     </div>
   </div>
 </div>
+<br/>
+Hierarchical coding        
 <br/>
 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
     <div class="col-md-4 col-sm-12">
-        <img src="../images/grouping_fig1.jpg" width="100%" />
+        <img src="../images/grouping_fig2.jpg" width="100%" />
     </div>
     <div class="col-md-8 col-sm-12">
 In one of my study (Im, Zhong, & Halberda, 2016, see Demo here), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
