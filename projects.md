@@ -27,7 +27,7 @@ __* Ensemble perception as a strategy for coping with limitations on cognitive a
     <div class="col-md-0 col-sm-12">     
     </div>    
     <div class="col-md-12 col-sm-12">
-        <img src="../images/Meansize2.jpg" width="100%" />
+        <img src="../images/Meansize2.jpg" width="95%" />
     </div>
   </div>
 </div>
@@ -41,11 +41,11 @@ __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ense
     <div class="col-md-0 col-sm-12">
     </div>    
     <div class="col-md-12 col-sm-12">
-        <img src="../images/hierarchical_coding2.jpg" width="100%" />
+        <img src="../images/hierarchical_coding2.jpg" width="95%" />
     </div>
   </div>
 </div>
-<br/>      
+
 In one of my study (Im, Zhong, & Halberda, 2016, see Demo here), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
 Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots.    
 
