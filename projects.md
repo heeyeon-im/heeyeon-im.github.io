@@ -7,6 +7,7 @@ nohead: true
 (I am currently working on this page..)
 
 My research projects aim to identify and understand how brain dynamics guide adaptive behaviors in human. Human behaviors are made up of cross-talks across different modalities of perceptual, cognitive and action control processes. Since such cross-talks are manifested in many different processing channels and pathways that emerge in parallel, the findings of my research immediately provide clear insights into complex brain-behavior relationships across time and context, leading to translational studies to improve the way we interact with, respond to, and control the external world.<br/>
+
 Specific contributions of my research projects in the field highlight interactions between object-based and ensemble-based representations, between selective and non-selective pathways, and between perceptual and action control processes. My research suggests that goal-driven behaviors are effectively supported by multiple streams of parallel processes across perception, cognition, and action. This stands in contrast to traditional theories of serial non-overlapping processing stages across perception, cognition, and action. Instead of simplifying that action is the aftermath of cognition or perception, a new model needs to include effects of continuous interactions across perception, cognition, and action control processes, which can be observed by measuring dynamic connections between brain and behavior. 
 
 ## **1. Perceptual flexibility empowers cognitive capabilities and action outcomes.**
@@ -48,7 +49,9 @@ __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ense
   </div>
 </div>
 
-The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects, sets, and ensembles allows the visual system to acheive perceptual flexibility. In one of my study (Im, Zhong, & Halberda, 2016, see Demo here), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
+The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects, sets, and ensembles allows the visual system to acheive perceptual flexibility. 
+
+In one of my study (Im, Zhong, & Halberda, 2016, see Demo here), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
 Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots.    
 
 <div class="container"> 
