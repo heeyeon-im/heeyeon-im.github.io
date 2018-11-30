@@ -64,3 +64,4 @@ Although Images A and B both have 29 dots, the estimated number of individual do
   </div>
 </div>
 <br/>
+## **2. Action goals guide perception.**
