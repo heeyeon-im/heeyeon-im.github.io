@@ -20,7 +20,6 @@ Ensemble perception makes great intuitive sense. If we look around, we always fi
     </div>
   </div>
 </div>
-<br/>
 
 __* Ensemble perception as a strategy for coping with limitations on cognitive abilities__ 
 <div class="container"> 
@@ -45,7 +44,7 @@ __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ense
     </div>
   </div>
 </div>
-      
+<br/>      
 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
