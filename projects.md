@@ -19,6 +19,7 @@ Ensemble perception makes great intuitive sense. If we look around, we always fi
     </div>
   </div>
 </div>
+<br/>
 
 ### * Ensemble perception as a strategy for coping with limitations on cognitive abilities 
 <div class="container"> 
