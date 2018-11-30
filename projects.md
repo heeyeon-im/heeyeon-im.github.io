@@ -25,7 +25,7 @@ __* Ensemble perception as a strategy for coping with limitations on cognitive a
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
     <div class="col-md-4 col-sm-12">
-        <img src="../images/Meansize3.jpg" width="100%" />
+        <img src="../images/Meansize4.jpg" width="100%" />
     </div>
     <div class="col-md-8 col-sm-12">
 I have shown that the ease of parsing and segmenting individual dots from an image to form into sets - red, blue, yellow, and green sets- influenced how many sets we can select and store in our memory (Im & Chong, 2014; Im, Park, & Chong, 2015). In these studies, 
