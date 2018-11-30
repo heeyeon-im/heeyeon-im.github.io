@@ -38,7 +38,7 @@ __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ense
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
     <div class="col-md-12 col-sm-12">
-        <img src="../images/hierarchical_coding2.jpg" width="80%" />
+        <img src="../images/hierarchical_coding2.jpg" width="80%" alt="centered image" />
     </div>
     <div class="col-md-0 col-sm-12">
     </div>
