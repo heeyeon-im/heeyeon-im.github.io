@@ -54,7 +54,7 @@ The findings that the ease of parsing sets from an image facilitated attentional
 In one of my study (Im, Zhong, & Halberda, 2016, see Demo here), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
 Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots.    
 <div class="container"> 
-  <div class="row" style="margin-bottom: 0px">
+  <div class="row" style="margin-bottom: 1px">
     <div class="col-md-4 col-sm-12">
         <img src="../images/grouping_fig3.jpg" width="100%" />
     </div>
