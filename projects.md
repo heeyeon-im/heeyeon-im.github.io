@@ -28,8 +28,8 @@ Ensemble perception makes great intuitive sense. If we look around, we always fi
         <img src="../images/grouping_fig1.jpg" width="100%" />
     </div>
     <div class="col-md-8 col-sm-12">
-In one of my study (Im, Zhong, & Halberda, 2016), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
-Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots. For example,     
+In one of my study (Im, Zhong, & Halberda, 2016, see Demo here), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
+Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots. Although Images A and B both have 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image A (less clustered) being perceived as having more dots than Image B (more clustered). My clustering algorithm could accurately predict the degree to which human observers underestimated the number of individual dots in the more clustered image (e.g., Image B).        
     </div>
   </div>
 </div>
