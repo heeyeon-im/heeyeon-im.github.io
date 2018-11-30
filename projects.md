@@ -41,22 +41,21 @@ I have shown that the ease of parsing and segmenting individual dots from an ima
 __* Hierarchical coding for representational flexiblity: Objects and Ensembles__
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
-    <div class="col-md-1 col-sm-12">
-    </div>    
-    <div class="col-md-11 col-sm-12">
-        <img src="../images/hierarchical_coding3.jpg" width="90%" />
+    <div class="col-md-4 col-sm-12">
+        <img src="../images/hierarchical_coding3.jpg" width="100%" />
     </div>
+    <div class="col-md-8 col-sm-12">
+The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects, sets, and ensembles allows the visual system to acheive perceptual flexibility.       
+    </div>     
   </div>
 </div>
-
-The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects, sets, and ensembles allows the visual system to acheive perceptual flexibility. 
-
+<br/>
 In one of my study (Im, Zhong, & Halberda, 2016, see Demo here), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
 Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots.    
 <div class="container"> 
   <div class="row" style="margin-bottom: 0px">
     <div class="col-md-4 col-sm-12">
-        <img src="../images/grouping_fig2.jpg" width="110%" />
+        <img src="../images/grouping_fig3.jpg" width="100%" />
     </div>
     <div class="col-md-8 col-sm-12">
 Although Images A and B both have 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image A (less clustered) being perceived as having more dots than Image B (more clustered). My clustering algorithm could accurately predict the degree to which human observers underestimated the number of individual dots in the more clustered image (e.g., Image B). The findings of this study provides an example of how representations of "sets" and "individual objects" are extracted from the same image to interact with each other: The way dots are grouped and clustered modulates visual impression of number of the individuals, just as the way individuals are positioned modulates the way they are grouped.
