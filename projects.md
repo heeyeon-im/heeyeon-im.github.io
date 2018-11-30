@@ -31,7 +31,7 @@ __* Ensemble perception as a strategy for coping with limitations on cognitive a
     </div>
   </div>
 </div>
-Im & Chong, Im, Park, & Chong   
+
 <br/>
 
 __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles__
@@ -44,7 +44,7 @@ __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ense
     </div>
   </div>
 </div>
-Hierarchical coding        
+      
 
 
 <div class="container"> 
