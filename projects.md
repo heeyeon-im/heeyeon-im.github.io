@@ -21,7 +21,7 @@ Ensemble perception makes great intuitive sense. If we look around, we always fi
 </div>
 <br/>
 
-### * Ensemble perception as a strategy for coping with limitations on cognitive abilities 
+__* Ensemble perception as a strategy for coping with limitations on cognitive abilities__ 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
     <div class="col-md-4 col-sm-12">
@@ -36,7 +36,7 @@ Moreover, I also found that the way human observers grouped the dots into sets (
 Although Images A and B both have 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image A (less clustered) being perceived as having more dots than Image B (more clustered). My clustering algorithm could accurately predict the degree to which human observers underestimated the number of individual dots in the more clustered image (e.g., Image B).
 <br/>
 
-### * Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles
+__* Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles__
 
 
 
