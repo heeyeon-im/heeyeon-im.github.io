@@ -28,10 +28,10 @@ Ensemble perception makes great intuitive sense. If we look around, we always fi
 __* Ensemble perception as a strategy for coping with limitations on cognitive abilities__ 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">    
-    <div class="col-md-4 col-sm-12">
+    <div class="col-md-3 col-sm-12">
         <img src="../images/Meansize4.jpg" width="100%" />
     </div>
-    <div class="col-md-8 col-sm-12">
+    <div class="col-md-9 col-sm-12">
 I have shown that the ease of parsing and segmenting individual dots from an image to form into sets - red, blue, yellow, and green sets- influenced how many sets we can select and store in our memory (Im & Chong, 2014; Im, Park, & Chong, 2015). In these studies, 
     </div>    
   </div>
@@ -42,10 +42,10 @@ __* Hierarchical coding for representational flexiblity: Objects and Ensembles__
 The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects and ensembles allows the visual system to acheive perceptual flexibility.
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">    
-    <div class="col-md-7 col-sm-12">
+    <div class="col-md-6 col-sm-12">
         <img src="../images/hierarchical_coding3.jpg" width="90%" />
     </div> 
-    <div class="col-md-5 col-sm-12">
+    <div class="col-md-6 col-sm-12">
 The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects and ensembles allows the visual system to acheive perceptual flexibility.       
     </div>     
   </div>
