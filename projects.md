@@ -24,10 +24,10 @@ Ensemble perception makes great intuitive sense. If we look around, we always fi
 __* Ensemble perception as a strategy for coping with limitations on cognitive abilities__ 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
-    <div class="col-md-2 col-sm-12">     
+    <div class="col-md-1 col-sm-12">     
     </div>    
-    <div class="col-md-10 col-sm-12">
-        <img src="../images/Meansize2.jpg" width="90%" />
+    <div class="col-md-11 col-sm-12">
+        <img src="../images/Meansize2.jpg" width="100%" />
     </div>
   </div>
 </div>
@@ -37,14 +37,16 @@ __* Ensemble perception as a strategy for coping with limitations on cognitive a
 __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ensembles__
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
-    <div class="col-md-2 col-sm-12">
+    <div class="col-md-1 col-sm-12">
     </div>    
-    <div class="col-md-10 col-sm-12">
-        <img src="../images/hierarchical_coding2.jpg" width="90%" />
+    <div class="col-md-11 col-sm-12">
+        <img src="../images/hierarchical_coding2.jpg" width="100%" />
     </div>
   </div>
 </div>
 <br/>      
+In one of my study (Im, Zhong, & Halberda, 2016, see Demo here), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
+Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots.    
 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
@@ -52,12 +54,11 @@ __* Hierarchical coding for representational flexiblity: Objects, Sets, and Ense
         <img src="../images/grouping_fig2.jpg" width="100%" />
     </div>
     <div class="col-md-8 col-sm-12">
-In one of my study (Im, Zhong, & Halberda, 2016, see Demo here), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
-Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots.        
+Although Images A and B both have 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image A (less clustered) being perceived as having more dots than Image B (more clustered). My clustering algorithm could accurately predict the degree to which human observers underestimated the number of individual dots in the more clustered image (e.g., Image B). The findings of this study provides an example of how representations of "sets" and "individual objects" are extracted from the same image to interact with each other: _The way dots are grouped and clustered modulates visual impression of number of the individuals, just as the way individuals are positioned modulates the way they are grouped._      
     </div>
   </div>
 </div>
-Although Images A and B both have 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image A (less clustered) being perceived as having more dots than Image B (more clustered). My clustering algorithm could accurately predict the degree to which human observers underestimated the number of individual dots in the more clustered image (e.g., Image B). The findings of this study provides an example of how representations of "sets" and "individual objects" are extracted from the same image to interact with each other: _The way dots are grouped and clustered modulates visual impression of number of the individuals, just as the way individuals are positioned modulates the way they are grouped._   
+ 
 <br/>
 
 
