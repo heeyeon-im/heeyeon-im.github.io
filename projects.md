@@ -13,7 +13,7 @@ The visual system reorganizes complex visual scenes using strategies for forming
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
     <div class="col-md-4 col-sm-12">
-        <img src="../images/Image_visualworld.jpg" width="110%" />
+        <img src="../images/Image_visualworld.jpg" width="80%" />
     </div>
     <div class="col-md-8 col-sm-12">
 Ensemble perception makes great intuitive sense. If we look around, we always find some redundancy and regularity in the real world images: Blueberries in a bush, trees in a forest, and buildings in a city, for example, are often seen as groups of similar but not identical objects. For most everyday needs, we may not need to store individuating information from these scenes. We can instead represent structures, patterns, and gists in a succinct and compact manner. Such perceptual ability to extract ensemble representations from complex scenes can allow our brain to "do more with less" and better understand and interact with visual environments. One line of my research program investigates how our brain achieves this feat and how ensemble perception empowers our perceptual, cognitive, and action control abilities in many different ways.
@@ -38,7 +38,7 @@ Say you try to remember the different colors of six disks in a visual array and 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">    
     <div class="col-md-4 col-sm-12">
-        <img src="../images/Meansize4.jpg" width="90%" />
+        <img src="../images/Meansize4.jpg" width="80%" />
     </div>
     <div class="col-md-8 col-sm-12">
 I have shown that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed (Im & Chong, 2014; Im, Park, & Chong, 2015). This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. This is somewhat similar to using a "chunking" or "binding" approach for verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). Likewise, ensemble perception allows us to compress information of individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.    
@@ -52,7 +52,7 @@ This finding illustrates an example of how a visual scene can be represented hie
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">    
     <div class="col-md-6 col-sm-12">
-        <img src="../images/hierarchical_coding3.jpg" width="90%" />
+        <img src="../images/hierarchical_coding3.jpg" width="80%" />
     </div> 
     <div class="col-md-6 col-sm-12">
 The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects and ensembles allows the visual system to acheive perceptual flexibility.       
@@ -65,7 +65,7 @@ Moreover, I also found that the way human observers grouped the dots into sets (
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
     <div class="col-md-4 col-sm-12">
-        <img src="../images/grouping_fig3.jpg" width="100%" />
+        <img src="../images/grouping_fig3.jpg" width="90%" />
     </div>
     <div class="col-md-8 col-sm-12">
 Although Images A and B both have 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image A (less clustered) being perceived as having more dots than Image B (more clustered). My clustering algorithm could accurately predict the degree to which human observers underestimated the number of individual dots in the more clustered image (e.g., Image B). The findings of this study provides an example of how representations of "sets" and "individual objects" are extracted from the same image to interact with each other: The way dots are grouped and clustered modulates visual impression of number of the individuals, just as the way individuals are positioned modulates the way they are grouped.
