@@ -19,6 +19,7 @@ The visual system reorganizes complex visual scenes using strategies for forming
 </div>
 Ensemble perception makes great intuitive sense. If we look around, we always find some redundancy and regularity in the real world images: Blueberries in a bush, trees in a forest, and buildings in a city, for example, are often seen as groups of similar but not identical objects. For most everyday needs, we may not need to store individuating information from these scenes. We can instead represent structures, patterns, and gists in a succinct and compact manner. Such perceptual ability to extract ensemble representations from complex scenes can allow our brain to "do more with less" and better understand and interact with visual environments. One line of my research program investigates how our brain achieves this feat and how ensemble perception empowers our perceptual, cognitive, and action control abilities in many different ways.
 <br/>
+
 __* Ensemble perception as a strategy for coping with limitations on cognitive abilities__ 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">    
