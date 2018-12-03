@@ -36,17 +36,18 @@ Say you try to remember the different colors of six disks in a visual array and 
   </div>
 </div>
 <br/>
-Likiwise, I have shown that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see demos [here](https://heeyeon-im.github.io/demo/)). 
+Moreover, I have discovered that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see demos [here](https://heeyeon-im.github.io/demo/)). 
 <div class="container"> 
-  <div class="row" style="margin-bottom: 0px">   
-    <div class="col-md-5 col-sm-12">
+  <div class="row" style="margin-bottom: 6px">   
+    <div class="col-md-6 col-sm-12">
         <img src="../images/Meansize5.jpg" width="100%" />
     </div>    
-    <div class="col-md-7 col-sm-12">
-This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. This is somewhat similar to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). Likewise, ensemble perception allows us to compress information of individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
+    <div class="col-md-6 col-sm-12">
+This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. This is somewhat similar to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA).
     </div>      
   </div>
 </div>
+Likewise, ensemble perception allows us to compress information of individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
 <br/>
 
 __* Hierarchical coding for representational flexiblity: Objects and Ensembles__<br/>
