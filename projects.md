@@ -38,7 +38,7 @@ Say you try to remember the different colors of six disks in a visual array and 
 <br/>
 Moreover, I have discovered that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see demos [here](https://heeyeon-im.github.io/demo/)). This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. 
 <div class="container"> 
-  <div class="row" style="margin-bottom: 4px">   
+  <div class="row" style="margin-bottom: 2px">   
     <div class="col-md-6 col-sm-12">
         <img src="../images/Meansize5.jpg" width="110%" />
     </div>    
