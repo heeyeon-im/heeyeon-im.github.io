@@ -40,7 +40,7 @@ Moreover, I have discovered that a visual image in which individual items are sp
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">   
     <div class="col-md-6 col-sm-12">
-        <img src="../images/Meansize5.jpg" width="110%" />
+        <img src="../images/Meansize5.jpg" width="120%" />
     </div>    
     <div class="col-md-6 col-sm-12">
 This is somewhat equivalent to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). My findings in this line of research suggest that 
