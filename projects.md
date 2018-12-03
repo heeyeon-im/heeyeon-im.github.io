@@ -85,7 +85,7 @@ For decades, prevailing models of human behavior assume a functional structure o
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
     <div class="col-md-3 col-sm-12">
-        <img src="../images/Faces1.jpg" width="90%" />
+        <img src="../images/Faces1.jpg" width="100%" />
     </div>
     <div class="col-md-9 col-sm-12">
 When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces (Image A) much more accurately and rapidly than a crowd of happy faces. On the other hand, when the goal was to approach a friendly group of faces, a happy crowd (Image B) was perceived more accurately than an angry crowd. 
