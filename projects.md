@@ -12,7 +12,9 @@ Specific contributions of my research projects to the field highlight interactio
 The visual system reorganizes complex visual scenes using strategies for forming coherent and concise representations, rather than passively receiving all (millions of) bits of visual information hitting our retinas at any given moment. One powerful heuristic for this is to represent sets of similar objects as a group or **_ensemble_** using summary statistics such as mean, numerosity, and variance, etc. 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">
-    <div class="col-md-12 col-sm-12">
+    <div class="col-md-2 col-sm-12">
+    </div>      
+    <div class="col-md-10 col-sm-12">
         <img src="../images/Visualworld.jpg" width="70%" />
     </div>
   </div>
