@@ -58,7 +58,7 @@ My findings in this research program also specify a critical new aspect of the s
         <img src="../images/hierarchical_coding3.jpg" width="100%" />
     </div> 
     <div class="col-md-7 col-sm-12">
-Such convergence illustrats how items in a visual scene can be represented hierarchically. At least two units of visual processing - individual object and ensemble - can be extracted from a visual scene to be available at the same time, providing complementary information        
+Such convergence illustrates how items in a visual scene can be represented hierarchically. At least two units of visual processing - individual object and ensemble - can be extracted from a visual scene to be available at the same time, providing complementary information        
     </div>     
   </div>
 </div>
