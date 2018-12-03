@@ -55,7 +55,7 @@ My findings in this research program also specify critical new aspects of the st
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">    
     <div class="col-md-4 col-sm-12">
-        <img src="../images/hierarchical_coding3.jpg" width="90%" />
+        <img src="../images/hierarchical_coding3.jpg" width="110%" />
     </div> 
     <div class="col-md-8 col-sm-12">
 Such convergence suggests that an ensemble extracted from multiple items can be a higher-level unit of visual processing, illustrating how items in a visual scene can be represented hierarchically. At least two units of visual processing - individual object and ensemble - can be extracted from a visual scene, providing complementary information on different aspects of scenes.         
