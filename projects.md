@@ -36,7 +36,7 @@ Say you try to remember the different colors of six disks in a visual array and 
   </div>
 </div>
 <br/>
-Moreover, I have discovered that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see demos [here](https://heeyeon-im.github.io/demo/)). This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. 
+Moreover, I have discovered that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see Demos [here](https://heeyeon-im.github.io/demo/)). This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. 
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">   
     <div class="col-md-6 col-sm-12">
@@ -51,20 +51,21 @@ ensemble perception allows us to compress information of individuals in a visual
 <br/>
 
 __* Hierarchical coding for representational flexiblity: Objects and Ensembles__<br/>
-This finding illustrates an example of how a visual scene can be represented hierarchically. The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects and ensembles allows the visual system to acheive perceptual flexibility.
+My findings in this research program also specify critical new aspects of the structure of visual perception. First, these results show that people are able to extract multiple ensembles of items in parallel, up to 3~4 sets. This limit converges with the three-or-four-item limits of visual attention (e.g., [Pylyshyn & Storm, 1988](https://www.ncbi.nlm.nih.gov/pubmed/3153671)) and visual working memory (e.g., [Alvarez & Cavanagh, 2004](https://www.ncbi.nlm.nih.gov/pubmed/14738517); [Luck & Vogel, 1997](https://www.ncbi.nlm.nih.gov/pubmed/9384378); [Zhang & Luck, 2008](https://www.ncbi.nlm.nih.gov/pubmed/18385672)). 
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">    
     <div class="col-md-6 col-sm-12">
-        <img src="../images/hierarchical_coding3.jpg" width="80%" />
+        <img src="../images/hierarchical_coding3.jpg" width="90%" />
     </div> 
     <div class="col-md-6 col-sm-12">
-The findings that the ease of parsing sets from an image facilitated attentional selection and memory capacity of ensemble representations of objects have led me to suggest that hierarchical coding of objects and ensembles allows the visual system to acheive perceptual flexibility.       
+Such convergence suggests that an ensemble extracted from multiple items can be a higher-level unit of visual processing, illustrating how items in a visual scene can be represented hierarchically. At least two units of visual processing - individual object and ensemble - can be extracted from a visual scene, providing complementary information on different aspects of scenes.         
     </div>     
   </div>
 </div>
 <br/>
-In one of my study (Im, Zhong, & Halberda, 2016, see Demo here), I employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly similar, even though we asked them to group the dots in whatever way they felt the most comfortable and natural.
-Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots.    
+For example, a single display of 5 red, 5 blue, 5 yellow, and 5 green dots can be represented as four color sets or 20 separate dots. At one level, "the set of blue dots" may be selected and only its average information (e.g., mean size, relative location, etc.) may be stored as a single individual in visual short-tem memory. At another level, "the set of blue dots"may be treated as 5 distinct items, available for individual size comparison, for example. This distinction highlights a hierarchical coding of "ensemble" and "individual" that is important for making sense of visual scenes. 
+
+In order to characterize such investigate hierarchical coding of ensembles and individuals, one of my research projects ([Im, Zhong, & Halberda, 2016](../Imetal_VR_2016.pdf), see Demo [here](https://heeyeon-im.github.io/demo/)) employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly consistent with one another, even though we asked them to group the dots in whatever way they felt the most comfortable and natural. Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots.    
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
     <div class="col-md-4 col-sm-12">
@@ -76,6 +77,7 @@ Although Images A and B both have 29 dots, the estimated number of individual do
   </div>
 </div>
 <br/>
+Representing different perceptual units from a scene allows the visual system to be able to utilze more information with less mental resource. By combining these different levels of representation of objects and ensembles, the visual system can perceive, and we can remember, the visual scene with greater detail, which can then effectively guide better action outcomes. 
 
 ## **2. Action goals guide perception.**
 Interactions between perception and action are bidirectional. I have found the behavioral and neural evidence suggesting that different social motivations and action goals (e.g., approach and avoidance) shape the way we perceive emotional states and behavioral intent of crowds of people. For example, when the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces much more accurately and rapidly than a crowd of happy faces5. This finding suggests that our goals for ongoing interactions with the external world influences the way we perceive the world, just as what we see guides our ongoing interactions with the world. Furthermore, my fMRI and MEG data showed that there are (at least) two different processing routes for this: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces5,14. The next step is to further understand the properties and functions of these two processing routes and to examine how these pathways interact with and work in parallel with other routes to support goal-directed actions (_This work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital_). 
