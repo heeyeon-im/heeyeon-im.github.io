@@ -94,10 +94,11 @@ When the observers’ goal was to avoid a potential threat in a social environme
 </div>
 with the external world influences the way we perceive the world, just as what we see guides our ongoing interactions with the world.
 
-__* Different processing routes for  __<br/>
-Furthermore, my fMRI and MEG data showed that there are (at least) two different processing routes for this: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces.
+__* Functionally and neurally differential processing routes for perceiving social visual cues__<br/>
+My fMRI and MEG data show that there are (at least) two different processing routes for perceiving and responding to social visual cues: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces.
 
-Eye movement
+__* Action goals and motivations modulate how our eyes see and navigate a visual scene __<br/>
+
 
 (_This work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital_). 
 <br/>
