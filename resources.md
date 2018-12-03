@@ -16,6 +16,12 @@ nohead: true
 
 * Crowd emotion: reading emotional expressions from crowds of faces [[pdf]](/images/Im_et_al_SfN_Media_2015.pdf)<br/>
   _An invited talk presented at Media Conference on Social Behaviors in Society for Neurocience, 2015_
+
+* Guest lecture slide on Scene Perception at Brown University, 2014 Fall [[pdf]](/images/Lecture16_ScenePerception.pdf)<br/> 
+
+* Guest lecture slide on Scene Perception at Brown University, 2014 Spring [[pdf]](/images/Lecture17_ScenePerception.pdf)<br/>
+
+
     
 ## Posters presented at conferences
 * The effects of aging in neural processing of facial threat cues via magnocellular and parvocellular pathways [[pdf]](/images/Im_et_al_VSS_2018.pdf)<br/>
