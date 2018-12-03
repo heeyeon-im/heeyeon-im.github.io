@@ -93,7 +93,6 @@ When the observers’ goal was to avoid a potential threat in a social environme
   </div>
 </div>
 <br/>
-
 __* Functionally and neurally differential processing routes for perceiving social visual cues__<br/>
 My fMRI and MEG data show that there are (at least) two different processing routes for perceiving and responding to social visual cues: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces.
 
