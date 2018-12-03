@@ -25,7 +25,7 @@ Ensemble perception makes great intuitive sense. If we look around, we always fi
 
 __* Ensemble perception as a strategy for coping with limitations on cognitive abilities__ 
 Representing and storing an ensemble (e.g., average) of multiple objects can help the visual system to maintain and recall individual features of the elements. At the object level, only a few items may be remembered; the rest may be missed completely due to the limited memory capacity. When attempting to recall missed objects, one would have to make random guesses, increasing the overall expected error.However, average information about the set can guide one to recall the missed object to some extent by retrieving values biased toward the average of the set.
-Say you try to remember the different colors of six disks in a visual array and report the colors you remember. If you remember only the colors of three disks and completely missed the others, you cannot avoid making extreme errors for the three forgotten colors (e.g., by randomly choosing "red" for a blue disk). However, if you remember that the disks were in ‘cool’ colors on average (even if you cannot remember the exact colors for each disk), it is likely that you will reduce the overall error by choosing six colors from only the continuum of ‘cool’ colors and avoid ‘warm’ colors such as red or orange.
+Say you try to remember the different colors of six disks in a visual array and report the colors you remember. If you remember only the colors of three disks and completely missed the others, you cannot avoid making extreme errors for the three forgotten colors (e.g., by randomly choosing "red" for a blue disk). However, if you remember that the disks were in ‘cool’ colors on average (even if you cannot remember the exact colors for each disk), it is likely that you will reduce the overall error by choosing six colors from only the continuum of ‘cool’ colors and avoid ‘warm’ colors such as red or orange([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf)).
 <div class="container"> 
   <div class="row" style="margin-bottom: 0px">    
     <div class="col-md-1 col-sm-12">
@@ -36,14 +36,14 @@ Say you try to remember the different colors of six disks in a visual array and 
   </div>
 </div>
 <br/>
-Moreover, I have discovered that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see demos [here](https://heeyeon-im.github.io/demo/)). 
+Moreover, I have discovered that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see demos [here](https://heeyeon-im.github.io/demo/)). This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. 
 <div class="container"> 
-  <div class="row" style="margin-bottom: 6px">   
+  <div class="row" style="margin-bottom: 4px">   
     <div class="col-md-6 col-sm-12">
         <img src="../images/Meansize5.jpg" width="100%" />
     </div>    
     <div class="col-md-6 col-sm-12">
-This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. This is somewhat similar to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA).
+This is somewhat similar to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA).
     </div>      
   </div>
 </div>
