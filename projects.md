@@ -84,10 +84,10 @@ Together, representing different perceptual units from a scene allows the visual
 For decades, prevailing models of human behavior assume a functional structure of serial processing stages of perception, cognition, and action control modules. Thus the relationship between perception and motor system has been viewed as unidirectional; and the role of motor control system is only considered as final outcome of commands from perceptual and cognitive systems. However, I have discovered behavioral and neural evidence for continuous interactions between perception and action that are bidirectional. For example, I have found that different social motivations and action goals (e.g., approach and avoidance) modulate the way we perceive emotional states and behavioral intent of crowds of people ([Im et al., 2017a](../Im_etal_NHB_2017.pdf); [Im et al., 2017b](../Im_etal_Cult_Br_2017.pdf), see Demo [here](https://heeyeon-im.github.io/demo/)). 
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
-    <div class="col-md-3 col-sm-12">
-        <img src="../images/Faces1.jpg" width="100%" />
+    <div class="col-md-4 col-sm-12">
+        <img src="../images/Faces1.jpg" width="110%" />
     </div>
-    <div class="col-md-9 col-sm-12">
+    <div class="col-md-8 col-sm-12">
 When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces (Image A) much more accurately and rapidly than a crowd of happy faces. On the other hand, when the goal was to approach a friendly group, a happy crowd (Image B) was perceived more accurately than an angry crowd. This finding suggests that our goals for ongoing interactions
     </div>
   </div>
