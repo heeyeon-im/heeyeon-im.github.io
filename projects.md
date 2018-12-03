@@ -43,11 +43,11 @@ Moreover, I have discovered that a visual image in which individual items are sp
         <img src="../images/Meansize5.jpg" width="100%" />
     </div>    
     <div class="col-md-6 col-sm-12">
-This is somewhat similar to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA).
+This is somewhat similar to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). My findings suggest that ensemble perception allows us to compress
     </div>      
   </div>
 </div>
-Likewise, ensemble perception allows us to compress information of individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
+information of individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
 <br/>
 
 __* Hierarchical coding for representational flexiblity: Objects and Ensembles__<br/>
