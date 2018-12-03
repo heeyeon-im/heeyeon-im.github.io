@@ -81,6 +81,7 @@ Together, representing different perceptual units from a scene allows the visual
 
 ------
 ## **2. Action goals guide perception.**
+
 Interactions between perception and action are bidirectional. I have found the behavioral and neural evidence suggesting that different social motivations and action goals (e.g., approach and avoidance) shape the way we perceive emotional states and behavioral intent of crowds of people. For example, when the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces much more accurately and rapidly than a crowd of happy faces. This finding suggests that our goals for ongoing interactions with the external world influences the way we perceive the world, just as what we see guides our ongoing interactions with the world. Furthermore, my fMRI and MEG data showed that there are (at least) two different processing routes for this: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces. The next step is to further understand the properties and functions of these two processing routes and to examine how these pathways interact with and work in parallel with other routes to support goal-directed actions (_This work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital_). 
 <br/>
 
