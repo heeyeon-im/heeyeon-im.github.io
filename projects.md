@@ -88,11 +88,11 @@ For decades, prevailing models of human behavior assume a functional structure o
         <img src="../images/Faces1.jpg" width="100%" />
     </div>
     <div class="col-md-8 col-sm-12">
-When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces (Image A) much more accurately and rapidly than a crowd of happy faces. On the other hand, when the goal was to approach a friendly group, a happy crowd (Image B) was perceived more accurately than an angry crowd. This finding suggests that our goals for ongoing interactions
+When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces (Image A) much more accurately and rapidly than a crowd of happy faces. On the other hand, when the goal was to approach a friendly group, a happy crowd (Image B) was perceived more accurately than an angry crowd. This finding suggests that our goals for ongoing interactions with the external world influences the way 
     </div>
   </div>
 </div>
-with the external world influences the way we perceive the world, just as what we see guides our ongoing interactions with the world.
+we perceive the world, just as what we see guides our ongoing interactions with the world.
 
 __* Functionally and neurally differential processing routes for perceiving social visual cues__<br/>
 My fMRI and MEG data show that there are (at least) two different processing routes for perceiving and responding to social visual cues: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces.
