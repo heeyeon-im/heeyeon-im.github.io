@@ -36,7 +36,7 @@ Say you try to remember the different colors of six disks in a visual array and 
   </div>
 </div>
 <br/>
-I have shown that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see demos [here](https://heeyeon-im.github.io/demo/)). 
+Likiwise, I have shown that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see demos [here](https://heeyeon-im.github.io/demo/)). 
 <div class="container"> 
   <div class="row" style="margin-bottom: 0px">   
     <div class="col-md-4 col-sm-12">
