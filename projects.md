@@ -51,7 +51,7 @@ ensemble perception allows us to compress information of individuals in a visual
 <br/>
 
 __* Hierarchical coding for representational flexiblity: Objects and Ensembles__<br/>
-My findings in this research program also specify a critical new aspect of the structure of visual perception: People are able to extract multiple ensembles of items in parallel, up to 3~4 sets. This limit converges with the three-or-four-object limits of visual attention (e.g., [Pylyshyn & Storm, 1988](https://www.ncbi.nlm.nih.gov/pubmed/3153671)) and visual working memory (e.g., [Alvarez & Cavanagh, 2004](https://www.ncbi.nlm.nih.gov/pubmed/14738517); [Luck & Vogel, 1997](https://www.ncbi.nlm.nih.gov/pubmed/9384378); [Zhang & Luck, 2008](https://www.ncbi.nlm.nih.gov/pubmed/18385672)). 
+My findings in this research program also specify a critical new aspect of the structure of visual perception by demonstrating that multiple ensembles of items in parallel, up to 3~4 sets, can be extracted, just as higher units for visual perception and memory. The limit on the number of ensembles that can be extracted at any given time converges with the three-or-four-object limits of visual attention (e.g., [Pylyshyn & Storm, 1988](https://www.ncbi.nlm.nih.gov/pubmed/3153671)) and visual working memory (e.g., [Alvarez & Cavanagh, 2004](https://www.ncbi.nlm.nih.gov/pubmed/14738517); [Luck & Vogel, 1997](https://www.ncbi.nlm.nih.gov/pubmed/9384378); [Zhang & Luck, 2008](https://www.ncbi.nlm.nih.gov/pubmed/18385672)). 
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">    
     <div class="col-md-5 col-sm-12">
