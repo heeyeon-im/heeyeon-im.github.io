@@ -40,7 +40,7 @@ Likiwise, I have shown that a visual image in which individual items are spatial
 <div class="container"> 
   <div class="row" style="margin-bottom: 0px">   
     <div class="col-md-5 col-sm-12">
-        <img src="../images/Meansize5.jpg" width="80%" />
+        <img src="../images/Meansize5.jpg" width="100%" />
     </div>    
     <div class="col-md-7 col-sm-12">
 This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. This is somewhat similar to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). Likewise, ensemble perception allows us to compress information of individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
