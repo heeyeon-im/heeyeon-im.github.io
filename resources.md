@@ -19,9 +19,9 @@ nohead: true
 
 * Guest lecture slide on Scene Perception at Brown University, 2014 Fall [[pdf]](/images/Lecture17_ScenePerception.pdf)<br/> 
 
-* Guest lecture slide on Scene Perception at Brown University, 2014 Spring [[pdf]](/images/Lecture16_ScenePerception_pdf)<br/>
+* Guest lecture slide on Scene Perception at Brown University, 2014 Spring [[pdf]](/images/Lecture16_ScenePerception.pdf)<br/>
 
-    
+------   
 ## Posters presented at conferences
 * The effects of aging in neural processing of facial threat cues via magnocellular and parvocellular pathways [[pdf]](/images/Im_et_al_VSS_2018.pdf)<br/>
   _Poster presented at Vision Sciences Society, 2018_
@@ -44,6 +44,12 @@ nohead: true
 * Information pursuit as a model for efficient visual search [[pdf]]/images/Im_Entropy_Pursuit_2014VSS.pdf)<br/>
   _Poster presented at Vision Sciences Society, 2014_
   
+------
+## Scripts 
+* R scripts 
+
+* MATLAB scripts 
+
 
 
   
