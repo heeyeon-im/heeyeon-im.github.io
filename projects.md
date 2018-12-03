@@ -81,7 +81,7 @@ Together, representing different perceptual units from a scene allows the visual
 
 ------
 ## **2. Action goals guide perception.**
-For decades, prevailing models of human behavior assume a functional structure of serial processing stages of perception, cognition, and action control modules. Thus the relationship between perception and motor system has been viewed as unidirectional; and the role of motor control system is only considered as final outcome of commands from perceptual and cognitive systems. However, I have discovered behavioral and neural evidence for continuous interactions between perception and action that are bidirectional. For example, I have found that different social motivations and action goals (e.g., approach and avoidance) modulate the way we perceive emotional states and behavioral intent of crowds of people. 
+For decades, prevailing models of human behavior assume a functional structure of serial processing stages of perception, cognition, and action control modules. Thus the relationship between perception and motor system has been viewed as unidirectional; and the role of motor control system is only considered as final outcome of commands from perceptual and cognitive systems. However, I have discovered behavioral and neural evidence for continuous interactions between perception and action that are bidirectional. For example, I have found that different social motivations and action goals (e.g., approach and avoidance) modulate the way we perceive emotional states and behavioral intent of crowds of people ([Im et al., 2017a](../Im_etal_NHB_2017.pdf); [Im et al., 2017b](../Im_etal_Cult_Br_2017.pdf), see Demo [here](https://heeyeon-im.github.io/demo/)). 
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
     <div class="col-md-3 col-sm-12">
@@ -92,8 +92,13 @@ When the observers’ goal was to avoid a potential threat in a social environme
     </div>
   </div>
 </div>
+This finding suggests that our goals for ongoing interactions with the external world influences the way we perceive the world, just as what we see guides our ongoing interactions with the world. 
 
-This finding suggests that our goals for ongoing interactions with the external world influences the way we perceive the world, just as what we see guides our ongoing interactions with the world. Furthermore, my fMRI and MEG data showed that there are (at least) two different processing routes for this: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces. The next step is to further understand the properties and functions of these two processing routes and to examine how these pathways interact with and work in parallel with other routes to support goal-directed actions (_This work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital_). 
+Furthermore, my fMRI and MEG data showed that there are (at least) two different processing routes for this: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces. (More to come..)
+
+Eye movement
+
+(_This work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital_). 
 <br/>
 
 ------
