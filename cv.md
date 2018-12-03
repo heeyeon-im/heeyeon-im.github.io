@@ -6,5 +6,6 @@ nohead: true
 ---
 # Hee Yeon Im, Ph.D. 
 
-[[pdf]]('cv_heeyeon-im.pdf)
+Click here to download a short version of my Curriculum Vitae: [[pdf]]('cv_heeyeon-im.pdf)
+
 
