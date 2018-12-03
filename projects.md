@@ -70,11 +70,11 @@ In order to investigate the nature of hierarchical coding of ensembles and indiv
         <img src="../images/grouping_fig3.jpg" width="90%" />
     </div>
     <div class="col-md-8 col-sm-12">
-And more importantly, I have found that the way observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots. Although Images A and B both had 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image B (more clustered) being perceived as having much fewer dots than Image A (less clustered). My clustering algorithm could accurately predict the degree to which observers underestimated the number of individual dots, depending on the degree to which individual dots were spatially clustered into groups. This finding provides an example of how representations of "sets" and "individual objects" are extracted 
+And more importantly, I have found that the way observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots. Although Images A and B both had 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image B (more clustered) being perceived as having much fewer dots than Image A (less clustered). My clustering algorithm could accurately predict the degree to which observers underestimated the number of individual dots, depending on the degree to which individual dots were spatially clustered into groups. This finding provides an example of how
     </div>
   </div>
 </div>
-from the same image to interact with each other: The way dots are grouped and clustered modulates visual impression of number of the individuals, just as the way individuals are positioned modulates the way they are grouped.
+representations of "sets" and "individual objects" are extracted from the same image to interact with each other: The way dots are grouped and clustered modulates visual impression of number of the individuals, just as the way individuals are positioned modulates the way they are grouped.
 <br/>
 Together, representing different perceptual units from a scene allows the visual system to be able to utilze more information with less mental resource. By combining these different levels of representation of objects and ensembles, the visual system can perceive, and we can remember, the visual scene with greater detail, which can then effectively guide better action outcomes. 
 
