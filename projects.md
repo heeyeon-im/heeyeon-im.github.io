@@ -27,8 +27,8 @@ __* Ensemble perception as a strategy for coping with limitations on cognitive a
 Representing and storing an ensemble (e.g., average) of multiple objects can help the visual system to maintain and recall individual features of the elements. At the object level, only a few items may be remembered; the rest may be missed completely due to the limited memory capacity. When attempting to recall missed objects, one would have to make random guesses, increasing the overall expected error.However, average information about the set can guide one to recall the missed object to some extent by retrieving values biased toward the average of the set.
 <div class="container"> 
   <div class="row" style="margin-bottom: 4px">    
-    <div class="col-md-4 col-sm-12">
-        <img src="../images/RememberColor2.jpg" width="90%" />
+    <div class="col-md-12 col-sm-12">
+        <img src="../images/RememberColor3.jpg" width="90%" />
     </div>
   </div>
 </div>
