@@ -41,7 +41,7 @@ nohead: true
 * Reading crowd emotion: The roles of hemispheric specialization, task goal, anxiety, and facial identity [[pdf]](/images/Im_et_al_CNS_2016.pdf)<br/>
   _Poster presented at Cognitive Neuroscience Society, 2016_
 
-* Information pursuit as a model for efficient visual search [[pdf]]/images/Im_Entropy_Pursuit_2014VSS.pdf)<br/>
+* Information pursuit as a model for efficient visual search [[pdf]](/images/Im_Entropy_Pursuit_2014VSS.pdf)<br/>
   _Poster presented at Vision Sciences Society, 2014_
   
 ------
