@@ -53,16 +53,15 @@ ensemble perception allows us to compress information of individuals in a visual
 __* Hierarchical coding for representational flexiblity: Objects and Ensembles__<br/>
 My findings in this research program also specify critical new aspects of the structure of visual perception. First, these results show that people are able to extract multiple ensembles of items in parallel, up to 3~4 sets. This limit converges with the three-or-four-item limits of visual attention (e.g., [Pylyshyn & Storm, 1988](https://www.ncbi.nlm.nih.gov/pubmed/3153671)) and visual working memory (e.g., [Alvarez & Cavanagh, 2004](https://www.ncbi.nlm.nih.gov/pubmed/14738517); [Luck & Vogel, 1997](https://www.ncbi.nlm.nih.gov/pubmed/9384378); [Zhang & Luck, 2008](https://www.ncbi.nlm.nih.gov/pubmed/18385672)). 
 <div class="container"> 
-  <div class="row" style="margin-bottom: 4px">    
-    <div class="col-md-6 col-sm-12">
+  <div class="row" style="margin-bottom: 1px">    
+    <div class="col-md-4 col-sm-12">
         <img src="../images/hierarchical_coding3.jpg" width="90%" />
     </div> 
-    <div class="col-md-6 col-sm-12">
+    <div class="col-md-8 col-sm-12">
 Such convergence suggests that an ensemble extracted from multiple items can be a higher-level unit of visual processing, illustrating how items in a visual scene can be represented hierarchically. At least two units of visual processing - individual object and ensemble - can be extracted from a visual scene, providing complementary information on different aspects of scenes.         
     </div>     
   </div>
 </div>
-<br/>
 For example, a single display of 5 red, 5 blue, 5 yellow, and 5 green dots can be represented as four color sets or 20 separate dots. At one level, "the set of blue dots" may be selected and only its average information (e.g., mean size, relative location, etc.) may be stored as a single individual in visual short-tem memory. At another level, "the set of blue dots"may be treated as 5 distinct items, available for individual size comparison, for example. This distinction highlights a hierarchical coding of "ensemble" and "individual" that is important for making sense of visual scenes. 
 
 In order to characterize such investigate hierarchical coding of ensembles and individuals, one of my research projects ([Im, Zhong, & Halberda, 2016](../Imetal_VR_2016.pdf), see Demo [here](https://heeyeon-im.github.io/demo/)) employed a computer vision algorithm to characterize and predict human observers' patterns of grouping multiple dots into sets based on spatial proximity. I found that human observers' grouping pattern was surprisingly consistent with one another, even though we asked them to group the dots in whatever way they felt the most comfortable and natural. Moreover, I also found that the way human observers grouped the dots into sets (predicted by the model uisng my clustering algorithm) systematically modulated the way they estimated the number of individual dots.    
