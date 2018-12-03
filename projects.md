@@ -11,7 +11,7 @@ Specific contributions of my research projects to the field highlight interactio
 ## **1. Perceptual flexibility empowers cognitive capabilities and action outcomes.**
 The visual system reorganizes complex visual scenes using strategies for forming coherent and concise representations, rather than passively receiving all (millions of) bits of visual information hitting our retinas at any given moment. One powerful heuristic for this is to represent sets of similar objects as a group or **_ensemble_** using summary statistics such as mean, numerosity, and variance, etc. 
 <div class="container"> 
-  <div class="row" style="margin-bottom: 0px">
+  <div class="row" style="margin-bottom: 2px">
     <div class="col-md-1 col-sm-12">
     </div>      
     <div class="col-md-11 col-sm-12">
