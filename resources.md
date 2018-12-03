@@ -24,5 +24,15 @@ nohead: true
 * Reading crowd emotion: The roles of hemispheric specialization, task goal, anxiety, and facial identity [[pdf]](/images/Im_et_al_CNS_2016.pdf)<br/>
   _Poster presented at Cognitive Neuroscience Society, 2016_
   
+
+## Talk slides
+* The integrative process of reading emotional expressions from a crowd of faces [[pdf]](/images/Im_et_al_SfN_2015.pdf)<br/>
+  _An invited talk presented at Society for Neurocience, 2015_
+
+* Crowd emotion: reading emotional expressions from crowds of faces [[pdf]](/images/Im_et_al_SfN_Media_2015.pdf)<br/>
+  _An invited talk presented at Media Conference on Social Behaviors in Society for Neurocience, 2015_
+  
+  
+  
   
 
