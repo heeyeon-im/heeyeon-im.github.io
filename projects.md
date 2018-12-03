@@ -97,7 +97,7 @@ with the external world influences the way we perceive the world, just as what w
 __* Functionally and neurally differential processing routes for perceiving social visual cues__<br/>
 My fMRI and MEG data show that there are (at least) two different processing routes for perceiving and responding to social visual cues: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces.
 
-__* Action goals and motivations modulate how our eyes see and navigate a visual scene __<br/>
+__* Action goals and motivations modulate how our eyes see and navigate a visual scene__<br/>
 
 
 (_This work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital_). 
