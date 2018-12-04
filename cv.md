@@ -73,8 +73,10 @@ nohead: true
 * Advanced Statistical Methods (Graduate level), Johns Hopkins University<br/>
 * Foundations of Mind, Johns Hopkins University<br/>
 * Functional Human Neuroanatomy, Johns Hopkins University<br/>
+
 ### Guest Lecturer:<br/>
 * Perception and Mind: Scene Perception, Brown University<br/>
+
 ### Teaching Assistant:<br/>
 Developmental Psychology, Johns Hopkins University<br/>
 Psychology and Law: Clinical Applications, Johns Hopkins University<br/>
