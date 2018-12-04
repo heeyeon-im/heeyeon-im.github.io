@@ -111,6 +111,7 @@ My findings from fMRI and MEG suggest that both the dorsal and ventral pathways 
 <br/>
 
 __* Action goals and motivations modulate how our eyes see and navigate a visual scene__<br/>
+I have investigated how human observers' eye movement patterns reflect the current action goals and social motivations (e.g., approach or avoidance) when observers freely view an image of two crowds of faces with different average emotions. For example, when observers were to decide which crowd of faces they would approach, their first saccadic eye movement was directed towards a crowd of faces which had average emotion that was (relatively) more positive. In this study, I also have found different task goals modulated which visual field the observers preferred to look at first: When they were to choose which group they would rather _approach_, observers showed tendency to look at the right visual field first more frequently, whereas when they were to choose which group they would rather _avoid_, they showed tendency to look at the left visual field first more frequently (Im et al., in preparation). 
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
     <div class="col-md-12 col-sm-12">
@@ -118,8 +119,6 @@ __* Action goals and motivations modulate how our eyes see and navigate a visual
     </div>
   </div>
 </div>
-I have discovered that human observers' eye movement patterns reflect the current action goals and social motivations (e.g., approach or avoidance) when they freely view an image that contained two crowds of faces with different average emotion. For example, when human observers were to decide which crowd of faces they would apporach, their first saccadic eye movement was towards a crowd of faces which had average emotion that was more positive. In this study, I also have found different task goals modulated which visual field the observers preferred to look at first: When they were to choose which group they would rather _approach_, their initial saccadic eye movement towards the right visual field was significantly more frequent, whereas when they were to choose which group they would _avoid_, their initial saccadic eye movment was towards the left visual field more dominantly (Im et al., in preparation). 
-
 (_This work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital_). 
 <br/>
 
