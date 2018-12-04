@@ -45,15 +45,16 @@ Say you try to remember the different colors of six disks in a visual array and 
 Moreover, I have discovered that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see Demos [here](https://heeyeon-im.github.io/demo/)). This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. 
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">   
+    <div class="col-md-4 col-sm-12">
+    </div>      
     <div class="col-md-6 col-sm-12">
         <img src="../images/Meansize5.jpg" width="120%" />
+    </div>   
+    <div class="col-md-2 col-sm-12">
     </div>    
-    <div class="col-md-6 col-sm-12">
-This is somewhat equivalent to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). My findings in this line of research suggest that 
-    </div>      
   </div>
 </div>
-ensemble perception allows us to compress information of individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
+This is somewhat equivalent to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). My findings in this line of research suggest that ensemble perception allows us to compress information of individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
 <br/>
 __* Hierarchical coding of a visual scene: Objects and Ensembles__<br/>
 My findings in this research program specify a critical new aspect of the structure of visual perception by demonstrating that multiple ensembles of items, up to 3~4 sets, can be extracted in parallel, as higher-order units for visual perception and memory. The limit on the number of ensembles that can be extracted at any given time also converges with the three-or-four-object limits of visual attention (e.g., [Pylyshyn & Storm, 1988](https://www.ncbi.nlm.nih.gov/pubmed/3153671)) and visual working memory (e.g., [Alvarez & Cavanagh, 2004](https://www.ncbi.nlm.nih.gov/pubmed/14738517); [Luck & Vogel, 1997](https://www.ncbi.nlm.nih.gov/pubmed/9384378); [Zhang & Luck, 2008](https://www.ncbi.nlm.nih.gov/pubmed/18385672)). 
