@@ -23,7 +23,7 @@ nohead: true
 * Maryville College (Maryville, TN)  Visiting student						                                                        2005<br/>
 
 ------
-## __Publications [Click here for pdf files](https://heeyeon-im.github.io/publications/)__
+## __Publications ([Click here for pdf files](https://heeyeon-im.github.io/publications/))__
 * Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. Human Brain Mapping, 39, 2725-2741. 
 * Cushing, C., Im, H.Y., Adams, R.B.Jr., Ward, N., Albohn, N.D., Steiner, T.G., & Kveraga, K. (2018). Neurodynamics and connectivity during facial fear perception: The role of threat exposure and signal congruity. Scientific Reports, 8, 2776.
 * Im, H.Y., Albohn, N.D., Steiner, T.G., Cushing, C., Adams, R.B.Jr., & Kveraga, K. (2017). Ensemble coding of crowd emotion: Differential hemispheric and visual stream contributions. Nature Human Behaviour, 1, 828-842. 
@@ -71,10 +71,8 @@ nohead: true
 * Advanced Statistical Methods (Graduate level) 	        Johns Hopkins University                                Fall 2011<br/>
 * Foundations of Mind		                                  Johns Hopkins University	                              Spring 2011<br/>
 * Functional Human Neuroanatomy	                          Johns Hopkins University                                Spring 2009<br/>
-
 ### Guest Lecturer:
 * Perception and Mind: Scene Perception                   Brown University                                        Spring & Fall 2014<br/>
-
 ### Teaching Assistant:
 * Developmental Psychology	                              Johns Hopkins University	 	                            Fall 2010<br/>
 * Psychology and Law: Clinical Applications               Johns Hopkins University                                Spring 2010<br/>
