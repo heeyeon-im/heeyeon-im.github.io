@@ -4,9 +4,9 @@ layout: page
 permalink: /cv/
 nohead: true
 ---
-# __Hee Yeon Im, Ph.D.__
-
 (Click here to download a short version of my Curriculum Vitae: [[pdf]](../cv_heeyeon-im.pdf))
+
+# __Hee Yeon Im, Ph.D.__
  
 ## __Academic Appointments__
 * Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow                                        2015-Current<br/>
