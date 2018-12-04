@@ -6,10 +6,10 @@ nohead: true
 ---
 My research projects aim to identify how brain dynamics guide goal-directed, adaptive behaviors in human. Specific contributions of my research projects to the field highlight interactions between object-based and ensemble-based representations, between selective and non-selective pathways, and between perceptual and action control processes. My research suggests that goal-driven behaviors are effectively supported by multiple streams of such parallel processes. This stands in contrast to traditional theories of serial, non-overlapping processing stages across perception, cognition, and action: Instead of simplifying that action is the aftermath of cognition or perception, a new model needs to include effects of continuous interactions across perception, cognition, and action control processes, which can be observed by measuring dynamic connections between brain and behavior. 
 
-[1. Perceptual flexibility empowers cognitive capabilities and action outcomes.](#Research_theme_1)
-[2. Action goals guide perception.]
-[3. Attentional distraction can facilitate perception and action.]
-[4. Individual differences in perception, cognition, and action]
+[__1. Perceptual flexibility empowers cognitive capabilities and action outcomes.__](#Research_theme_1)<br/>
+[__2. Action goals guide perception.__](#Research_theme_2)<br/>
+[__3. Attentional distraction can facilitate perception and action.__](#Research_theme_3)<br/>
+[__4. Individual differences in perception, cognition, and action__](#Research_theme_4)<br/>
 
 ------
 
@@ -84,7 +84,7 @@ representations of "sets" and "individual objects" are extracted from the same i
 Together, representing different perceptual units from a scene allows the visual system to be able to utilze more information with less mental resource. By combining these different levels of representation of objects and ensembles, the visual system can perceive, and we can remember, the visual scene with greater detail, which can then effectively guide better action outcomes. 
 
 ------
-## **2. Action goals guide perception.**
+## **2. Action goals guide perception.** {#Research_theme_2}
 For decades, prevailing models of human behavior assume a functional structure of serial processing stages of perception, cognition, and action control modules. Thus the relationship between perception and motor system has been viewed as unidirectional; and the role of motor control system is only considered as final outcome of commands from perceptual and cognitive systems. However, I have discovered behavioral and neural evidence for continuous interactions between perception and action that are bidirectional. For example, I have found that different social motivations and action goals (e.g., approach and avoidance) modulate the way we perceive emotional states and behavioral intent of crowds of people ([Im et al., 2017a](../Im_etal_NHB_2017.pdf); [Im et al., 2017b](../Im_etal_Cult_Br_2017.pdf), see Demo [here](https://heeyeon-im.github.io/demo/)). 
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
@@ -107,14 +107,14 @@ __* Action goals and motivations modulate how our eyes see and navigate a visual
 <br/>
 
 ------
-## **3. Attentional distraction can facilitate perception and action.**
+## **3. Attentional distraction can facilitate perception and action.** {#Research_theme_3}
 Although it is generally accepted, and usually valid, that distracted attention impairs perceptual and behavioral performance, I have found advantages of distributed (or distracted) attention over focused attention in some perceptual tasks and motor learning. For example, distributed attention facilitates global processing of a visual image and enhances memory retrieval of visually-guided actions that have been learned under similar distraction. These results suggest that as another processing route, distributed attention can enhance our perception and action under some circumstances in which focused attention may actually hinder performance. A broader attentional focus afforded by reduced control under distributed attention can allow us to learn more about the background and context of the environment, compared to the mode of focused attention. This line of research has led me to pursue one of my future research aims of characterizing how these non-selective and selective routes guide each other to support different aspects for our complex behaviors, with the goal of understanding how cognition modulates perception and action in our complex behaviors across a range of tasks. New findings from this research will contribute to better rehabilitation/training programs for patients with motor degenerative diseases and those who need to refine and adjust their perception-action coordination after injuries or surgeries 
 
 
 (_This work in this area was recognized and supported by a Center for Vision Research Award at Brown University_). 
 
 ------
-## **4. Individual differences in perception, cognition, and action.**
+## **4. Individual differences in perception, cognition, and action.** {#Research_theme_4}
 
 
 
