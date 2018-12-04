@@ -7,7 +7,7 @@ entries_layout: list
 ---
 
 ------
-# About<br/>
+# __About__<br/>
 I'm a Postdoctoral Research Scientist in Dr. Kestutis Kveraga's [Neurodynamics lab](http://www.kveragalab.org/index.html) at the Massachusetts General Hospital and Harvard Medical School. <br/> 
 I received my B.A. and M.S. from Yonsei University (Seoul, Korea; Advisor: Dr. [Sang Chul Chong](https://vcc.yonsei.ac.kr/)) and my Ph.D. from Johns Hopkins University ([Department of Psychological and Brain Sciences](https://pbs.jhu.edu/)), working with Dr. [Justin Halberda](http://www.halberdalab.net/). Before coming to Boston, I also worked with Dr. [Joo-Hyun Song](http://research.clps.brown.edu/songlab/) in the [Department of Cognitive, Linguistic & Psychological Sciences](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home) at Brown University.<br/>
 
@@ -16,7 +16,7 @@ I study how perception, cognition, and action control processes continuously int
 Since human behaviors are made up of complex patterns of neural activity and dynamics across multiple brain areas, determining the mechanism by which many thousands or millions of patterns of neural activity are relevant for ever-changing human behavior may appear an insurmountable challenge. One approach to the solution may be taking the simplest-case scenario and identifying a one-to-one mapping between a brain area and its function for a single behavior. However, I seek an integrated, dynamic picture of the emergence of adaptive behaviors by taking an opposite approach that makes the task more complex. By studying how the brain solves the same problem in many different contexts and for different action outcomes, I aim to delineate the invariant components of brain dynamics that are critical to the task at hand and the variable components that are ancillary. Adaptive and flexible behaviors may emerge from different interactions between these invariant and variant components of brain dynamics.<br/>
 
 ------
-# Research interests<br/>
+# __Research interests__<br/>
 **General:** Behavioral and neural dynamics of Perception, Cognition, and Action<br/>
 **Specific:** Goal-directed action, Visuomotor learning, Global ensemble perception, Social vision, Brain pathways, Hemispheric lateralization<br/>
 **Methods:** Behavioral psychophysics, Neuroimaging (fMRI and MEG), Computational analyses, Eye and hand movement tracking <br/>
