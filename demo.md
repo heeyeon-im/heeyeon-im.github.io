@@ -43,7 +43,7 @@ nohead: true
 
 ------
 **5. Approximate number estimation task** (Click the image to see animation.)<br/> 
-[![Demo flash](../images/Flash_logo8.jpg)](../Flash8.gif)<br />
+[![Demo flash](../images/dot_num.jpg)](../dot_num.gif)<br />
 * Perceptual groups as a unit for rapid extraction of approximate number of elements in random dot arrays (Im et al., _Vision Research_, 2016)
 
     
