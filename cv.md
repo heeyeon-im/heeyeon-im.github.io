@@ -10,9 +10,9 @@ nohead: true
 
 ------
 ## __Academic Appointments__
-* Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow                                        2015-Current<br/>
+<pre>* Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow                                        2015-Current<br/></pre>
   Martinos Center for Biomedical Imaging, Department of Radiology (Advisor: Kestutis Kveraga)<br/>
-* Brown University, Postdoctoral Associate                			  	                                                    2014-2015<br/>
+<pre>* Brown University, Postdoctoral Associate                			  	                                                    2014-2015<br/></pre>
   Department of Cognitive, Linguistics, & Psychological Sciences (Advisor: Joo-Hyun Song)<br/>	
 
 ------
