@@ -54,13 +54,13 @@ nohead: true
 * ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery (2018) <br/>
   Role: Principal Investigator, Massachusetts General Hospital<br/>
   Total: $74,386
-* Neuroimaging Funding Initiative for Research Fellows, (2015)<br/>
+* Neuroimaging Funding Initiative for Research Fellows (2015)<br/>
   Role: Principal Investigator, Martinos Center for Biomedical Imaging<br/>
   Total: $12,000
-* Center for Vision Research Fellowship, (2014)<br/>
+* Center for Vision Research Fellowship (2014)<br/>
   Role: Principal Investigator, Brown University<br/>
   Total: $13,742
-* Collaborative Research Award, (2013)<br/>
+* Collaborative Research Award (2013)<br/>
   Johns Hopkins University<br/>
   _This award supports interdisciplinary research work proposed by graduate students from different laboratories._<br/>
 * Mary Ainsworth Research Award (2012)<br/>
