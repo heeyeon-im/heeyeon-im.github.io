@@ -122,7 +122,7 @@ I have investigated how human observers' eye movement patterns reflect the curre
   </div>
 </div>
 <br/>
-(My work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital_). 
+(_My work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital_). 
 <br/>
 
 ------
