@@ -11,9 +11,10 @@ nohead: true
 ------
 ## __Academic Appointments__
 * 2015-Current: Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow<br/>
-                Martinos Center for Biomedical Imaging, Department of Radiology (Advisor: Kestutis Kveraga)<br/>
+  Martinos Center for Biomedical Imaging, Department of Radiology (Advisor: Kestutis Kveraga)<br/>
 * 2014-2015: Brown University, Postdoctoral Associate<br/>
-             Department of Cognitive, Linguistics, & Psychological Sciences (Advisor: Joo-Hyun Song)<br/>	
+  Department of Cognitive, Linguistics, & Psychological Sciences (Advisor: Joo-Hyun Song)<br/>	
+             
 ------
 ## __Education__
 * 2013: Johns Hopkins University  Ph.D. in Psychological & Brain Sciences (Advisor: Justin Halberda)<br/>
