@@ -23,7 +23,7 @@ nohead: true
 
 * Odic, D., **Im, H.Y.**, Eisinger, R., Ly, R., & Halberda, J. (2016). PsiMLE: A maximum-likelihood approach to estimating psychophysical scaling and variability more reliably, efficiently, and flexibly. _Behavioral Research Methods_, 48, 445-462. [[PDF]](../Odic_Behavior_Research_Methods_2015.pdf)
 
-* **Im, H.Y.**, Bédard, P., & Song, J-H. (2015). Encoding attentional-states during visuomotor learning. _Journal of Vision_, 15, 1-16. [[PDF]](../Imetal_JOV_2015.pdf)
+* **Im, H.Y.**, Bédard, P., & Song, J-H. (2015). Encoding attentional-states during visuomotor learning. _Journal of Vision_, 15, 1-16. [[PDF]](../Imetal_JOV_2015.pdf) [[Demo]](../Flash.gif)
 
 * **Im, H.Y.**, Park, W., & Chong, S.C. (2015). Ensemble statistics as a unit of selection. Journal of Cognitive Psychology, 27, 114-127. [[PDF]](../Imetal_JCP_2015.pdf)
 
