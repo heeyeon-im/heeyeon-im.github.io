@@ -5,6 +5,7 @@ permalink: /demo/
 nohead: true
 ---
 
+------
 **1. Visuomotor learning: dual-task paradigms** (Click the image to see animation.)<br/> 
 * Reaching and rapid serial visual presentation (RSVP) tasks<br/>
      [![Demo flash](../images/Flash_logo.jpg)](../Flash.gif)<br />
@@ -14,11 +15,13 @@ nohead: true
      [![Demo flash](../images/Flash_logo11.jpg)](../Flash.gif)<br />
   * Paradoxical benefits of attentional distraction for visuomotor adaptation without awareness (Im & Song, _Under Review_)<br/>
 
+------
 **2. Crowd emotion task** (Click the image to see animation.)<br/> 
      [![Demo flash](../images/Flash_logo2.jpg)](../Flash2.gif)<br />
   * Ensemble coding of crowd emotion: Differential hemispheric and visual stream contributions (Im et al., _Nature Human Behav._, 2017)<br/>
   * Cross-cultural effects on ensemble coding of emotion in facial crowds (Im et al., _Culture and Brain_, 2017)
 
+------
 **3a. Creating Magnocellular biased images** (Click the image to see animation.)<br/>
      [![Demo flash](../images/Flash_logo3.jpg)](../Flash3.gif)<br />
      
@@ -27,6 +30,7 @@ nohead: true
   * Sex-related differences in behavioral and amygdalar responses to compound facial threat cues (Im et al., _Human Brain Mapping_, 2018)<br/>
   * Observer’s anxiety facilitates magnocellular processing of clear facial threat cues, but impairs parvocellular processing of ambiguous facial threat cues. (Im et al., _Scientific Reports_, 2017)
 
+------
 **4. Average size task** (Click the image to see animation.)<br/> 
      [![Demo flash](../images/Flash_logo5.jpg)](../Flash5.gif)<br />
   * Ensemble statistics as a unit of selection (Im et al., _J Cognitive Psychology._, 2015)<br/>
@@ -36,6 +40,7 @@ nohead: true
      [![Demo flash](../images/Flash_logo7.jpg)](../Flash7.gif)<br /> 
   * Computation of mean size is based on perceived size (Im & Chong, _Attention, Perception & Psychophysics_, 2009)
 
+------
 **5. Approximate number estimation task** (Click the image to see animation.)<br/> 
      [![Demo flash](../images/Flash_logo8.jpg)](../Flash8.gif)<br />
   * Perceptual groups as a unit for rapid extraction of approximate number of elements in random dot arrays (Im et al., _Vision Research_, 2016)
