@@ -9,7 +9,7 @@ nohead: true
 
 * **Im, H.Y.**, Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. _Human Brain Mapping_, 39, 2725-2741. [[PDF]](../Im_Hum._Brain_Mapp._2018.pdf)
 
-* Cushing, C., **Im, H.Y.**, Adams, R.B.Jr., Ward, N., Albohn, N.D., Steiner, T.G., & Kveraga, K. (2018). Neurodynamics and connectivity during facial fear perception: The role of threat exposure and signal congruity. _Scientific Reports_, 8, 2776.
+* Cushing, C., **Im, H.Y.**, Adams, R.B.Jr., Ward, N., Albohn, N.D., Steiner, T.G., & Kveraga, K. (2018). Neurodynamics and connectivity during facial fear perception: The role of threat exposure and signal congruity. _Scientific Reports_, 8, 2776. [[PDF]](../Cushing_SciRep_2018.pdf)
 
 * **Im, H.Y.**, Albohn, N.D., Steiner, T.G., Cushing, C., Adams, R.B.Jr., & Kveraga, K. (2017). Ensemble coding of crowd emotion: Differential hemispheric and visual stream contributions. _Nature Human Behaviour_, 1, 828-842. [[PDF]](../Im_etal_NHB_2017.pdf) [[Demo]](../Flash2.gif)
 
