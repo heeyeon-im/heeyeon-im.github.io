@@ -49,16 +49,16 @@ nohead: true
 
 ------
 ## __Fellowships and Academic Awards__ 
-* 2018: ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery (Total: $ 74,386)<br/>
-        Role: Principal Investigator, Massachusetts General Hospital<br/>	
-* 2015: Neuroimaging Funding Initiative for Research Fellows (Total: $ 12,000)<br/>
-        Role: Principal Investigator, Martinos Center for Biomedical Imaging<br/>
-* 2014: Center for Vision Research Fellowship (Total: $ 13,742)<br/>
-        Role: Principal Investigator, Brown University<br/>
-* 2013: Collaborative Research Award, Johns Hopkins University<br/>
-        _This award supports interdisciplinary research work proposed by graduate students from different laboratories._<br/>
-* 2012: Mary Ainsworth Research Award, Johns Hopkins University<br/>
-        _This award recognizes a female graduate student who has demonstrated exceptional scholarly progress in research._<br/>
+* ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery, 2018 (Total: $ 74,386)<br/>
+  Role: Principal Investigator, Massachusetts General Hospital<br/>	
+* Neuroimaging Funding Initiative for Research Fellows, 2015 (Total: $ 12,000)<br/>
+  Role: Principal Investigator, Martinos Center for Biomedical Imaging<br/>
+* Center for Vision Research Fellowship, 2014 (Total: $ 13,742)<br/>
+  Role: Principal Investigator, Brown University<br/>
+* Collaborative Research Award, 2013, Johns Hopkins University<br/>
+  _This award supports interdisciplinary research work proposed by graduate students from different laboratories._<br/>
+* Mary Ainsworth Research Award, 2012, Johns Hopkins University<br/>
+  _This award recognizes a female graduate student who has demonstrated exceptional scholarly progress in research._<br/>
 
 * __Pending grant application (Under review)__
   K01 Research Scientist Development Award (Total: $740,880, National Institute of Mental Health)<br/>
@@ -68,24 +68,16 @@ nohead: true
 ------
 ## __Teaching Experiences__
 ### Section Instructor:
-* Fall 2011: Advanced Statistical Methods (Graduate level) 	        
-        Johns Hopkins University<br/>
-* Spring 2011: Foundations of Mind		                                  
-        Johns Hopkins University<br/>
-* Spring 2009: Functional Human Neuroanatomy	                          
-        Johns Hopkins University<br/>
+* Advanced Statistical Methods (Graduate level), Johns Hopkins University<br/>
+* Foundations of Mind, Johns Hopkins University<br/>
+* Functional Human Neuroanatomy, Johns Hopkins University<br/>
 ### Guest Lecturer:
-* Spring & Fall 2014: Perception and Mind: Scene Perception<br/>
-                      Brown University<br/>
+* Perception and Mind: Scene Perception, Brown University<br/>
 ### Teaching Assistant:
-* Fall 2010: Developmental Psychology<br/>
-             Johns Hopkins University<br/>
-* Spring 2010: Psychology and Law: Clinical Applications<br/>
-               Johns Hopkins University<br/>
-* Fall 2009: Sensation and Perception<br/>	                              
-             Johns Hopkins University<br/>
-* Fall 2007: Introduction to Cognitive Science<br/>
-             Yonsei University<br/>
+Developmental Psychology, Johns Hopkins University<br/>
+Psychology and Law: Clinical Applications, Johns Hopkins University<br/>
+Sensation and Perception, Johns Hopkins University<br/>
+Introduction to Cognitive Science, Yonsei University<br/>
 
 ------
 ## __Ad Hoc Reviewing__
@@ -101,14 +93,14 @@ nohead: true
 * Frontiers in Psychology
 
 ------
-## __Invited Talks ([Click here to see some of my talk slides](https://heeyeon-im.github.io/resources/)) __
-* 2018: Brigham and Woman’s Hospital, Boston, MA<br/>
-* 2018: Brown University, Providence, RI<br/>
-* 2015: Press Conference on Social Behavior at ’15 Society for Neuroscience, Chicago, IL<br/>
-* 2014: Brown University, Providence, RI<br/>
-* 2013: MIT, Cambridge, MA<br/>	
-* 2013: Korea University, Seoul, Korea<br/>	
-* 2013: Yonsei University, Seoul, Korea<br/>
+## __Invited Talks ([Click here to see some of my talk slides](https://heeyeon-im.github.io/resources/))__
+* Brigham and Woman’s Hospital, Boston, MA (2018)<br/>
+* Brown University, Providence, RI (2018) <br/>
+* Press Conference on Social Behavior at ’15 Society for Neuroscience, Chicago, IL (2015)<br/>
+* Brown University, Providence, RI (2014)<br/>
+* MIT, Cambridge, MA (2013)<br/>	
+* Korea University, Seoul, Korea (2013) <br/>	
+* Yonsei University, Seoul, Korea (2013)<br/>
 
 ------
 ## __Working Papers__
