@@ -114,7 +114,7 @@ nohead: true
 * Halberda, J., Im, H.Y., & Ly, R., Attention to early visual features empowers the segmentation of ensemble visual groups.
 
 ------
-## __Conference Presentations (last three years: [Click here to see some of poster](https://heeyeon-im.github.io/resources/))__<br/>
+## __Conference Presentations (last three years: [Click here to see some of my posters](https://heeyeon-im.github.io/resources/))__<br/>
 * Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). The effects of aging in neural processing of facial threat cues via magnocellular and parvocellular pathways. Poster at Vision Sciences Society.
 * Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and neural processing of facial threat cues via magnocellular and parvocellular pathways. Poster at Cognitive Neuroscience Society.
 * Im, H.Y., Cushing, C., Albohn, D.N., Steiner, T.G., Ward, N., Adams, R.B.Jr., & Kveraga, K. (2017). Neurodynamics of reading crowd emotion: Independent visual pathways and hemispheric contributions. Poster at Vision Sciences Society.
