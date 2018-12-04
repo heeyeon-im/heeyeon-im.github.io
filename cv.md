@@ -101,7 +101,7 @@ nohead: true
 * Frontiers in Psychology
 
 ------
-## __Invited Talks__
+## __Invited Talks ([Click here to see some of my talk slides](https://heeyeon-im.github.io/resources/)) __
 * 2018: Brigham and Woman’s Hospital, Boston, MA<br/>
 * 2018: Brown University, Providence, RI<br/>
 * 2015: Press Conference on Social Behavior at ’15 Society for Neuroscience, Chicago, IL<br/>
