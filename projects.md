@@ -44,7 +44,7 @@ Say you try to remember the different colors of six disks in a visual array and 
 <br/>
 Moreover, I have discovered that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see Demos [here](https://heeyeon-im.github.io/demo/)). This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. 
 <div class="container"> 
-  <div class="row" style="margin-bottom: 3px">   
+  <div class="row" style="margin-bottom: 1px">   
     <div class="col-md-3 col-sm-12">
     </div>      
     <div class="col-md-7 col-sm-12">
@@ -54,6 +54,7 @@ Moreover, I have discovered that a visual image in which individual items are sp
     </div>    
   </div>
 </div>
+<br/>
 This is somewhat equivalent to using a "chunking" or "binding" approach for our verbal memory to reducing the amount of information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). My findings in this line of research suggest that ensemble perception allows us to compress information of individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
 <br/>
 __* Hierarchical coding of a visual scene: Objects and Ensembles__<br/>
@@ -88,18 +89,8 @@ Together, representing different perceptual units from a scene allows the visual
 
 ------
 ## **2. Action goals guide perception.** {#Research_theme_2}
-For decades, prevailing models of human behavior assume a functional structure of serial processing stages of perception, cognition, and action control modules. Thus the relationship between perception and motor system has been viewed as unidirectional; and the role of motor control system is only considered as final outcome of commands from perceptual and cognitive systems. However, I have discovered behavioral and neural evidence for continuous interactions between perception and action that are bidirectional. For example, I have found that different social motivations and action goals (e.g., approach and avoidance) modulate the way we perceive emotional states and behavioral intent of crowds of people ([Im et al., 2017a](../Im_etal_NHB_2017.pdf); [Im et al., 2017b](../Im_etal_Cult_Br_2017.pdf), see Demo [here](https://heeyeon-im.github.io/demo/)). 
-<div class="container"> 
-  <div class="row" style="margin-bottom: 1px">
-  <div class="col-md-8 col-sm-12">
-When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces (Image A) much more accurately and rapidly than a crowd of happy faces. Conversely, when the goal was to approach a friendly group, a happy crowd (Image B) was perceived more accurately than an angry crowd. This suggests that our goals for ongoing interactions with the external world influences the way we perceive the world. 
-    </div>    
-    <div class="col-md-4 col-sm-12">
-        <img src="../images/Faces1.jpg" width="85%" />
-    </div>
-  </div>
-</div>
-<br/>
+For decades, prevailing models of human behavior assume a functional structure of serial processing stages of perception, cognition, and action control modules. Thus the relationship between perception and motor system has been viewed as unidirectional; and the role of motor control system is only considered as final outcome of commands from perceptual and cognitive systems. However, I have discovered behavioral and neural evidence for continuous interactions between perception and action that are bidirectional. For example, I have found that different social motivations and action goals (e.g., approach and avoidance) modulate the way we perceive emotional states and behavioral intent of crowds of people ([Im et al., 2017a](../Im_etal_NHB_2017.pdf); [Im et al., 2017b](../Im_etal_Cult_Br_2017.pdf), see Demo [here](https://heeyeon-im.github.io/demo/)). When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces much more accurately and rapidly than a crowd of happy faces. Conversely, when the goal was to approach a friendly group, a happy crowd was perceived more accurately than an angry crowd. This suggests that our goals for ongoing interactions with the external world influences the way we perceive the world. 
+
 __* Functionally and neurally differential processing routes for perceiving social visual cues__<br/>
 My fMRI and MEG data further show that there are (at least) two different processing routes for perceiving and responding to social visual cues: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces. Recently, I have discovered that the dorsal and ventral pathways differentially contribute to different aspects of social visual perception. When observers perceived individual faces, I have found greater involvement of brain areas along the ventral pathway (shown as blue blobs and arrows in Images A and B below), greater involvement of areas along the dorsal pathway (shown as red blobs and arrows in Images A and B below) in the brain ([Im et al., 2017a](../Im_etal_NHB_2017.pdf); Im et al., under review). For example, the fusiform gyrus in the ventral stream was more active (measured by fMRI), with lower temporal frequency (alpha frequency oscillations measured by MEG) during perception of an individual emotional face. On the other hand, the intraparietal sulcus in the dorsal stream was more active (measured by fMRI), with higher temporal frequency (beta frequency oscillations measured by MEG) during perception of a crowd of emotional faces. 
 <div class="container"> 
