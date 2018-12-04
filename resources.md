@@ -45,6 +45,9 @@ __* Reading crowd emotion: The roles of hemispheric specialization, task goal, a
 __* Information pursuit as a model for efficient visual search__ [[pdf]](/images/Im_Entropy_Pursuit_2014VSS.pdf)<br/>
   _Poster presented at Vision Sciences Society, 2014_
   
+__* Biases in human estimation are well-described by clustering algorithms from computer vision__ [[pdf]](/images/ImZhongHalberda_poster_final.pdf)<br/>
+  _Poster presented at Vision Sciences Society, 2013_  
+  
 ------
 ## __Scripts__ 
 * R scripts 
