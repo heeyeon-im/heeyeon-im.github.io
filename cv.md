@@ -10,17 +10,16 @@ nohead: true
 
 ------
 ## __Academic Appointments__
-<pre>* Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow                                        2015-Current<br/></pre>
-  Martinos Center for Biomedical Imaging, Department of Radiology (Advisor: Kestutis Kveraga)<br/>
-<pre>* Brown University, Postdoctoral Associate                			  	                                                    2014-2015<br/></pre>
-  Department of Cognitive, Linguistics, & Psychological Sciences (Advisor: Joo-Hyun Song)<br/>	
-
+* 2015-Current: Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow<br/>
+                Martinos Center for Biomedical Imaging, Department of Radiology (Advisor: Kestutis Kveraga)<br/>
+* 2014-2015: Brown University, Postdoctoral Associate<br/>
+             Department of Cognitive, Linguistics, & Psychological Sciences (Advisor: Joo-Hyun Song)<br/>	
 ------
 ## __Education__
-* Johns Hopkins University  Ph.D. in Psychological & Brain Sciences (Advisor: Justin Halberda)                          2013<br/>
-* Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (Advisor: Sang Chul Chong)                               2008<br/>
-* Yonsei University (Seoul, Korea)  B.S. in Psychology			 	                                                          2006<br/>
-* Maryville College (Maryville, TN)  Visiting student						                                                        2005<br/>
+* 2013: Johns Hopkins University  Ph.D. in Psychological & Brain Sciences (Advisor: Justin Halberda)<br/>
+* 2008: Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (Advisor: Sang Chul Chong)<br/>
+* 2006: Yonsei University (Seoul, Korea)  B.S. in Psychology<br/>
+* 2005: Maryville College (Maryville, TN)  Visiting student<br/>
 
 ------
 ## __Publications ([Click here for pdf files](https://heeyeon-im.github.io/publications/))__
@@ -49,16 +48,16 @@ nohead: true
 
 ------
 ## __Fellowships and Academic Awards__ 
-* ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery (Total: $ 74,386)                                      2018<br/>
-    Role: Principal Investigator, Massachusetts General Hospital<br/>	
-* Neuroimaging Funding Initiative for Research Fellows (Total: $ 12,000)   	                                               2015<br/>
-    Role: Principal Investigator, Martinos Center for Biomedical Imaging<br/>
-* Center for Vision Research Fellowship (Total: $ 13,742)			          	                                                 2014<br/>
-    Role: Principal Investigator, Brown University<br/>
-* Collaborative Research Award, Johns Hopkins University			                                                             2013<br/>
-  This award supports interdisciplinary research work proposed by graduate students from different laboratories.<br/>
-* Mary Ainsworth Research Award, Johns Hopkins University			                                                             2012<br/>
-  This award recognizes a female graduate student who has demonstrated exceptional scholarly progress in research.<br/>
+* 2018: ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery (Total: $ 74,386)<br/>
+        Role: Principal Investigator, Massachusetts General Hospital<br/>	
+* 2015: Neuroimaging Funding Initiative for Research Fellows (Total: $ 12,000)<br/>
+        Role: Principal Investigator, Martinos Center for Biomedical Imaging<br/>
+* 2014: Center for Vision Research Fellowship (Total: $ 13,742)<br/>
+        Role: Principal Investigator, Brown University<br/>
+* 2013: Collaborative Research Award, Johns Hopkins University<br/>
+        _This award supports interdisciplinary research work proposed by graduate students from different laboratories._<br/>
+* 2012: Mary Ainsworth Research Award, Johns Hopkins University<br/>
+        _This award recognizes a female graduate student who has demonstrated exceptional scholarly progress in research._<br/>
 
 * __Pending grant application (Under review)__
   K01 Research Scientist Development Award (Total: $740,880, National Institute of Mental Health)<br/>
@@ -68,16 +67,24 @@ nohead: true
 ------
 ## __Teaching Experiences__
 ### Section Instructor:
-* Advanced Statistical Methods (Graduate level) 	        Johns Hopkins University                                Fall 2011<br/>
-* Foundations of Mind		                                  Johns Hopkins University	                              Spring 2011<br/>
-* Functional Human Neuroanatomy	                          Johns Hopkins University                                Spring 2009<br/>
+* Fall 2011: Advanced Statistical Methods (Graduate level) 	        
+        Johns Hopkins University<br/>
+* Spring 2011: Foundations of Mind		                                  
+        Johns Hopkins University<br/>
+* Spring 2009: Functional Human Neuroanatomy	                          
+        Johns Hopkins University<br/>
 ### Guest Lecturer:
-* Perception and Mind: Scene Perception                   Brown University                                        Spring & Fall 2014<br/>
+* Spring & Fall 2014: Perception and Mind: Scene Perception<br/>
+                      Brown University<br/>
 ### Teaching Assistant:
-* Developmental Psychology	                              Johns Hopkins University	 	                            Fall 2010<br/>
-* Psychology and Law: Clinical Applications               Johns Hopkins University                                Spring 2010<br/>
-* Sensation and Perception	                              Johns Hopkins University                                Fall 2009<br/>
-* Introduction to Cognitive Science 			                Yonsei University			                                  Fall 2007<br/>
+* Fall 2010: Developmental Psychology<br/>
+             Johns Hopkins University<br/>
+* Spring 2010: Psychology and Law: Clinical Applications<br/>
+               Johns Hopkins University<br/>
+* Fall 2009: Sensation and Perception<br/>	                              
+             Johns Hopkins University<br/>
+* Fall 2007: Introduction to Cognitive Science<br/>
+             Yonsei University<br/>
 
 ------
 ## __Ad Hoc Reviewing__
@@ -94,13 +101,13 @@ nohead: true
 
 ------
 ## __Invited Talks__
-* Brigham and Woman’s Hospital, Boston, MA						                                                            2018
-* Brown University, Providence, RI							                                                                  2018
-* Press Conference on Social Behavior at ’15 Society for Neuroscience, Chicago, IL  	                            2015 
-* Brown University, Providence, RI 							                                                                  2014
-* MIT, Cambridge, MA									                                                                            2013
-* Korea University, Seoul, Korea						                                                                      2013
-* Yonsei University, Seoul, Korea						                                                                      2013
+* 2018: Brigham and Woman’s Hospital, Boston, MA<br/>
+* 2018: Brown University, Providence, RI<br/>
+* 2015: Press Conference on Social Behavior at ’15 Society for Neuroscience, Chicago, IL<br/>
+* 2014: Brown University, Providence, RI<br/>
+* 2013: MIT, Cambridge, MA<br/>	
+* 2013: Korea University, Seoul, Korea<br/>	
+* 2013: Yonsei University, Seoul, Korea<br/>
 
 ------
 ## __Working Papers__
