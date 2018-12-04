@@ -9,16 +9,16 @@ nohead: true
 (Click here to download a short version of my Curriculum Vitae: [[pdf]](../cv_heeyeon-im.pdf))
  
 ## __Academic Appointments__
-Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow                           2015-Current
-Martinos Center for Biomedical Imaging, Department of Radiology (Advisor: Kestutis Kveraga)
-Brown University, Postdoctoral Associate                			  	                                        2014-2015
-Department of Cognitive, Linguistics, & Psychological Sciences (Advisor: Joo-Hyun Song)	
+* Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow                                        2015-Current<br/>
+  Martinos Center for Biomedical Imaging, Department of Radiology (Advisor: Kestutis Kveraga)<br/>
+* Brown University, Postdoctoral Associate                			  	                                                    2014-2015<br/>
+  Department of Cognitive, Linguistics, & Psychological Sciences (Advisor: Joo-Hyun Song)<br/>	
 
 ## __Education__
-Johns Hopkins University  Ph.D. in Psychological & Brain Sciences (Advisor: Justin Halberda)                          2013
-Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (Advisor: Sang Chul Chong)                                  2008
-Yonsei University (Seoul, Korea)  B.S. in Psychology			 	                                                  2006
-Maryville College (Maryville, TN)  Visiting student						                     2005
+* Johns Hopkins University  Ph.D. in Psychological & Brain Sciences (Advisor: Justin Halberda)                          2013<br/>
+* Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (Advisor: Sang Chul Chong)                               2008<br/>
+* Yonsei University (Seoul, Korea)  B.S. in Psychology			 	                                                          2006<br/>
+* Maryville College (Maryville, TN)  Visiting student						                                                        2005<br/>
                   
 ## __Publications__
 •	Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. Human Brain Mapping, 39, 2725-2741. 
