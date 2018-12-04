@@ -10,17 +10,19 @@ nohead: true
 
 ------
 ## __Academic Appointments__
-* 2015-Current: Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow<br/>
+* Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow (2015-Current)
   Martinos Center for Biomedical Imaging, Department of Radiology (Advisor: Kestutis Kveraga)<br/>
-* 2014-2015: Brown University, Postdoctoral Associate<br/>
+* Brown University, Postdoctoral Associate (2014-2015)<br/>
   Department of Cognitive, Linguistics, & Psychological Sciences (Advisor: Joo-Hyun Song)<br/>	
              
 ------
 ## __Education__
-* 2013: Johns Hopkins University  Ph.D. in Psychological & Brain Sciences (Advisor: Justin Halberda)<br/>
-* 2008: Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (Advisor: Sang Chul Chong)<br/>
-* 2006: Yonsei University (Seoul, Korea)  B.S. in Psychology<br/>
-* 2005: Maryville College (Maryville, TN)  Visiting student<br/>
+* Johns Hopkins University  Ph.D. in Psychological & Brain Sciences (2008-2013)
+  Advisor: Justin Halberda<br/>
+* Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (2006-2008)
+  Advisor: Sang Chul Chong<br/>
+* Yonsei University (Seoul, Korea)  B.S. in Psychology (2001-2006)<br/>
+* Maryville College (Maryville, TN)  Visiting student (2005)<br/>
 
 ------
 ## __Publications ([Click here for pdf files](https://heeyeon-im.github.io/publications/))__
