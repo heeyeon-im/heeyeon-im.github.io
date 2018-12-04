@@ -35,9 +35,9 @@ nohead: true
 [![Demo flash](../images/Flash_logo5.jpg)](../Flash5.gif)<br />
 * Ensemble statistics as a unit of selection (Im et al., _J Cognitive Psychology._, 2015)<br/>
 * Mean size as a unit of visual working memory (Im & Chong, _Perception_, 2014)
-     [![Demo flash](../images/Flash_logo6.jpg)](../Flash6.gif)<br /> 
+[![Demo flash](../images/Flash_logo6.jpg)](../Flash6.gif)<br /> 
 * The effects of sampling and internal noise on the representation of ensemble average size (Im & Halberda, _Attention, Perception & Psychophysics_, 2013)
-     [![Demo flash](../images/Flash_logo7.jpg)](../Flash7.gif)<br /> 
+[![Demo flash](../images/Flash_logo7.jpg)](../Flash7.gif)<br /> 
 * Computation of mean size is based on perceived size (Im & Chong, _Attention, Perception & Psychophysics_, 2009)
 
 ------
