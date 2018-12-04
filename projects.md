@@ -111,7 +111,14 @@ My findings from fMRI and MEG suggest that both the dorsal and ventral pathways 
 <br/>
 
 __* Action goals and motivations modulate how our eyes see and navigate a visual scene__<br/>
-
+<div class="container"> 
+  <div class="row" style="margin-bottom: 1px">
+    <div class="col-md-12 col-sm-12">
+        <img src="../images/Eye.jpg" width="100%" />
+    </div>
+  </div>
+</div>
+I also have discovered that human observers' eye movement patterns reflect the current action goals and social motivations (e.g., approach or avoidance) when they freely view an image that contained two crowds of faces with different average emotion. For example, when human observers were to decide which crowd of faces they would apporach, their first saccadic eye movement was towards a crowd of faces which had average emotion that was more positive (Im et al., in preparation). 
 
 (_This work in this area received an ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery and was funded by Massachusetts General Hospital_). 
 <br/>
