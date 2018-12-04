@@ -30,7 +30,7 @@ Reaching and rapid serial visual presentation (RSVP) tasks<br/>
 
 ------
 **4. Average size task** (Click the image to see animation.)<br/> 
-[![Demo flash](../images/Flash_logo5.jpg)](../Flash5.gif)<br />
+[![Demo flash](../images/meansize.jpg)](../meansize.gif)<br />
 * Ensemble statistics as a unit of selection (Im et al., _J Cognitive Psychology._, 2015)<br/>
 * Mean size as a unit of visual working memory (Im & Chong, _Perception_, 2014)
 [![Demo flash](../images/Flash_logo6.jpg)](../Flash6.gif)<br /> 
