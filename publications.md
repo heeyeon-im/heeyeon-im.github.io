@@ -31,7 +31,7 @@ nohead: true
 
 * **Im, H.Y.**, & Halberda, J. (2013). The effects of sampling and internal noise on the representation of ensemble average size. _Attention, Perception, & Psychophysics_, 75, 278-286. [[PDF]](../Im_Halberda_APP_2013.pdf)
 
-* **Im, H.Y.**, & Chong, S.C. (2009). Computation of mean size is based on perceived size. _Attention, Perception, & Psychophysics_, 71, 375-384. [[PDF]](../Im_Chong_APP_2009.pdf)
+* **Im, H.Y.**, & Chong, S.C. (2009). Computation of mean size is based on perceived size. _Attention, Perception, & Psychophysics_, 71, 375-384. [[PDF]](../Im_Chong_APP_2009.pdf) [[Demo]](../ebbing.gif)
 
 * Park, K.M., Cha, O., Kim, S., **Im, H.Y.**, Chong, S.C., (2007). The Influence of Depth Context on Blind Spot Filling-in. _Korean Journal of Cognitive Science_, 18, 351-370.
 
