@@ -4,6 +4,7 @@ layout: page
 permalink: /publications/
 nohead: true
 ---
+------
 # Publications<br />
 
 * **Im, H.Y.**, Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. _Human Brain Mapping_, 39, 2725-2741. [[pdf]](../Im_Hum._Brain_Mapp._2018.pdf)
@@ -34,6 +35,7 @@ nohead: true
 
 * Park, K.M., Cha, O., Kim, S., **Im, H.Y.**, Chong, S.C., (2007). The Influence of Depth Context on Blind Spot Filling-in. _Korean Journal of Cognitive Science_, 18, 351-370.
 
+------
 # Manuscripts under review (Email me for a preprint)<br />
 * **Im, H.Y.**, & Song, J-H., Paradoxical benefits of attentional distraction for visuomotor adaptation without awareness.
 
