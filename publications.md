@@ -44,3 +44,4 @@ nohead: true
 * Cushing, C., **Im, H.Y.**, Adams, R.B.Jr., Ward, N., & Kveraga, K., Magnocellular and parvocellular pathway contributions to facial threat cue processing.
 
 * De Vito, D., Cushing, C., **Im, H.Y.**, Albohn, D.N., Adams, R.B.Jr., & Kveraga, K., Spatial and feature-based attention to expressive faces.
+
