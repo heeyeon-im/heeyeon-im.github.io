@@ -4,7 +4,7 @@ layout: page
 permalink: /resources/
 nohead: true
 ---
-## Talk slides
+## __Talk slides__
 * Different mechanisms and pathways for perceiving objects, sets, and ensembles [[pdf]](/images/Im_BWH_talk.pdf)<br/>
   _An invited talk presented at Brigham and Women's Hospital, 2018_
   
@@ -22,7 +22,7 @@ nohead: true
 * Guest lecture slide on Scene Perception at Brown University, 2014 Spring [[pdf]](/images/Lecture16_ScenePerception.pdf)<br/>
 
 ------   
-## Posters presented at conferences
+## __Posters presented at conferences__
 * The effects of aging in neural processing of facial threat cues via magnocellular and parvocellular pathways [[pdf]](/images/Im_et_al_VSS_2018.pdf)<br/>
   _Poster presented at Vision Sciences Society, 2018_
 
@@ -45,7 +45,7 @@ nohead: true
   _Poster presented at Vision Sciences Society, 2014_
   
 ------
-## Scripts 
+## __Scripts__ 
 * R scripts 
 
 * MATLAB scripts 
