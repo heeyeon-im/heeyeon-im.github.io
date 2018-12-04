@@ -7,19 +7,22 @@ nohead: true
 (Click here to download a short version of my Curriculum Vitae: [[pdf]](../cv_heeyeon-im.pdf))
 
 # __Hee Yeon Im, Ph.D.__
- 
+
+------
 ## __Academic Appointments__
 * Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow                                        2015-Current<br/>
   Martinos Center for Biomedical Imaging, Department of Radiology (Advisor: Kestutis Kveraga)<br/>
 * Brown University, Postdoctoral Associate                			  	                                                    2014-2015<br/>
   Department of Cognitive, Linguistics, & Psychological Sciences (Advisor: Joo-Hyun Song)<br/>	
 
+------
 ## __Education__
 * Johns Hopkins University  Ph.D. in Psychological & Brain Sciences (Advisor: Justin Halberda)                          2013<br/>
 * Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (Advisor: Sang Chul Chong)                               2008<br/>
 * Yonsei University (Seoul, Korea)  B.S. in Psychology			 	                                                          2006<br/>
 * Maryville College (Maryville, TN)  Visiting student						                                                        2005<br/>
-                  
+
+------
 ## __Publications [Click here for pdf files](https://heeyeon-im.github.io/publications/)__
 * Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. Human Brain Mapping, 39, 2725-2741. 
 * Cushing, C., Im, H.Y., Adams, R.B.Jr., Ward, N., Albohn, N.D., Steiner, T.G., & Kveraga, K. (2018). Neurodynamics and connectivity during facial fear perception: The role of threat exposure and signal congruity. Scientific Reports, 8, 2776.
@@ -36,6 +39,7 @@ nohead: true
 * Im, H.Y., & Chong, S.C. (2009). Computation of mean size is based on perceived size. Attention, Perception, & Psychophysics, 71, 375-384.
 * Park, K.M., Cha, O., Kim, S., Im, H.Y., Chong, S.C., (2007). The Influence of Depth Context on Blind Spot Filling-in. Korean Journal of Cognitive Science, 18, 351-370.		
 
+------
 ## __Manuscripts Under Review (Reprints available)__
 * Im, H.Y., & Song, J-H., Paradoxical benefits of attentional distraction for visuomotor adaptation without awareness. 
 * Im, H.Y., Cushing, C., Ward, N., Boshyan, J., Adams, R.B.Jr., & Kveraga, K., Different temporal characteristics of MEG activation during emotional perception of people and individuals. 
@@ -43,6 +47,7 @@ nohead: true
 * Cushing, C., Im, H.Y., Adams, R.B.Jr., Ward, N., & Kveraga, K., Magnocellular and parvocellular pathway contributions to facial threat cue processing. 
 * De Vito, D., Cushing, C., Im, H.Y., Albohn, D.N., Adams, R.B.Jr., & Kveraga, K., Spatial and feature-based attention to expressive faces. 
 
+------
 ## __Fellowships and Academic Awards__ 
 * ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery (Total: $ 74,386)                                      2018<br/>
     Role: Principal Investigator, Massachusetts General Hospital<br/>	
@@ -54,27 +59,29 @@ nohead: true
   This award supports interdisciplinary research work proposed by graduate students from different laboratories.<br/>
 * Mary Ainsworth Research Award, Johns Hopkins University			                                                             2012<br/>
   This award recognizes a female graduate student who has demonstrated exceptional scholarly progress in research.<br/>
-  
+
 * __Pending grant application (Under review)__
   K01 Research Scientist Development Award (Total: $740,880, National Institute of Mental Health)<br/>
   Title: Elucidating sex-specific roles of social anxiety in modulating neurodynamics of social perception<br/>
   Role: Principal Investigator<br/>	
 
+------
 ## __Teaching Experiences__
 ### Section Instructor:
 * Advanced Statistical Methods (Graduate level) 	        Johns Hopkins University                                Fall 2011<br/>
 * Foundations of Mind		                                  Johns Hopkins University	                              Spring 2011<br/>
 * Functional Human Neuroanatomy	                          Johns Hopkins University                                Spring 2009<br/>
 
-### * Guest Lecturer:
+### Guest Lecturer:
 * Perception and Mind: Scene Perception                   Brown University                                        Spring & Fall 2014<br/>
 
-### * Teaching Assistant:
+### Teaching Assistant:
 * Developmental Psychology	                              Johns Hopkins University	 	                            Fall 2010<br/>
 * Psychology and Law: Clinical Applications               Johns Hopkins University                                Spring 2010<br/>
 * Sensation and Perception	                              Johns Hopkins University                                Fall 2009<br/>
 * Introduction to Cognitive Science 			                Yonsei University			                                  Fall 2007<br/>
 
+------
 ## __Ad Hoc Reviewing__
 * Acta Psychologica
 * Attention, Perception, and Psychophysics
@@ -87,6 +94,7 @@ nohead: true
 * Visual Cognition
 * Frontiers in Psychology
 
+------
 ## __Invited Talks__
 * Brigham and Woman’s Hospital, Boston, MA						                                                            2018
 * Brown University, Providence, RI							                                                                  2018
@@ -96,12 +104,14 @@ nohead: true
 * Korea University, Seoul, Korea						                                                                      2013
 * Yonsei University, Seoul, Korea						                                                                      2013
 
+------
 ## __Working Papers__
 * Im, H.Y., & Halberda, J., A two-state detect-or-guess model of visual perception and memory. 
 * Im, H.Y., Adams, R.B.Jr., Cushing, C., Ward, N., Boshyan, J., & Kveraga, K., The effects of aging in neural processing of facial threat cues via magnocellular and parvocellular pathways.
 * Im, H.Y., & Song, J.-H., Inhibitory modulation of perception and action by repeated colors without consciousness.
 * Halberda, J., Im, H.Y., & Ly, R., Attention to early visual features empowers the segmentation of ensemble visual groups.
 
+------
 ## __Conference Presentations (last three years)__
 * Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). The effects of aging in neural processing of facial threat cues via magnocellular and parvocellular pathways. Poster at Vision Sciences Society.
 * Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and neural processing of facial threat cues via magnocellular and parvocellular pathways. Poster at Cognitive Neuroscience Society.
@@ -122,6 +132,7 @@ nohead: true
 * Im, H.Y., Albohn, D.N., Adams, R.B.Jr., & Kveraga, K. (2015). The integrative process of reading emotional expressions from a crowd of faces. Poster at Society for Neuroscience.
 *	Halberda, J., Im, H.Y. & Zhong, S. (2015). Clustering and number perception in random dot arrays. Talk at Annual Interdisciplinary Conference.
 
+------
 ## __References__
 * Justin Halberda, Ph.D., Johns Hopkins University, MD
 * Kestutis Kveraga, Ph.D., Massachusetts General Hospital, Harvard Medical School, MA
