@@ -44,87 +44,88 @@ nohead: true
 * De Vito, D., Cushing, C., Im, H.Y., Albohn, D.N., Adams, R.B.Jr., & Kveraga, K., Spatial and feature-based attention to expressive faces. 
 
 ## __Fellowships and Academic Awards__ 
-•	ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery (Total: $ 74,386)                                     2018 
-    Role: Principal Investigator, Massachusetts General Hospital	
-•	Neuroimaging Funding Initiative for Research Fellows (Total: $ 12,000)   	                                                  2015
-    Role: Principal Investigator, Martinos Center for Biomedical Imaging
-•	Center for Vision Research Fellowship (Total: $ 13,742)			          	                                   2014
-    Role: Principal Investigator, Brown University	
-•	Collaborative Research Award, Johns Hopkins University			                                                  2013
-This award supports interdisciplinary research work proposed by graduate students from different laboratories. 
-•	Mary Ainsworth Research Award, Johns Hopkins University			                                                  2012
-This award recognizes a female graduate student who has demonstrated exceptional scholarly progress in research.
-   Pending grant application (Under review)
-K01 Research Scientist Development Award (Total: $740,880, National Institute of Mental Health)
-Title: Elucidating sex-specific roles of social anxiety in modulating neurodynamics of social perception
-Role: Principal Investigator	
+* ECOR Tosteson Postdoctoral Fellowship Award for Medical Discovery (Total: $ 74,386)                                      2018<br/>
+    Role: Principal Investigator, Massachusetts General Hospital<br/>	
+* Neuroimaging Funding Initiative for Research Fellows (Total: $ 12,000)   	                                               2015<br/>
+    Role: Principal Investigator, Martinos Center for Biomedical Imaging<br/>
+* Center for Vision Research Fellowship (Total: $ 13,742)			          	                                                 2014<br/>
+    Role: Principal Investigator, Brown University<br/>
+* Collaborative Research Award, Johns Hopkins University			                                                             2013<br/>
+  This award supports interdisciplinary research work proposed by graduate students from different laboratories.<br/>
+* Mary Ainsworth Research Award, Johns Hopkins University			                                                             2012<br/>
+  This award recognizes a female graduate student who has demonstrated exceptional scholarly progress in research.<br/>
+  
+* __Pending grant application (Under review)__
+  K01 Research Scientist Development Award (Total: $740,880, National Institute of Mental Health)<br/>
+  Title: Elucidating sex-specific roles of social anxiety in modulating neurodynamics of social perception<br/>
+  Role: Principal Investigator<br/>	
 
 ## __Teaching Experiences__
 ### Section Instructor:
-Advanced Statistical Methods (Graduate level) 	Johns Hopkins University                                         Fall 2011
-Foundations of Mind		                                         Johns Hopkins University	                                     Spring 2011
-Functional Human Neuroanatomy	                           Johns Hopkins University                                      Spring 2009
-### Guest Lecturer:
-Perception and Mind: Scene Perception                             Brown University                                     Spring & Fall 2014
-### Teaching Assistant:
-Developmental Psychology	                                         Johns Hopkins University	 	                            Fall 2010
-Psychology and Law: Clinical Applications                    Johns Hopkins University                                        Spring 2010
-Sensation and Perception	                                          Johns Hopkins University                                           Fall 2009
-Introduction to Cognitive Science 			Yonsei University			              Fall 2007
+* Advanced Statistical Methods (Graduate level) 	        Johns Hopkins University                                Fall 2011<br/>
+* Foundations of Mind		                                  Johns Hopkins University	                              Spring 2011<br/>
+* Functional Human Neuroanatomy	                          Johns Hopkins University                                Spring 2009<br/>
+
+### * Guest Lecturer:
+* Perception and Mind: Scene Perception                   Brown University                                        Spring & Fall 2014<br/>
+
+### * Teaching Assistant:
+* Developmental Psychology	                              Johns Hopkins University	 	                            Fall 2010<br/>
+* Psychology and Law: Clinical Applications               Johns Hopkins University                                Spring 2010<br/>
+* Sensation and Perception	                              Johns Hopkins University                                Fall 2009<br/>
+* Introduction to Cognitive Science 			                Yonsei University			                                  Fall 2007<br/>
 
 ## __Ad Hoc Reviewing__
-Acta Psychologica
-Attention, Perception, and Psychophysics
-European Journal of Neuroscience
-Journal of Cognitive Neuroscience
-Journal of Experimental Psychology: General
-PLoS One
-Journal of Vision
-Vision Research
-Visual Cognition
-Frontiers in Psychology
+* Acta Psychologica
+* Attention, Perception, and Psychophysics
+* European Journal of Neuroscience
+* Journal of Cognitive Neuroscience
+* Journal of Experimental Psychology: General
+* PLoS One
+* Journal of Vision
+* Vision Research
+* Visual Cognition
+* Frontiers in Psychology
 
 ## __Invited Talks__
-Brigham and Woman’s Hospital, Boston, MA						                                   2018
-Brown University, Providence, RI							                                   2018
-Press Conference on Social Behavior at ’15 Society for Neuroscience, Chicago, IL  	                                   2015 
-Brown University, Providence, RI 							                                   2014
-MIT, Cambridge, MA									                                   2013
-Korea University, Seoul, Korea						                                                                2013
-Yonsei University, Seoul, Korea						                                                  2013
+* Brigham and Woman’s Hospital, Boston, MA						                                                            2018
+* Brown University, Providence, RI							                                                                  2018
+* Press Conference on Social Behavior at ’15 Society for Neuroscience, Chicago, IL  	                            2015 
+* Brown University, Providence, RI 							                                                                  2014
+* MIT, Cambridge, MA									                                                                            2013
+* Korea University, Seoul, Korea						                                                                      2013
+* Yonsei University, Seoul, Korea						                                                                      2013
 
 ## __Working Papers__
-•	Im, H.Y., & Halberda, J., A two-state detect-or-guess model of visual perception and memory. 
-•	Im, H.Y., Adams, R.B.Jr., Cushing, C., Ward, N., Boshyan, J., & Kveraga, K., The effects of aging in neural processing of facial threat cues via magnocellular and parvocellular pathways.
-•	Im, H.Y., Bédard, P., & Song, J.-H., Inhibitory modulation of perception and action by repeated colors without consciousness.
-•	Khvostov, V.A., Utochkin, I.S., & Im, H.Y., Interplay between the Ebbinghaus illusion and hierarchical coding in visual working memory. 
-•	Utochkin, I.S., & Im, H.Y., Segmentability of irrelevant visual feature systemically modulates extraction of ensemble representation from the other visual feature. 
-•	Halberda, J., Im, H.Y., & Ly, R., Attention to early visual features empowers the segmentation of ensemble visual groups.
+* Im, H.Y., & Halberda, J., A two-state detect-or-guess model of visual perception and memory. 
+* Im, H.Y., Adams, R.B.Jr., Cushing, C., Ward, N., Boshyan, J., & Kveraga, K., The effects of aging in neural processing of facial threat cues via magnocellular and parvocellular pathways.
+* Im, H.Y., & Song, J.-H., Inhibitory modulation of perception and action by repeated colors without consciousness.
+* Halberda, J., Im, H.Y., & Ly, R., Attention to early visual features empowers the segmentation of ensemble visual groups.
 
 ## __Conference Presentations (last three years)__
-•	Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). The effects of aging in neural processing of facial threat cues via magnocellular and parvocellular pathways. Poster at Vision Sciences Society.
-•	Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and neural processing of facial threat cues via magnocellular and parvocellular pathways. Poster at Cognitive Neuroscience Society.
-•	Im, H.Y., Cushing, C., Albohn, D.N., Steiner, T.G., Ward, N., Adams, R.B.Jr., & Kveraga, K. (2017). Neurodynamics of reading crowd emotion: Independent visual pathways and hemispheric contributions. Poster at Vision Sciences Society.
-•	Adams, R.B.Jr., Im, H.Y., Ward, N., Boshyan, J., Cushing, C., & Kveraga, K. (2017). Trait anxiety moderates visual pathway contributions to the processing of clear versus ambiguous threat. Poster at Vision Sciences Society.
-•	Cushing, C., Adams, R.B.Jr., Im, H.Y., Ward, N., & Kveraga, K. (2017). Differential visual pathway contributions to compound facial threat cue processing. Poster at Vision Sciences Society.
-•	Ward, N., De Vito, D., Cushing, C., Boshyan, J., Im, H.Y., Adams, R.B.Jr., & Kveraga, K. (2017). Neurodynamics and hemispheric lateralization in threat and ambiguous negative scene recognition. Poster at Vision Sciences Society.
-•	Im, H.Y., Cushing, C., Adams, R.B.Jr., & Kveraga, K. (2016). Neural dynamics underlying reading of crowd emotion: MEG study. Poster at International Conference on Biomagnetism.
-•	Im, H.Y., Albohn, D.N., Steiner, T.G., Adams, R.B.Jr., & Kveraga, K. (2016). Crowd emotion perception is lateralized in a goal-driven fashion and modulated by observer anxiety and stimulus characteristics: behavioral and fMRI results. Poster at Vision Sciences Society.
-•	Im, H.Y., Adams, R.B.Jr., & Kveraga, K. (2016). Reading crowd emotion: The roles of hemispheric specialization, task goal, anxiety, and facial identity. Poster at Cognitive Neuroscience Society.
-•	Adams, R.B.Jr., Im, H.Y., Cushing, C., Ward, N., Boshyan, J., Steiner, T.G., Albohn, D.N., & Kveraga, K. (2016). Compound facial threat cue perception: Contributions of visual pathways, aging, and anxiety. Poster at Vision Sciences Society.
-•	Song, J.S., Im, H. Y., Gamble, C., & Song, J-H. (2016). Effects of scene consistency in subliminally perceived visual stimuli. Poster at Vision Sciences Society.
-•	Cushing, C., Adams, R.B.Jr., Im, H.Y., Ward, N., & Kveraga, K. (2016). Neurodynamics of facial threat cue perception modulated by anxiety: A MEG study. Poster at Vision Sciences Society.
-•	Khvostov, V.A., Utochkin, I.S., & Im, H.Y. (2016). Interplay between the Ebbinghaus illusion and hierarchical coding in visual working memory. Poster at Vision Sciences Society.
-•	Song, J.-H., & Im, H.Y. (2016). Paradoxical benefits of attentional distraction for visuomotor memory without explicit awareness. Poster at Society for Neuroscience. 
-•	Song, J.-H., Im, H.Y., & Bédard, P. (2015). Encoding attentional-states during visuomotor adaptation. Poster at Vision Sciences Society.
-•	Im, H.Y., & Song, J.-H. (2015). Inhibitory modulation of perception and action by repeated colors without consciousness. Poster at Vision Sciences Society.
-•	Im, H.Y., Albohn, D.N., Adams, R.B.Jr., & Kveraga, K. (2015). The integrative process of reading emotional expressions from a crowd of faces. Poster at Society for Neuroscience.
-•	Halberda, J., Im, H.Y. & Zhong, S. (2015). Clustering and number perception in random dot arrays. Talk at Annual Interdisciplinary Conference.
+* Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). The effects of aging in neural processing of facial threat cues via magnocellular and parvocellular pathways. Poster at Vision Sciences Society.
+* Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and neural processing of facial threat cues via magnocellular and parvocellular pathways. Poster at Cognitive Neuroscience Society.
+* Im, H.Y., Cushing, C., Albohn, D.N., Steiner, T.G., Ward, N., Adams, R.B.Jr., & Kveraga, K. (2017). Neurodynamics of reading crowd emotion: Independent visual pathways and hemispheric contributions. Poster at Vision Sciences Society.
+* Adams, R.B.Jr., Im, H.Y., Ward, N., Boshyan, J., Cushing, C., & Kveraga, K. (2017). Trait anxiety moderates visual pathway contributions to the processing of clear versus ambiguous threat. Poster at Vision Sciences Society.
+* Cushing, C., Adams, R.B.Jr., Im, H.Y., Ward, N., & Kveraga, K. (2017). Differential visual pathway contributions to compound facial threat cue processing. Poster at Vision Sciences Society.
+* Ward, N., De Vito, D., Cushing, C., Boshyan, J., Im, H.Y., Adams, R.B.Jr., & Kveraga, K. (2017). Neurodynamics and hemispheric lateralization in threat and ambiguous negative scene recognition. Poster at Vision Sciences Society.
+* Im, H.Y., Cushing, C., Adams, R.B.Jr., & Kveraga, K. (2016). Neural dynamics underlying reading of crowd emotion: MEG study. Poster at International Conference on Biomagnetism.
+* Im, H.Y., Albohn, D.N., Steiner, T.G., Adams, R.B.Jr., & Kveraga, K. (2016). Crowd emotion perception is lateralized in a goal-driven fashion and modulated by observer anxiety and stimulus characteristics: behavioral and fMRI results. Poster at Vision Sciences Society.
+* Im, H.Y., Adams, R.B.Jr., & Kveraga, K. (2016). Reading crowd emotion: The roles of hemispheric specialization, task goal, anxiety, and facial identity. Poster at Cognitive Neuroscience Society.
+* Adams, R.B.Jr., Im, H.Y., Cushing, C., Ward, N., Boshyan, J., Steiner, T.G., Albohn, D.N., & Kveraga, K. (2016). Compound facial threat cue perception: Contributions of visual pathways, aging, and anxiety. Poster at Vision Sciences Society.
+* Song, J.S., Im, H. Y., Gamble, C., & Song, J-H. (2016). Effects of scene consistency in subliminally perceived visual stimuli. Poster at Vision Sciences Society.
+* Cushing, C., Adams, R.B.Jr., Im, H.Y., Ward, N., & Kveraga, K. (2016). Neurodynamics of facial threat cue perception modulated by anxiety: A MEG study. Poster at Vision Sciences Society.
+* Khvostov, V.A., Utochkin, I.S., & Im, H.Y. (2016). Interplay between the Ebbinghaus illusion and hierarchical coding in visual working memory. Poster at Vision Sciences Society.
+* Song, J.-H., & Im, H.Y. (2016). Paradoxical benefits of attentional distraction for visuomotor memory without explicit awareness. Poster at Society for Neuroscience. 
+* Song, J.-H., Im, H.Y., & Bédard, P. (2015). Encoding attentional-states during visuomotor adaptation. Poster at Vision Sciences Society.
+* Im, H.Y., & Song, J.-H. (2015). Inhibitory modulation of perception and action by repeated colors without consciousness. Poster at Vision Sciences Society.
+* Im, H.Y., Albohn, D.N., Adams, R.B.Jr., & Kveraga, K. (2015). The integrative process of reading emotional expressions from a crowd of faces. Poster at Society for Neuroscience.
+*	Halberda, J., Im, H.Y. & Zhong, S. (2015). Clustering and number perception in random dot arrays. Talk at Annual Interdisciplinary Conference.
 
 ## __References__
-•	Justin Halberda, Ph.D., Johns Hopkins University, MD
-•	Kestutis Kveraga, Ph.D., Massachusetts General Hospital, Harvard Medical School, MA
-•	Joo-Hyun Song, Ph.D., Brown University, RI 	
-•	Reginald B. Adams, Jr., Ph.D., Pennsylvania State University, PA
-•	Sang Chul Chong, Ph.D., Yonsei University, Seoul, Korea
+* Justin Halberda, Ph.D., Johns Hopkins University, MD
+* Kestutis Kveraga, Ph.D., Massachusetts General Hospital, Harvard Medical School, MA
+* Joo-Hyun Song, Ph.D., Brown University, RI 	
+* Reginald B. Adams, Jr., Ph.D., Pennsylvania State University, PA
+* Sang Chul Chong, Ph.D., Yonsei University, Seoul, Korea
 
