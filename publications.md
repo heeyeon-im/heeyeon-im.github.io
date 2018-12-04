@@ -25,13 +25,13 @@ nohead: true
 
 * **Im, H.Y.**, Bédard, P., & Song, J-H. (2015). Encoding attentional-states during visuomotor learning. _Journal of Vision_, 15, 1-16. [[PDF]](../Imetal_JOV_2015.pdf) [[Demo]](../Flash.gif)
 
-* **Im, H.Y.**, Park, W., & Chong, S.C. (2015). Ensemble statistics as a unit of selection. Journal of Cognitive Psychology, 27, 114-127. [[PDF]](../Imetal_JCP_2015.pdf)
+* **Im, H.Y.**, Park, W., & Chong, S.C. (2015). Ensemble statistics as a unit of selection. _Journal of Cognitive Psychology_, 27, 114-127. [[PDF]](../Imetal_JCP_2015.pdf)
 
-* **Im, H.Y.**, & Chong, S.C. (2014). Mean size as a unit of visual working memory. _Perception_, 43, 663-676. [[PDF]](../Im, Chong_Perception_2014.pdf)
+* **Im, H.Y.**, & Chong, S.C. (2014). Mean size as a unit of visual working memory. _Perception_, 43, 663-676. [[PDF]](../Im_Chong_Perception_2014.pdf)
 
-* **Im, H.Y.**, & Halberda, J. (2013). The effects of sampling and internal noise on the representation of ensemble average size. _Attention, Perception, & Psychophysics_, 75, 278-286. [[PDF]](../Im, Halberda_APP_2013.pdf)
+* **Im, H.Y.**, & Halberda, J. (2013). The effects of sampling and internal noise on the representation of ensemble average size. _Attention, Perception, & Psychophysics_, 75, 278-286. [[PDF]](../Im_Halberda_APP_2013.pdf)
 
-* **Im, H.Y.**, & Chong, S.C. (2009). Computation of mean size is based on perceived size. _Attention, Perception, & Psychophysics_, 71, 375-384. [[PDF]](../Im, Chong_APP_2009.pdf)
+* **Im, H.Y.**, & Chong, S.C. (2009). Computation of mean size is based on perceived size. _Attention, Perception, & Psychophysics_, 71, 375-384. [[PDF]](../Im_Chong_APP_2009.pdf)
 
 * Park, K.M., Cha, O., Kim, S., **Im, H.Y.**, Chong, S.C., (2007). The Influence of Depth Context on Blind Spot Filling-in. _Korean Journal of Cognitive Science_, 18, 351-370.
 
