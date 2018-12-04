@@ -84,17 +84,18 @@ And more importantly, I have found that the way observers grouped the dots into 
 representations of "sets" and "individual objects" are extracted from the same image to interact with each other: The way dots are grouped and clustered modulates visual impression of number of the individuals, just as the way individuals are positioned modulates the way they are grouped into a set.
 <br/>
 Together, representing different perceptual units from a scene allows the visual system to be able to utilze more information with less mental resource. By combining these different levels of representation of objects and ensembles, the visual system can perceive, and we can remember, the visual scene with greater detail, which can then effectively guide better action outcomes. 
+<br/>
 
 ------
 ## **2. Action goals guide perception.** {#Research_theme_2}
 For decades, prevailing models of human behavior assume a functional structure of serial processing stages of perception, cognition, and action control modules. Thus the relationship between perception and motor system has been viewed as unidirectional; and the role of motor control system is only considered as final outcome of commands from perceptual and cognitive systems. However, I have discovered behavioral and neural evidence for continuous interactions between perception and action that are bidirectional. For example, I have found that different social motivations and action goals (e.g., approach and avoidance) modulate the way we perceive emotional states and behavioral intent of crowds of people ([Im et al., 2017a](../Im_etal_NHB_2017.pdf); [Im et al., 2017b](../Im_etal_Cult_Br_2017.pdf), see Demo [here](https://heeyeon-im.github.io/demo/)). 
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
+  <div class="col-md-8 col-sm-12">
+When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces (Image A) much more accurately and rapidly than a crowd of happy faces. Conversely, when the goal was to approach a friendly group, a happy crowd (Image B) was perceived more accurately than an angry crowd. This suggests that our goals for ongoing interactions with the external world influences the way we perceive the world. 
+    </div>    
     <div class="col-md-4 col-sm-12">
         <img src="../images/Faces1.jpg" width="85%" />
-    </div>
-    <div class="col-md-8 col-sm-12">
-When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces (Image A) much more accurately and rapidly than a crowd of happy faces. Conversely, when the goal was to approach a friendly group, a happy crowd (Image B) was perceived more accurately than an angry crowd. This suggests that our goals for ongoing interactions with the external world influences the way we perceive the world. 
     </div>
   </div>
 </div>
@@ -129,6 +130,7 @@ I have investigated how human observers' eye movement patterns reflect the curre
 Although it is generally accepted, and usually valid, that distracted attention impairs perceptual and behavioral performance, I have found advantages of distributed (or distracted) attention over focused attention in some perceptual tasks and motor learning. For example, distributed attention facilitates global processing of a visual image and enhances memory retrieval of visually-guided actions that have been learned under similar distraction. These results suggest that as another processing route, distributed attention can enhance our perception and action under some circumstances in which focused attention may actually hinder performance. A broader attentional focus afforded by reduced control under distributed attention can allow us to learn more about the background and context of the environment, compared to the mode of focused attention. This line of research has led me to pursue one of my future research aims of characterizing how these non-selective and selective routes guide each other to support different aspects for our complex behaviors, with the goal of understanding how cognition modulates perception and action in our complex behaviors across a range of tasks. New findings from this research will contribute to better rehabilitation/training programs for patients with motor degenerative diseases and those who need to refine and adjust their perception-action coordination after injuries or surgeries.
 
 (My work in this area was recognized and supported by a Center for Vision Research Award at Brown University_). 
+<br/>
 
 ------
 ## **4. Individual differences in perception, cognition, and action.** {#Research_theme_4}
