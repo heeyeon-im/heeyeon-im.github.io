@@ -11,7 +11,7 @@ Reaching and rapid serial visual presentation (RSVP) tasks<br/>
 * Encoding attentional states during visuomotor adaptation (Im et al., _J of Vision_, 2015)<br/>
 * Long lasting attentional-context dependent visuomotor memory (Im et al., _J of Experimenal Psychology: HPP_, 2016)<br/>
 Reaching and visual conjunction search tasks<br/>
-     [![Demo flash](../images/Flash_logo.jpg)](../Flash.gif)<br />
+     [![Demo flash](../images/Flash_logo11.jpg)](../Flash.gif)<br />
 * Paradoxical benefits of attentional distraction for visuomotor adaptation without awareness (Im & Song, _Under Review)<br/>
 
 **2. Crowd emotion task** (Click the image to see animation.)<br/> 
