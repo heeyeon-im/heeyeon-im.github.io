@@ -6,6 +6,7 @@ nohead: true
 ---
 My research projects aim to identify how brain dynamics guide goal-directed, adaptive behaviors in human. Specific contributions of my research projects to the field highlight interactions between object-based and ensemble-based representations, between selective and non-selective pathways, and between perceptual and action control processes. My research suggests that goal-driven behaviors are effectively supported by multiple streams of such parallel processes. This stands in contrast to traditional theories of serial, non-overlapping processing stages across perception, cognition, and action: Instead of simplifying that action is the aftermath of cognition or perception, a new model needs to include effects of continuous interactions across perception, cognition, and action control processes, which can be observed by measuring dynamic connections between brain and behavior. 
 
+## Research themes
 [__1. Perceptual flexibility empowers cognitive capabilities and action outcomes.__](#Research_theme_1)<br/>
 [__2. Action goals guide perception.__](#Research_theme_2)<br/>
 [__3. Attentional distraction can facilitate perception and action.__](#Research_theme_3)<br/>
