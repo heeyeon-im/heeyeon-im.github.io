@@ -99,8 +99,16 @@ When the observers’ goal was to avoid a potential threat in a social environme
 </div>
 <br/>
 __* Functionally and neurally differential processing routes for perceiving social visual cues__<br/>
-My fMRI and MEG data show that there are (at least) two different processing routes for perceiving and responding to social visual cues: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces. Using different experimental paradigms and tasks, I have discovered that the dorsal and ventral pathways play differential roles in mediating perceptual and action control processes in parallel. For example, 
+My fMRI and MEG data further show that there are (at least) two different processing routes for perceiving and responding to social visual cues: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces. Recently, I have discovered that the dorsal and ventral pathways differentially contribute to different aspects of social visual perception. When observers perceived individual faces, I have found greater involvement of brain areas along the ventral pathway (shown as blue blobs and arrows in Images A and B below), greater involvement of areas along the dorsal pathway (shown as red blobs and arrows in Images A and B below) in the brain ([Im et al., 2017a](../Im_etal_NHB_2017.pdf)).
+<div class="container"> 
+  <div class="row" style="margin-bottom: 1px">
+    <div class="col-md-12 col-sm-12">
+        <img src="../images/MP-CE.jpg" width="100%" />
+    </div>
+  </div>
+</div>
 
+The functional distinction between the dorsal and ventral pathways has also been observed in the domain of a single face, when it conveys different social signals for action. 
 
 __* Action goals and motivations modulate how our eyes see and navigate a visual scene__<br/>
 
