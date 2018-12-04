@@ -94,8 +94,9 @@ For decades, prevailing models of human behavior assume a functional structure o
 When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces much more accurately and rapidly than a crowd of happy faces. Conversely, when the goal was to approach a friendly group, a happy crowd was perceived more accurately than an angry crowd. This suggests that our goals for ongoing interactions with the external world influences the way we perceive the world. 
 
 __* Functionally and neurally differential processing routes for perceiving social visual cues__<br/>
-My fMRI and MEG data further show that there are (at least) two different processing routes for perceiving and responding to social visual cues: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces. <br/>
-Recently, I have discovered that the dorsal and ventral pathways differentially contribute to different aspects of social visual perception. When observers perceived individual faces, I have found greater involvement of brain areas along the ventral pathway (shown as blue blobs and arrows in Images A and B below), greater involvement of areas along the dorsal pathway (shown as red blobs and arrows in Images A and B below) in the brain ([Im et al., 2017a](../Im_etal_NHB_2017.pdf); Im et al., _under review_). For example, the fusiform gyrus in the ventral stream was more active (measured by fMRI), with lower temporal frequency (alpha frequency oscillations measured by MEG) during perception of an individual emotional face. On the other hand, the intraparietal sulcus in the dorsal stream was more active (measured by fMRI), with higher temporal frequency (beta frequency oscillations measured by MEG) during perception of a crowd of emotional faces. 
+Recently, I have discovered that the dorsal and ventral pathways differentially contribute to different aspects of social visual perception. My fMRI and MEG data show that there are (at least) two different processing routes for perceiving and responding to social visual cues: a fast processing route along the dorsal pathway in the brain for global perception of, and fast reaction to, social crowds and a slower processing route along the ventral pathway for local and detailed perception of individual faces. <br/>
+
+When observers perceived individual faces, I have found greater involvement of brain areas along the ventral pathway (shown as blue blobs and arrows in Images A and B below), greater involvement of areas along the dorsal pathway (shown as red blobs and arrows in Images A and B below) in the brain ([Im et al., 2017a](../Im_etal_NHB_2017.pdf); Im et al., _under review_). For example, the fusiform gyrus in the ventral stream was more active (measured by fMRI), with lower temporal frequency (alpha frequency oscillations measured by MEG) during perception of an individual emotional face. On the other hand, the intraparietal sulcus in the dorsal stream was more active (measured by fMRI), with higher temporal frequency (beta frequency oscillations measured by MEG) during perception of a crowd of emotional faces. 
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
     <div class="col-md-12 col-sm-12">
@@ -103,8 +104,6 @@ Recently, I have discovered that the dorsal and ventral pathways differentially 
     </div>
   </div>
 </div>
-<br/>
-My findings from fMRI and MEG suggest that both the dorsal and ventral pathways are involved in perceptual processing, but with differential contributions to perceiving and responding to individual faces and crowds of faces. 
 <br/>
 
 __* Action goals and motivations modulate how our eyes see and navigate a visual scene__<br/>
