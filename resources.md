@@ -4,6 +4,7 @@ layout: page
 permalink: /resources/
 nohead: true
 ---
+------
 ## __Talk slides__
 * Different mechanisms and pathways for perceiving objects, sets, and ensembles [[pdf]](/images/Im_BWH_talk.pdf)<br/>
   _An invited talk presented at Brigham and Women's Hospital, 2018_
