@@ -17,10 +17,10 @@ nohead: true
 
 ------
 **2. Crowd emotion task** (Click the image to see animation.)<br/> 
-     [![Demo flash](../images/Flash_logo2.jpg)](../Flash2.gif)<br />
   * Ensemble coding of crowd emotion: Differential hemispheric and visual stream contributions (Im et al., _Nature Human Behav._, 2017)<br/>
   * Cross-cultural effects on ensemble coding of emotion in facial crowds (Im et al., _Culture and Brain_, 2017)
-
+  [![Demo flash](../images/Flash_logo2.jpg)](../Flash2.gif)<br />
+  
 ------
 **3a. Creating Magnocellular biased images** (Click the image to see animation.)<br/>
      [![Demo flash](../images/Flash_logo3.jpg)](../Flash3.gif)<br />
