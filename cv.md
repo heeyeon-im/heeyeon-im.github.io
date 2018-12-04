@@ -43,11 +43,11 @@ nohead: true
 
 ------
 ## __Manuscripts Under Review (Reprints available)__<br/>
-* Im, H.Y., & Song, J-H., Paradoxical benefits of attentional distraction for visuomotor adaptation without awareness. 
-* Im, H.Y., Cushing, C., Ward, N., Boshyan, J., Adams, R.B.Jr., & Kveraga, K., Different temporal characteristics of MEG activation during emotional perception of people and individuals. 
-* Kveraga, K., Im, H.Y., Ward, N., & Adams, R.B.Jr., Fast saccadic and manual responses to faces presented to the koniocellular visual pathway. 
-* Cushing, C., Im, H.Y., Adams, R.B.Jr., Ward, N., & Kveraga, K., Magnocellular and parvocellular pathway contributions to facial threat cue processing. 
-* De Vito, D., Cushing, C., Im, H.Y., Albohn, D.N., Adams, R.B.Jr., & Kveraga, K., Spatial and feature-based attention to expressive faces. 
+* __Im, H.Y.__, & Song, J-H., Paradoxical benefits of attentional distraction for visuomotor adaptation without awareness. 
+* __Im, H.Y.__, Cushing, C., Ward, N., Boshyan, J., Adams, R.B.Jr., & Kveraga, K., Different temporal characteristics of MEG activation during emotional perception of people and individuals. 
+* Kveraga, K., __Im, H.Y.__, Ward, N., & Adams, R.B.Jr., Fast saccadic and manual responses to faces presented to the koniocellular visual pathway. 
+* Cushing, C., __Im, H.Y.__, Adams, R.B.Jr., Ward, N., & Kveraga, K., Magnocellular and parvocellular pathway contributions to facial threat cue processing. 
+* De Vito, D., Cushing, C., __Im, H.Y.__, Albohn, D.N., Adams, R.B.Jr., & Kveraga, K., Spatial and feature-based attention to expressive faces. 
 
 ------
 ## __Fellowships and Academic Awards__<br/> 
