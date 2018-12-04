@@ -139,4 +139,3 @@ Introduction to Cognitive Science, Yonsei University<br/>
 * Joo-Hyun Song, Ph.D., Brown University, RI 	
 * Reginald B. Adams, Jr., Ph.D., Pennsylvania State University, PA
 * Sang Chul Chong, Ph.D., Yonsei University, Seoul, Korea
-
