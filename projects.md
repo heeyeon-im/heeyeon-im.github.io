@@ -93,7 +93,7 @@ For decades, prevailing models of human behavior assume a functional structure o
         <img src="../images/Faces1.jpg" width="85%" />
     </div>
     <div class="col-md-8 col-sm-12">
-When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces (Image A) much more accurately and rapidly than a crowd of happy faces. Conversely, when the goal was to approach a friendly group, a happy crowd (Image B) was perceived more accurately than an angry crowd. This suggests that our goals for ongoing interactions with the external world influences the way we perceive the world, just as what we see guides our ongoing interactions with the world. 
+When the observers’ goal was to avoid a potential threat in a social environment, they recognized a crowd of angry faces (Image A) much more accurately and rapidly than a crowd of happy faces. Conversely, when the goal was to approach a friendly group, a happy crowd (Image B) was perceived more accurately than an angry crowd. This suggests that our goals for ongoing interactions with the external world influences the way we perceive the world. 
     </div>
   </div>
 </div>
