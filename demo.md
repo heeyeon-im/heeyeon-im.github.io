@@ -8,10 +8,11 @@ nohead: true
 ------
 **1. Visuomotor learning: dual-task paradigms** (Click the image to see animation.)<br/>
 [![Demo flash](../images/Flash_logo.jpg)](../Flash.gif)<br />
+[![Demo flash](../images/Flash_logo11.jpg)](../Flash.gif)<br />  
 * Reaching and rapid serial visual presentation (RSVP) tasks<br/>
   * Encoding attentional states during visuomotor adaptation (Im et al., _J of Vision_, 2015)<br/>
   * Long lasting attentional-context dependent visuomotor memory (Im et al., _J of Experimenal Psychology: HPP_, 2016)<br/>
-[![Demo flash](../images/Flash_logo11.jpg)](../Flash.gif)<br />  
+
 * Reaching and visual conjunction search tasks<br/>
   * Paradoxical benefits of attentional distraction for visuomotor adaptation without awareness (Im & Song, _Under Review_)<br/>
 
