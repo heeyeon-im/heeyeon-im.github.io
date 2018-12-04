@@ -78,10 +78,10 @@ nohead: true
 * Perception and Mind: Scene Perception, Brown University<br/>
 
 ### Teaching Assistant:<br/>
-Developmental Psychology, Johns Hopkins University<br/>
-Psychology and Law: Clinical Applications, Johns Hopkins University<br/>
-Sensation and Perception, Johns Hopkins University<br/>
-Introduction to Cognitive Science, Yonsei University<br/>
+* Developmental Psychology, Johns Hopkins University<br/>
+* Psychology and Law: Clinical Applications, Johns Hopkins University<br/>
+* Sensation and Perception, Johns Hopkins University<br/>
+* Introduction to Cognitive Science, Yonsei University<br/>
 
 ------
 ## __Ad Hoc Reviewing__<br/>
