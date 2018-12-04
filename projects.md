@@ -103,7 +103,7 @@ My fMRI and MEG data further show that there are (at least) two different proces
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
     <div class="col-md-12 col-sm-12">
-        <img src="../images/MP-CE3.jpg" width="90%" />
+        <img src="../images/MP-CE3.jpg" width="100%" />
     </div>
   </div>
 </div>
