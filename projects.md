@@ -107,8 +107,8 @@ My fMRI and MEG data further show that there are (at least) two different proces
     </div>
   </div>
 </div>
-These findings from fMRI and MEG suggest that both the dorsal and ventral pathways are involved in perceptual processing, but with differential contributions to perceiving individual faces and crowds of faces. This is somewhat contrast to the traditional model of dual pathway for dorsal and ventral pathways: 
-
+My findings from fMRI and MEG suggest that both the dorsal and ventral pathways are involved in perceptual processing, but with differential contributions to perceiving and responding to individual faces and crowds of faces. 
+<br/>
 The functional distinction between the dorsal and ventral pathways has also been observed in the domain of a single face, when it conveys different social signals for action. 
 
 __* Action goals and motivations modulate how our eyes see and navigate a visual scene__<br/>
