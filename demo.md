@@ -12,7 +12,7 @@ nohead: true
   * Long lasting attentional-context dependent visuomotor memory (Im et al., _J of Experimenal Psychology: HPP_, 2016)<br/>
 * Reaching and visual conjunction search tasks<br/>
      [![Demo flash](../images/Flash_logo11.jpg)](../Flash.gif)<br />
-  * Paradoxical benefits of attentional distraction for visuomotor adaptation without awareness (Im & Song, _Under Review)<br/>
+  * Paradoxical benefits of attentional distraction for visuomotor adaptation without awareness (Im & Song, _Under Review_)<br/>
 
 **2. Crowd emotion task** (Click the image to see animation.)<br/> 
      [![Demo flash](../images/Flash_logo2.jpg)](../Flash2.gif)<br />
