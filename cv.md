@@ -141,8 +141,8 @@ nohead: true
 
 ------
 ## __References__<br/>
-* Justin Halberda, Ph.D., Johns Hopkins University, MD [[link]](http://www.halberdalab.net/)
-* Kestutis Kveraga, Ph.D., Massachusetts General Hospital, Harvard Medical School, MA [[link]](http://www.kveragalab.org/index.html)
-* Joo-Hyun Song, Ph.D., Brown University, RI [[link]](http://research.clps.brown.edu/songlab/)
-* Reginald B. Adams, Jr., Ph.D., Pennsylvania State University, PA [[link]](https://sites.google.com/site/socialviplab/)
-* Sang Chul Chong, Ph.D., Yonsei University, Seoul, Korea [[link]](https://vcc.yonsei.ac.kr/)
+* Justin Halberda, Ph.D., Johns Hopkins University, MD [[Halberda Lab]](http://www.halberdalab.net/)
+* Kestutis Kveraga, Ph.D., Massachusetts General Hospital, Harvard Medical School, MA [[Kveraga Lab]](http://www.kveragalab.org/index.html)
+* Joo-Hyun Song, Ph.D., Brown University, RI [[PAC Lab]](http://research.clps.brown.edu/songlab/)
+* Reginald B. Adams, Jr., Ph.D., Pennsylvania State University, PA [[SPE Lab]](https://sites.google.com/site/socialviplab/)
+* Sang Chul Chong, Ph.D., Yonsei University, Seoul, Korea [[VCC Lab]](https://vcc.yonsei.ac.kr/)
