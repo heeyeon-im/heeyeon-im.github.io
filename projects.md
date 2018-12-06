@@ -99,7 +99,7 @@ When observers perceived individual faces, I have found greater involvement of b
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">
     <div class="col-md-12 col-sm-12">
-        <img src="../images/MP-CE3.jpg" width="100%" />
+        <img src="../images/MP-CE3.jpg" width="95%" />
     </div>
   </div>
 </div>
