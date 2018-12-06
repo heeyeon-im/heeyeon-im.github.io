@@ -41,7 +41,7 @@ Representing and storing an ensemble (e.g., average) of multiple objects helps t
   </div>
 </div>
 <br/>
-Moreover, I have discovered that a visual image in which individual items are spatially grouped together allows the visual system to extract, select, and remember more ensembles from the image, compared to that of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see Demos [here](../meansize.gif)). This suggests that reconstructing individuals in a visual scene in a coherent manner (e.g., sets or ensembles) is an efficient strategy to increase our memory capacity. 
+Moreover, I have discovered that a visual image in which groups of individual items are spatially clustered together allows the visual system to select, extract, and remember more sets, compared to an image of individuals that are spatially intermixed ([Im & Chong, 2014](../Im, Chong_Perception_2014.pdf); [Im, Park, & Chong, 2015](../Imetal_JCP_2015.pdf); see Demos [here](../meansize.gif)). This shows that reorganizing visual objects in a coherent manner (e.g., into sets or ensembles) is an efficient strategy to increase our memory capacity. 
 <div class="container"> 
   <div class="row" style="margin-bottom: 1px">   
     <div class="col-md-3 col-sm-12">
