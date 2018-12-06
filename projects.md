@@ -56,6 +56,7 @@ Moreover, I have discovered that a visual image in which groups of individual it
 <br/>
 This is somewhat equivalent to using a "chunking" or "binding" strategy that reduces the amount of verbal information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). My findings in this line of research suggest that ensemble perception allows us to compress individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
 <br/>
+
 __* Hierarchical coding of a visual scene: Objects and Ensembles__<br/>
 My findings in this research program also specify a critical new aspect of the structure of visual perception by demonstrating that multiple ensembles of items, up to 3~4 sets, can be extracted in parallel, as higher-order units for visual perception and memory. The limit on the number of ensembles that can be extracted at any given time also converges with the well-documented three-or-four-object limits of visual attention (e.g., [Pylyshyn & Storm, 1988](https://www.ncbi.nlm.nih.gov/pubmed/3153671)) and visual working memory (e.g., [Alvarez & Cavanagh, 2004](https://www.ncbi.nlm.nih.gov/pubmed/14738517); [Luck & Vogel, 1997](https://www.ncbi.nlm.nih.gov/pubmed/9384378); [Zhang & Luck, 2008](https://www.ncbi.nlm.nih.gov/pubmed/18385672)). 
 <div class="container"> 
