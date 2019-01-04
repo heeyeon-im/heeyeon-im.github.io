@@ -7,7 +7,7 @@ nohead: true
 ------
 # Publications<br />
 
-* De Vito, D., Cushing, C., **Im, H.Y.**, Albohn, D.N., Adams, R.B.Jr., & Kveraga, K. (in press). Spatial and feature-based attention to expressive faces.
+* De Vito, D., Cushing, C., **Im, H.Y.**, Albohn, D.N., Adams, R.B.Jr., & Kveraga, K. (in press). Spatial and feature-based attention to expressive faces. _Experimental Brain Research_.
 
 * **Im, H.Y.**, Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. _Human Brain Mapping_, 39, 2725-2741. [[PDF]](../Im_Hum._Brain_Mapp._2018.pdf)
 
