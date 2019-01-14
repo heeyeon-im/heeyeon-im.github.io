@@ -54,7 +54,7 @@ Moreover, I have discovered that a visual image in which groups of individual it
   </div>
 </div>
 <br/>
-This is somewhat equivalent to using a "chunking" or "binding" strategy that reduces the amount of verbal information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). My findings in this line of research suggest that ensemble perception allows us to compress individuals in a visual image into a compact and meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
+This is somewhat equivalent to using a "chunking" or "binding" strategy that reduces the amount of verbal information we have to deal with at once (e.g., recoding the separate letters F-B-I-C-I-A-N-S-A into three words, FBI, CIA, and NSA). My findings in this line of research suggest that ensemble perception allows us to compress individuals in a visual image into meaningful "chunks", saving cognitive resources that can be used to process and remember more information about the scene.   
 <br/>
 
 __* Hierarchical coding of a visual scene: Objects and Ensembles__<br/>
