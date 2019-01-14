@@ -85,7 +85,7 @@ And more importantly, I have found that the way observers grouped the dots into 
 representations of "sets" and "individual objects" are extracted from the same image and interact with each other: The way dots are grouped and clustered modulates visual impression of number of individuals, just as the way individual objects are positioned modulates the way they are grouped into an ensemble.
 <br/>
 
-Together, representing different perceptual units from a scene allows the visual system to utilze more information with less mental resource. By combining these different levels of representation of objects and ensembles, the visual system can perceive, and we can remember, the visual scene with greater detail, which can then effectively guide better action outcomes. 
+Together, representing different perceptual units from a scene allows the visual system to utilize more information with less mental resource. By combining these different levels of representation of objects and ensembles, the visual system can perceive, and we can remember, the visual scene with greater detail, which can then effectively guide better action outcomes. 
 <br/>
 
 ------
