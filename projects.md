@@ -78,7 +78,7 @@ To investigate the nature of hierarchical coding, one of my research projects ([
         <img src="../images/grouping_fig3.jpg" width="90%" />
     </div>
     <div class="col-md-8 col-sm-12">
-And more importantly, I have found that the way observers grouped the dots into sets (predicted by my clustering algorithm) systematically modulated the way they estimated the number of individual dots. Although Images A and B both had 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image B (more clustered) being perceived as having much fewer dots than Image A (less clustered). My clustering algorithm could also accurately predict the degree to which observers underestimated the number of individual dots, depending on the degree to which individual dots were spatially clustered into groups. This finding provides an example of how
+And more importantly, I have found that the way observers grouped the dots into sets systematically modulated the way they estimated the number of individual dots. Although Images A and B both had 29 dots, the estimated number of individual dots by human observers were dramatically different, with Image B (more clustered) being perceived as having much fewer dots than Image A (less clustered). My clustering algorithm could also accurately predict the degree to which observers underestimated the number of individual dots, depending on the degree to which individual dots were spatially clustered into groups. This finding provides an example of how
     </div>
   </div>
 </div>
