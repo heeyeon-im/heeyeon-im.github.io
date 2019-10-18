@@ -10,8 +10,8 @@ nohead: true
 
 ------
 ## __Academic Appointments__<br/>
-* Boston Children's Hospital and Harvard Medical School (Current)
-  Department of Newborn Medicine
+* Boston Children's Hospital and Harvard Medical School (Current)<br/>
+  Department of Newborn Medicine<br/>
 * Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow (2015-2019)<br/>
   Martinos Center for Biomedical Imaging, Department of Radiology<br/>
 * Brown University, Postdoctoral Associate (2014-2015)<br/>
