@@ -10,10 +10,12 @@ nohead: true
 
 ------
 ## __Academic Appointments__<br/>
-* Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow (2015-Current)<br/>
-  Martinos Center for Biomedical Imaging, Department of Radiology (Advisor: Kestutis Kveraga)<br/>
+* Boston Children's Hospital and Harvard Medical School (Current)
+  Department of Newborn Medicine
+* Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow (2015-2019)<br/>
+  Martinos Center for Biomedical Imaging, Department of Radiology<br/>
 * Brown University, Postdoctoral Associate (2014-2015)<br/>
-  Department of Cognitive, Linguistics, & Psychological Sciences (Advisor: Joo-Hyun Song)<br/>	
+  Department of Cognitive, Linguistics, & Psychological Sciences<br/>	
              
 ------
 ## __Education__<br/>
@@ -100,9 +102,14 @@ nohead: true
 * Vision Research
 * Visual Cognition
 * Frontiers in Psychology
+* Neuropsychologia
+* Grant review for Israel Science Foundation
 
 ------
 ## __Invited Talks ([Click here to see some of my talk slides](https://heeyeon-im.github.io/resources/))__
+* Institute for Basic Science, Daegu, Korea (2019)<br/>
+* Busan University, Busan, Korea (2019)<br/>
+* Mclean Hospital, Belmont, MA (2019)<br/>
 * Brigham and Woman’s Hospital, Boston, MA (2018)<br/>
 * Brown University, Providence, RI (2018) <br/>
 * Press Conference on Social Behavior at ’15 Society for Neuroscience, Chicago, IL (2015)<br/>
