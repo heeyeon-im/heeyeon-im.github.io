@@ -7,6 +7,8 @@ nohead: true
 ------
 # Publications<br />
 
+* Kveraga, K., **Im, H.Y.**, Ward, N., & Adams, R.B.Jr. (2020). Fast saccadic and manual responses to faces presented to the koniocellular visual pathway. _Journal of Vision_, 20(2):9. doi: 10.1167/jov.20.2.9.
+
 *  Adams, R.B.Jr., **Im, H.Y.**, Cushing, C., Boshyan, J., Ward, N., Albohn, D.N., & Kveraga, K. (2019). Differential magnocellular versus parvocellular pathway contributions to the combinatorial processing of facial threat. _Progress in Brain Research_, 247, 71-87.
 
 * Cushing, C., **Im, H.Y.**, Adams, R.B.Jr., Ward, N., & Kveraga, K. (2019). Magnocellular and parvocellular pathway contributions to facial threat cue processing. _Social Cognitive and Affective Neuroscience_, 14, 151-162.
