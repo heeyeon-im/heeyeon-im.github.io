@@ -15,7 +15,7 @@ nohead: true
 
 * Cushing, C., **Im, H.Y.**, Adams, R.B.Jr., Ward, N., & Kveraga, K. (2019). Magnocellular and parvocellular pathway contributions to facial threat cue processing. _Social Cognitive and Affective Neuroscience_, 14, 151-162.
 
-* Kveraga, K., De Vito, D., Cushing, C., **Im, H.Y.**, Albohn, D.N., & Adams, R.B.Jr. (2019). Spatial and feature-based attention to expressive faces. _Experimental Brain Research_, 4, 967-975.
+* Kveraga, K., De Vito, D., Cushing, C., **Im, H.Y.**, Albohn, D.N., & Adams, R.B.Jr. (2019). Spatial and feature-based attention to expressive faces. _Experimental Brain Research_, 4, 967-975. [[PDF]](../Kverage_EBR_2019.pdf)
 
 * **Im, H.Y.**, Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. _Human Brain Mapping_, 39, 2725-2741. [[PDF]](../Im_Hum._Brain_Mapp._2018.pdf)
 
