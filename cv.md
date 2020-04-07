@@ -28,7 +28,10 @@ nohead: true
 
 ------
 ## __Publications ([Click here for pdf files](https://heeyeon-im.github.io/publications/))__<br/>
-* Kveraga, K., __Im, H.Y.__, Ward, N., & Adams, R.B.Jr. (2020). Fast saccadic and manual responses to faces presented to the koniocellular visual pathway. _Journal of Vision_, 20, 9. 
+
+* **Im, H.Y.**, Tiurina, N.A., & Utochkin, I.S. (in press). An explicit investigation of the roles that feature distributions play in rapid visual categorization. _Attention, Perception, & Psychophysics_
+* Kveraga, K., **Im, H.Y.**, Ward, N., & Adams, R.B.Jr. (2020). Fast saccadic and manual responses to faces presented to the koniocellular visual pathway. _Journal of Vision_, 20(2):9. doi: 10.1167/jov.20.2.9.
+*  Adams, R.B.Jr., **Im, H.Y.**, Cushing, C., Boshyan, J., Ward, N., Albohn, D.N., & Kveraga, K. (2019). Differential magnocellular versus parvocellular pathway contributions to the combinatorial processing of facial threat. _Progress in Brain Research_, 247, 71-87.
 * Cushing, C., __Im, H.Y.__, Adams, R.B.Jr., Ward, N., & Kveraga, K. (2019). Magnocellular and parvocellular pathway contributions to facial threat cue processing. _Social Cognitive and Affective Neuroscience_, 14, 151-162. 
 * Kveraga, K., De Vito, D., Cushing, C., __Im, H.Y.__, Albohn, D.N., & Adams, R.B.Jr. (2019). Spatial and feature-based attention to expressive faces. _Experimental Brain Research_.
 * __Im, H.Y.__, Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. _Human Brain Mapping,_ 39, 2725-2741. 
