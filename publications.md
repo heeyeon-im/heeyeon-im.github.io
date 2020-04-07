@@ -13,7 +13,7 @@ nohead: true
 
 *  Adams, R.B.Jr., **Im, H.Y.**, Cushing, C., Boshyan, J., Ward, N., Albohn, D.N., & Kveraga, K. (2019). Differential magnocellular versus parvocellular pathway contributions to the combinatorial processing of facial threat. _Progress in Brain Research_, 247, 71-87.
 
-* Cushing, C., **Im, H.Y.**, Adams, R.B.Jr., Ward, N., & Kveraga, K. (2019). Magnocellular and parvocellular pathway contributions to facial threat cue processing. _Social Cognitive and Affective Neuroscience_, 14, 151-162.
+* Cushing, C., **Im, H.Y.**, Adams, R.B.Jr., Ward, N., & Kveraga, K. (2019). Magnocellular and parvocellular pathway contributions to facial threat cue processing. _Social Cognitive and Affective Neuroscience_, 14, 151-162. [[PDF]](../CushingIm_SCAN_2019.pdf)
 
 * Kveraga, K., De Vito, D., Cushing, C., **Im, H.Y.**, Albohn, D.N., & Adams, R.B.Jr. (2019). Spatial and feature-based attention to expressive faces. _Experimental Brain Research_, 4, 967-975. [[PDF]](../Kverage_EBR_2019.pdf)
 
