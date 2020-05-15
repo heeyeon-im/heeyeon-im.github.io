@@ -7,9 +7,9 @@ nohead: true
 ------
 # Publications<br />
 
-* **Im, H.Y.**, Tiurina, N.A., & Utochkin, I.S. (in press). An explicit investigation of the roles that feature distributions play in rapid visual categorization. _Attention, Perception, & Psychophysics_
+* **Im, H.Y.**, Tiurina, N.A., & Utochkin, I.S. (in press). An explicit investigation of the roles that feature distributions play in rapid visual categorization. _Attention, Perception, & Psychophysics. [[PDF]](../Im_etal_AP&P2020.pdf) 
 
-* Kveraga, K., **Im, H.Y.**, Ward, N., & Adams, R.B.Jr. (2020). Fast saccadic and manual responses to faces presented to the koniocellular visual pathway. _Journal of Vision_, 20(2):9. doi: 10.1167/jov.20.2.9. [[PDF]](../KverageIm_JOV_2020.pdf)
+* Kveraga, K., **Im, H.Y.**, Ward, N., & Adams, R.B.Jr. (2020). Fast saccadic and manual responses to faces presented to the koniocellular visual pathway. _Journal of Vision_, 20(2):9. doi: 10.1167/jov.20.2.9.
 
 *  Adams, R.B.Jr., **Im, H.Y.**, Cushing, C., Boshyan, J., Ward, N., Albohn, D.N., & Kveraga, K. (2019). Differential magnocellular versus parvocellular pathway contributions to the combinatorial processing of facial threat. _Progress in Brain Research_, 247, 71-87. [[PDF]](../AdamsIm_PBR_2019.pdf)
 
