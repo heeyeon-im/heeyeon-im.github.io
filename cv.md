@@ -9,7 +9,7 @@ nohead: true
 
 ------
 ## __Academic Appointments__<br/>
-* Instructor, Boston Children's Hospital and Harvard Medical School (Current)<br/>
+* __Instructor, Boston Children's Hospital and Harvard Medical School (Current)__<br/>
 * Postdoctoral Fellow, Massachusetts General Hospital and Harvard Medical School (2015-2019)<br/>
   Martinos Center for Biomedical Imaging, Department of Radiology<br/>
 * Postdoctoral Associate, Brown University (2014-2015)<br/>
@@ -82,7 +82,7 @@ nohead: true
   Title: Elucidating sex-specific roles of social anxiety in modulating neurodynamics of social 
 perception<br/>
   K01 (NIMH)<br/>
-  Role: Principal Investigatory using fMRI and MEG.<br/>
+  Role: Principal Investigator<br/>
   SRG Action: Impact/Priority Score: 43<br/>
 
 ------
