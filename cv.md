@@ -72,9 +72,19 @@ nohead: true
   _This award recognizes a female graduate student who has demonstrated exceptional scholarly progress in research._<br/>
 
 * __Pending grant application (Under review)__<br/>
-  K01 Research Scientist Development Award (Total: $740,880, National Institute of Mental Health)<br/>
-  Title: Elucidating sex-specific roles of social anxiety in modulating neurodynamics of social perception<br/>
-  Role: Principal Investigator<br/>	
+  Year: 2020
+  Title: MEG decoding of Japanese speech sound in Japanese- and English-speaking children below 
+4 years of age
+  R21 (NIH/NIDCD)
+  Role: Principal Investigator
+
+* __Past grant application (Unfunded)__<br/>
+  Year: 2019 
+  Title: Elucidating sex-specific roles of social anxiety in modulating neurodynamics of social 
+perception
+  K01 (NIMH)
+  Role: Principal Investigatory using fMRI and MEG. 
+  SRG Action: Impact/Priority Score: 43
 
 ------
 ## __Teaching Experiences__<br/>
