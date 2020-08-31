@@ -10,7 +10,6 @@ nohead: true
 ------
 ## __Academic Appointments__<br/>
 * Instructor, Boston Children's Hospital and Harvard Medical School (Current)<br/>
-  Department of Newborn Medicine<br/>
 * Postdoctoral Fellow, Massachusetts General Hospital and Harvard Medical School (2015-2019)<br/>
   Martinos Center for Biomedical Imaging, Department of Radiology<br/>
 * Postdoctoral Associate, Brown University (2014-2015)<br/>
