@@ -71,19 +71,19 @@ nohead: true
   _This award recognizes a female graduate student who has demonstrated exceptional scholarly progress in research._<br/>
 
 * __Pending grant application (Under review)__<br/>
-  Year: 2020
+  Year: 2020<br/>
   Title: MEG decoding of Japanese speech sound in Japanese- and English-speaking children below 
-4 years of age
-  R21 (NIH/NIDCD)
-  Role: Principal Investigator
+4 years of age<br/>
+  R21 (NIH/NIDCD)<br/>
+  Role: Principal Investigator<br/>
 
 * __Past grant application (Unfunded)__<br/>
-  Year: 2019 
+  Year: 2019<br/>
   Title: Elucidating sex-specific roles of social anxiety in modulating neurodynamics of social 
-perception
-  K01 (NIMH)
-  Role: Principal Investigatory using fMRI and MEG. 
-  SRG Action: Impact/Priority Score: 43
+perception<br/>
+  K01 (NIMH)<br/>
+  Role: Principal Investigatory using fMRI and MEG.<br/>
+  SRG Action: Impact/Priority Score: 43<br/>
 
 ------
 ## __Teaching Experiences__<br/>
