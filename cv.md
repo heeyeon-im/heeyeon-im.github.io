@@ -4,17 +4,16 @@ layout: page
 permalink: /cv/
 nohead: true
 ---
-(Click here to download a short version of my Curriculum Vitae: [[pdf]](../cv_heeyeon-im.pdf))
 
 # __Hee Yeon Im, Ph.D.__
 
 ------
 ## __Academic Appointments__<br/>
-* Boston Children's Hospital and Harvard Medical School (Current)<br/>
+* Instructor, Boston Children's Hospital and Harvard Medical School (Current)<br/>
   Department of Newborn Medicine<br/>
-* Massachusetts General Hospital and Harvard Medical School, Postdoctoral Fellow (2015-2019)<br/>
+* Postdoctoral Fellow, Massachusetts General Hospital and Harvard Medical School (2015-2019)<br/>
   Martinos Center for Biomedical Imaging, Department of Radiology<br/>
-* Brown University, Postdoctoral Associate (2014-2015)<br/>
+* Postdoctoral Associate, Brown University (2014-2015)<br/>
   Department of Cognitive, Linguistics, & Psychological Sciences<br/>	
              
 ------
@@ -29,7 +28,7 @@ nohead: true
 ------
 ## __Publications ([Click here for pdf files](https://heeyeon-im.github.io/publications/))__<br/>
 
-* **Im, H.Y.**, Tiurina, N.A., & Utochkin, I.S. (in press). An explicit investigation of the roles that feature distributions play in rapid visual categorization. _Attention, Perception, & Psychophysics_
+* **Im, H.Y.**, Tiurina, N.A., & Utochkin, I.S. (2020). An explicit investigation of the roles that feature distributions play in rapid visual categorization. _Attention, Perception, & Psychophysics_
 * Kveraga, K., **Im, H.Y.**, Ward, N., & Adams, R.B.Jr. (2020). Fast saccadic and manual responses to faces presented to the koniocellular visual pathway. _Journal of Vision_, 20(2):9. doi: 10.1167/jov.20.2.9.
 *  Adams, R.B.Jr., **Im, H.Y.**, Cushing, C., Boshyan, J., Ward, N., Albohn, D.N., & Kveraga, K. (2019). Differential magnocellular versus parvocellular pathway contributions to the combinatorial processing of facial threat. _Progress in Brain Research_, 247, 71-87.
 * Cushing, C., __Im, H.Y.__, Adams, R.B.Jr., Ward, N., & Kveraga, K. (2019). Magnocellular and parvocellular pathway contributions to facial threat cue processing. _Social Cognitive and Affective Neuroscience_, 14, 151-162. 
