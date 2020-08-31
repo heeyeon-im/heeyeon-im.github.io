@@ -105,6 +105,7 @@ nohead: true
 * Visual Cognition
 * Frontiers in Psychology
 * Neuropsychologia
+* Consciousness and Cognition
 * Grant review for Israel Science Foundation
 
 ------
