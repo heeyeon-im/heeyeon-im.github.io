@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "Hee Yeon Im"
-description: "HeeYeon.Im@childrens.harvard.edu"
+description: "heeyeon.im@ubc.ca"
 baseurl: ""
 url: "https://heeyeon-im.github.io"
 logo: "/images/heeyeon.jpg"
