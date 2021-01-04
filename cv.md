@@ -24,4 +24,4 @@ nohead: true
   Advisor: Sang Chul Chong<br/>
 * Yonsei University (Seoul, Korea)  B.S. in Psychology (2001-2006)<br/>
 
-## __Detailed CV can be downloaded here:__ (https://heeyeon-im.github.io/HeeYeon_Im_CV_2020_November.pdf)
+## __Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
