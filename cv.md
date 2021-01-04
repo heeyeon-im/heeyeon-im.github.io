@@ -23,3 +23,5 @@ nohead: true
 * Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (2006-2008)<br/>
   Advisor: Sang Chul Chong<br/>
 * Yonsei University (Seoul, Korea)  B.S. in Psychology (2001-2006)<br/>
+
+* Detailed CV can be downloaded here: (https://heeyeon-im.github.io/HeeYeon_Im_CV_2020_November.pdf)
