@@ -14,7 +14,7 @@ nohead: true
 * [__Individual differences in social affective processing__](/projects_individual_differences.md)<br/>
 
 
-* [__Functional relationship between perception and action__](/projects_perception_action.md)<br/>
+* [__Functional relationships between perception and action__](/projects_perception_action.md)<br/>
 
 
 * [__Encoding & Decoding MEG signals__](/projects_decoding_meg.md)<br/>
