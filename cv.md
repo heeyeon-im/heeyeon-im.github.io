@@ -8,6 +8,9 @@ nohead: true
 # __Hee Yeon Im, Ph.D.__
 
 ------
+## __Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
+------
+
 ## __Academic Appointments__<br/>
 * Assistant Professor, University of British Columbia (2021-2024) (Current)<br/>
 * Instructor, Boston Children's Hospital and Harvard Medical School (2020)<br/>
@@ -24,4 +27,4 @@ nohead: true
   Advisor: Sang Chul Chong<br/>
 * Yonsei University (Seoul, Korea)  B.S. in Psychology (2001-2006)<br/>
 
-## __Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
+
