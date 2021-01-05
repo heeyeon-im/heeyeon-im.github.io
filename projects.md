@@ -8,8 +8,8 @@ nohead: true
 <details>
 <summary>
   <b>Ensemble coding</b></summary>
-    Links:
-    ![Eye](/images/Eye.jpg)<br/>
+    Links:<br/>
+    ![Visualworld](../images/Visualworld.jpg)<br/>
 </details>
 
 
