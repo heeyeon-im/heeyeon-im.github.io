@@ -7,7 +7,7 @@ entries_layout: list
 ---
 
 ------
-Email: <heeyeon.im@ubc.ca><br/>
+Email address: heeyeon.im@ubc.ca<br/>
 Detailed CV can be downloaded here: [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
 
 __Academic Appointments__<br/>
@@ -21,9 +21,9 @@ __Academic Appointments__<br/>
     Department of Cognitive, Linguistics, & Psychological Sciences<br/>	          
 
 __Education__<br/>
-* Ph.D in Psychological & Brain Sciences, Johns Hopkins University (2008-2013)<br/>
-* M.Sc in Cognitive Science, Yonsei University (2006-2008)<br/>
-* B.S in Psychology, Yonsei University (2001-2006)<br/>
+* Ph.D in Psychological & Brain Sciences, Johns Hopkins University (2013)<br/>
+* M.Sc in Cognitive Science, Yonsei University (2008)<br/>
+* B.S in Psychology, Yonsei University (2006)<br/>
 
 ------
 __Links__<br/>
