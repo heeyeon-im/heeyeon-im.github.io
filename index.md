@@ -8,6 +8,7 @@ entries_layout: list
 
 ------
 __Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
+
 ------
 
 __Academic Appointments__<br/>
