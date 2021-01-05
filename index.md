@@ -8,7 +8,7 @@ entries_layout: list
 
 ------
 __Email: <heeyeon.im@ubc.ca>__<br/>
-__Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
+Detailed CV can be downloaded here: [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
 
 __Academic Appointments__<br/>
 * __Assistant Professor, University of British Columbia (2021-2024)__<br/>
