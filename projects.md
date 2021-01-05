@@ -7,9 +7,10 @@ nohead: true
 
 <details>
 <summary>
-  <b>Ensemble coding</b></summary>
-    Links:<br/>
-  [![Demo flash](../images/Flash_logo.jpg)]<br/>
+<b>Ensemble coding</b></summary>
+Links:<br/>
+  
+  ![Fig1](../images/Visualworld.jpg)<br/>
 </details><br/>
 
 
