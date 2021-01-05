@@ -12,23 +12,20 @@ __Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2020_November.pdf
 ------
 
 __Academic Appointments__<br/>
-* Assistant Professor, University of British Columbia (2021-2024)<br/>
-  _Department of Psychology and BC Children's Hospital_<br/>
-* Instructor, Boston Children's Hospital / Harvard Medical School (2020)<br/>
-  _Fetal-Neonatal Neuroimaging and Developmental Science Center, Department of Pediatrics_<br/>
-* Postdoctoral Fellow, Massachusetts General Hospital / Harvard Medical School (2015-2019)<br/>
-  _Martinos Center for Biomedical Imaging, Department of Radiology_<br/>
-* Postdoctoral Associate, Brown University (2014-2015)<br/>
-  _Department of Cognitive, Linguistics, & Psychological Sciences_<br/>	
+* __Assistant Professor, University of British Columbia (2021-2024)__<br/>
+    Department of Psychology and BC Children's Hospital<br/>
+* __Instructor, Boston Children's Hospital / Harvard Medical School (2020)__<br/>
+    Fetal-Neonatal Neuroimaging and Developmental Science Center, Department of Pediatrics<br/>
+* __Postdoctoral Fellow, Massachusetts General Hospital / Harvard Medical School (2015-2019)__<br/>
+    Martinos Center for Biomedical Imaging, Department of Radiology<br/>
+* __Postdoctoral Associate, Brown University (2014-2015)__<br/>
+    Department of Cognitive, Linguistics, & Psychological Sciences<br/>	
              
 ------
 __Education__<br/>
-* Ph.D. in Psychological & Brain Sciences (2008-2013)<br/>
-  _Johns Hopkins University (Advisor: Justin Halberda)_<br/>
-* M.Sc. in Cognitive Science (2006-2008)<br/>
-  _Yonsei University (Advisor: Sang Chul Chong)_<br/>
-* B.S. in Psychology (2001-2006)<br/>
-  _Yonsei University_ 
+* Ph.D. in Psychological & Brain Sciences (2008-2013), Johns Hopkins University (Advisor: Justin Halberda)<br/>
+* M.Sc. in Cognitive Science (2006-2008), Yonsei University (Advisor: Sang Chul Chong)<br/>
+* B.S. in Psychology (2001-2006), Yonsei University<br/>
 
 <!---
 <br/>
