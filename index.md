@@ -6,9 +6,6 @@ paginate: true
 entries_layout: list
 ---
 
-
-# __Hee Yeon Im, Ph.D.__
-
 ------
 ## __Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
 ------
