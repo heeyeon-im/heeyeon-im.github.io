@@ -19,12 +19,13 @@ __Academic Appointments__<br/>
     Martinos Center for Biomedical Imaging, Department of Radiology<br/>
 * __Postdoctoral Associate, Brown University (2014-2015)__<br/>
     Department of Cognitive, Linguistics, & Psychological Sciences<br/>	          
-------
+
 __Education__<br/>
 * Ph.D in Psychological & Brain Sciences, Johns Hopkins University (2008-2013)<br/>
 * M.Sc in Cognitive Science, Yonsei University (2006-2008)<br/>
 * B.S in Psychology, Yonsei University (2001-2006)<br/>
 
+------
 __Links__<br/>
 * [Publications](https://heeyeon-im.github.io/publications/)<br/>
 * [Research projects](https://heeyeon-im.github.io/projects/)<br/>
