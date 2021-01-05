@@ -5,57 +5,55 @@ permalink: /projects/
 nohead: true
 ---
 
-* [__Ensemble coding__](/projects_ensemble_coding.md)<br/>
-  <details>
-  <summary>
-  <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; [Click to expand]</a>    
-  </summary>
-  Ensemble coding
-  ..
-  </details>
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Ensemble Coding </a>    
+</summary>
 
-* [__Neural dynamics of perception__](/projects_neural_dynamics_perception.md)<br/>
-  <details>
-  <summary>
-  <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; [Click to expand]</a>    
-  </summary>
-  Neural dynamics of perception
-  ..
-  </details>
-
-* [__Individual differences in social affective processing__](/projects_individual_differences.md)<br/>
-  <details>
-  <summary>
-  <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; [Click to expand]</a>    
-  </summary>
-  Individual differerences in social affective processing
-  ..
-  </details>
-
-* [__Functional relationships between perception and action__](/projects_perception_action.md)<br/>
-  <details>
-  <summary>
-  <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; [Click to expand]</a>    
-  </summary>
-  Functional relationships between perception and action
-  ..
-  </details>
+..
+</details>
 
 
-* [__Encoding & Decoding MEG signals__](/projects_decoding_meg.md)<br/>
-  <details>
-  <summary>
-  <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; [Click to expand]</a>    
-  </summary>
-  Encoding & Decoding MEG signals
-  ..
-  </details>
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Neural dynamics of visual perception </a>    
+</summary>
 
-* [__Brain functions of neurodevelopmental disorders__](/projects_neurodevelopomental_disorders.md)<br/>
-  <details>
-  <summary>
-  <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; [Click to expand]</a>    
-  </summary>
-  Brain functions of neurodevelopmental disorders
-  ..
-  </details>
+..
+</details>
+
+
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Individual differences in social affective processing </a>    
+</summary>
+
+..
+</details>
+
+
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Functional relationships between perception and action </a>    
+</summary>
+
+..
+</details>
+
+
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Encoding & Decoding MEG signals </a>    
+</summary>
+
+..
+</details>
+
+
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Brain functions of neurodevelopmental disorders </a>    
+</summary>
+
+..
+</details>
