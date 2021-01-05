@@ -7,54 +7,43 @@ nohead: true
 
 <details>
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Ensemble Coding </a>    
-</summary>
-![Eye](/images/Eye.jpg)<br/>
-
-..
+  <b>Ensemble coding</b></summary>
+    Links:
+    ![Eye](/images/Eye.jpg)<br/>
 </details>
 
 
 <details>
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Neural dynamics of visual perception </a>    
-</summary>
-
-..
+  <b>Neural dynamics of visual perception</b></summary>
+    Links:
 </details>
 
 
 <details>
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Individual differences in social affective processing </a>    
-</summary>
-
-..
+  <b>Individual differences in social affective processing</b></summary>
+    Links:
 </details>
 
 
 <details>
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Functional relationships between perception and action </a>    
-</summary>
-
-..
+  <b>Functional relationships between perception and action</b></summary>
+    Links:
 </details>
 
 
 <details>
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Encoding & Decoding MEG signals </a>    
-</summary>
-
-..
+  <b>Encoding & Decoding MEG signals</b></summary>
+    Links:
 </details>
 
 
 <details>
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Brain functions of neurodevelopmental disorders </a>    
-</summary>
-
-..
+  <b>Brain functions of neurodevelopmental disorders</b></summary>
+    Links:
 </details>
+
