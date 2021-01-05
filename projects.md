@@ -9,6 +9,7 @@ nohead: true
 <summary>
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; Ensemble Coding </a>    
 </summary>
+![Eye](/images/Eye.jpg)<br/>
 
 ..
 </details>
