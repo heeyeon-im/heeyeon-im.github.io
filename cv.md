@@ -12,6 +12,7 @@ nohead: true
 ------
 
 ## __Academic Appointments__<br/>
+
 * Assistant Professor, University of British Columbia (2021-2024)<br/>
   _Department of Psychology and BC Children's Hospital_<br/>
 * Instructor, Boston Children's Hospital / Harvard Medical School (2020)<br/>
@@ -23,10 +24,9 @@ nohead: true
              
 ------
 ## __Education__<br/>
+
 * Johns Hopkins University  Ph.D. in Psychological & Brain Sciences (2008-2013)<br/>
   Advisor: Justin Halberda<br/>
 * Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (2006-2008)<br/>
   Advisor: Sang Chul Chong<br/>
 * Yonsei University (Seoul, Korea)  B.S. in Psychology (2001-2006)<br/>
-
-
