@@ -7,7 +7,7 @@ entries_layout: list
 ---
 
 ------
-__Email: <heeyeon.im@ubc.ca>__<br/>
+Email: <heeyeon.im@ubc.ca><br/>
 Detailed CV can be downloaded here: [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
 
 __Academic Appointments__<br/>
