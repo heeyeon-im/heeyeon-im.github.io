@@ -9,8 +9,10 @@ nohead: true
 <summary>
 <b>Ensemble coding</b></summary>
 Links:<br/>
-  
-  ![Fig1](../images/Visualworld.jpg)<br/>
+
+![Fig1](../images/Visualworld.jpg)<br/>
+
+
 </details><br/>
 
 
