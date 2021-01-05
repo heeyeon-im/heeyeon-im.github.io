@@ -22,11 +22,12 @@ entries_layout: list
              
 ------
 ## __Education__<br/>
-* Johns Hopkins University  Ph.D. in Psychological & Brain Sciences (2008-2013)<br/>
-  Advisor: Justin Halberda<br/>
-* Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (2006-2008)<br/>
-  Advisor: Sang Chul Chong<br/>
-* Yonsei University (Seoul, Korea)  B.S. in Psychology (2001-2006)<br/>
+* Ph.D. in Psychological & Brain Sciences (2008-2013)<br/>
+  _Johns Hopkins University (Advisor: Justin Halberda)_<br/>
+* M.Sc. in Cognitive Science (2006-2008)<br/>
+  _Yonsei University (Advisor: Sang Chul Chong)_<br/>
+* B.S. in Psychology (2001-2006)<br/>
+  _Yonsei University_ 
 
 <!---
 <br/>
