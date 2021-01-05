@@ -7,10 +7,10 @@ entries_layout: list
 ---
 
 ------
-## __Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
+__Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
 ------
 
-## __Academic Appointments__<br/>
+__Academic Appointments__<br/>
 * Assistant Professor, University of British Columbia (2021-2024)<br/>
   _Department of Psychology and BC Children's Hospital_<br/>
 * Instructor, Boston Children's Hospital / Harvard Medical School (2020)<br/>
@@ -21,7 +21,7 @@ entries_layout: list
   _Department of Cognitive, Linguistics, & Psychological Sciences_<br/>	
              
 ------
-## __Education__<br/>
+__Education__<br/>
 * Ph.D. in Psychological & Brain Sciences (2008-2013)<br/>
   _Johns Hopkins University (Advisor: Justin Halberda)_<br/>
 * M.Sc. in Cognitive Science (2006-2008)<br/>
