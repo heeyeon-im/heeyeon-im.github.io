@@ -1,6 +1,6 @@
 ---
 title: Research Projects
-layout: tag
+layout: page
 permalink: /projects/
 nohead: true
 ---
@@ -9,7 +9,7 @@ nohead: true
 <summary>
   <b>Ensemble coding</b></summary>
     Links:<br/>
-    ![Visualworld](../images/Visualworld.jpg)<br/>
+  [![Demo flash](../images/Flash_logo.jpg)]<br/>
 </details>
 
 
