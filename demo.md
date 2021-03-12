@@ -21,10 +21,10 @@ Reaching and rapid serial visual presentation (RSVP) tasks<br/>
   
 ------
 **3a. Creating Magnocellular biased images** (Click the image to see animation.)<br/>
-[![Demo flash](../images/Mtest1.gif)](../Flash3.gif)<br />
+[![Demo flash](../images/Mtest1.jpg)](../Flash3.gif)<br />
      
 **3b. Creating Parvocellular biased images** (Click the image to see animation.)<br/>
-[![Demo flash](../images/Ptest2.gif)](../Flash4.gif)<br />
+[![Demo flash](../images/Ptest2.jpg)](../Flash4.gif)<br />
 * Im, H.Y., Adams, R.B.Jr., Boshyan, J., Ward, N., Cushing, C., & Kveraga, K. (2017). Observer’s anxiety facilitates magnocellular processing of clear facial threat cues, but impairs parvocellular processing of ambiguous facial threat cues. _Scientific Reports._ <br/>
 * Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. _Human Brain Mapping._ <br/>
 * Cushing, C., Im, H.Y., Adams, R.B.Jr., Ward, N., & Kveraga, K. (2019). Magnocellular and parvocellular pathway contributions to facial threat cue processing. _Social Cognitive and Affective Neuroscience._ <br/>
