@@ -27,7 +27,7 @@ __Education__<br/>
 
 ------
 __Links__<br/>
-* [Publications](https://heeyeon-im.github.io/publications/)<br/>
 * [Current research projects](https://heeyeon-im.github.io/projects/)<br/>
+* [Publications](https://heeyeon-im.github.io/publications/)<br/>
 * [Demos](https://heeyeon-im.github.io/demo/)<br/>
 * [Google Scholar Link](https://scholar.google.com/citations?user=Zq3Z-ioAAAAJ&hl=en)
