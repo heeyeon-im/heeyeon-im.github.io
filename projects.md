@@ -9,7 +9,7 @@ nohead: true
 
 <details>
 <summary>
-<b>1. Ensemble coding</b></summary>
+<b>Ensemble coding</b></summary>
 Links:<br/>
 
 ![Fig1](../images/Visualworld.jpg)<br/>
@@ -20,28 +20,28 @@ Links:<br/>
 
 <details>
 <summary>
-  <b>2. Brain dynamics in perceiving threats from faces</b></summary>
+  <b>Brain dynamics in perceiving threats from faces</b></summary>
     Links:
 </details><br/>
 
 
 <details>
 <summary>
-  <b>3. Visually-guided actions</b></summary>
+  <b>Visually-guided actions</b></summary>
     Links:
 </details><br/>
 
 
 <details>
 <summary>
-  <b>4. Development of perception-action links</b></summary>
+  <b>Development of perception-action links</b></summary>
     Links:
 </details><br/>
 
 
 <details>
 <summary>
-  <b>5. MEG decoding of children's brains</b></summary>
+  <b>MEG decoding of children's brains</b></summary>
     Links:
 </details>
 
