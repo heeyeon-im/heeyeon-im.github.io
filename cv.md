@@ -32,4 +32,5 @@ nohead: true
 * Yonsei University (Seoul, Korea)  B.S. in Psychology (2001-2006)<br/>
 
 ------
-## __Published papers can be downloaded here:__ [[Publications]](/publications)<br/>
+## __Current projects:__ [[Projects]](/projects)<br/>
+## __Publications:__ [[Publications]](/publications)<br/>
