@@ -5,9 +5,11 @@ permalink: /projects/
 nohead: true
 ---
 
+# Dynamic vision for motivated action 
+
 <details>
 <summary>
-<b>Ensemble coding</b></summary>
+<b>1. Ensemble coding</b></summary>
 Links:<br/>
 
 ![Fig1](../images/Visualworld.jpg)<br/>
@@ -18,35 +20,28 @@ Links:<br/>
 
 <details>
 <summary>
-  <b>Neural dynamics of visual perception</b></summary>
+  <b>2. Brain dynamics in perceiving threats from faces</b></summary>
     Links:
 </details><br/>
 
 
 <details>
 <summary>
-  <b>Individual differences in social affective processing</b></summary>
+  <b>3. Visually-guided actions</b></summary>
     Links:
 </details><br/>
 
 
 <details>
 <summary>
-  <b>Functional relationships between perception and action</b></summary>
+  <b>4. Development of perception-action links</b></summary>
     Links:
 </details><br/>
 
 
 <details>
 <summary>
-  <b>Encoding & Decoding MEG signals</b></summary>
-    Links:
-</details><br/>
-
-
-<details>
-<summary>
-  <b>Brain functions of neurodevelopmental disorders</b></summary>
+  <b>5. MEG decoding of children's brains</b></summary>
     Links:
 </details>
 
