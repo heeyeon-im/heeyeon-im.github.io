@@ -5,7 +5,7 @@ permalink: /projects/
 nohead: true
 ---
 
-# Dynamic perception and motivated actions 
+<Dynamic perception and motivated actions> <this would go later with detailed description.
 
 <details>
 <summary>
