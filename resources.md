@@ -18,9 +18,9 @@ __* The integrative process of reading emotional expressions from a crowd of fac
 __* Crowd emotion: reading emotional expressions from crowds of faces__ [[pdf]](/images/Im_et_al_SfN_Media_2015.pdf)<br/>
   _An invited talk presented at Media Conference on Social Behaviors in Society for Neurocience, 2015_
 
-__* Guest lecture slide on Scene Perception at Brown University, 2014 Fall__ [[pdf]](/images/Lecture17_ScenePerception.pdf)<br/> 
+__* Guest lecture slide: Scene Perception at Brown University, 2014 Fall__ [[pdf]](/images/Lecture17_ScenePerception.pdf)<br/> 
 
-__* Guest lecture slide on Scene Perception at Brown University, 2014 Spring__ [[pdf]](/images/Lecture16_ScenePerception.pdf)<br/>
+__* Guest lecture slide: Scene Perception at Brown University, 2014 Spring__ [[pdf]](/images/Lecture16_ScenePerception.pdf)<br/>
 
 ------   
 ## __Posters presented at conferences__
