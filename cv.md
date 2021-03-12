@@ -8,7 +8,7 @@ nohead: true
 # __Hee Yeon Im, Ph.D.__
 
 ------
-## __Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
+## __Detailed CV can be downloaded here:__ [[pdf]](/HeeYeon_Im_CV_2021_March.pdf)<br/>
 ------
 
 ## __Academic Appointments__<br/>
@@ -30,3 +30,6 @@ nohead: true
 * Yonsei University (Seoul, Korea)  M.Sc. in Cognitive Science (2006-2008)<br/>
   Advisor: Sang Chul Chong<br/>
 * Yonsei University (Seoul, Korea)  B.S. in Psychology (2001-2006)<br/>
+
+------
+## __Published papers can be downloaded here:__ [[Publications]](/publications)<br/>
