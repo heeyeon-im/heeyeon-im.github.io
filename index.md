@@ -8,7 +8,7 @@ entries_layout: list
 
 ------
 Email address: heeyeon.im@ubc.ca<br/>
-Detailed CV can be downloaded here: [[pdf]](/HeeYeon_Im_CV_2020_November.pdf)<br/>
+Detailed CV can be downloaded here: [[pdf]](/HeeYeon_Im_CV_2021_March.pdf)<br/>
 
 __Academic Appointments__<br/>
 * Assistant Professor, University of British Columbia (2021-2024)<br/>
@@ -28,6 +28,6 @@ __Education__<br/>
 ------
 __Links__<br/>
 * [Publications](https://heeyeon-im.github.io/publications/)<br/>
-* [Research projects](https://heeyeon-im.github.io/projects/)<br/>
-* [Experimental paradigms](https://heeyeon-im.github.io/demo/)<br/>
+* [Current research projects](https://heeyeon-im.github.io/projects/)<br/>
+* [Demos](https://heeyeon-im.github.io/demo/)<br/>
 * [Google Scholar Link](https://scholar.google.com/citations?user=Zq3Z-ioAAAAJ&hl=en)
