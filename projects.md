@@ -5,7 +5,7 @@ permalink: /projects/
 nohead: true
 ---
 
-# Dynamic vision for motivated action 
+# Dynamic perception and motivated actions 
 
 <details>
 <summary>
@@ -42,6 +42,7 @@ Links:<br/>
 <details>
 <summary>
   <b>MEG decoding of children's brains</b></summary>
-    Links:
+    Links: <br/>
+  >  We are working on a brain decoding project that explores brain dynamics in perceiving spoken languages during the early period of life (from 6 months to 4 years). Based on our preliminary MEG decoding data, we expect to be able to characterize fine-scale time courses of Japanese speech sounds encoded across the superior temporal plane. We can also determine different brain connectivities emerging in children with vs. without previous exposure to the Japanese language. In addition to contributing to basic developmental neuroscience, our work may contribute to developing a useful tool for replaying spoken speech sounds encoded in the brain to assist children with hearing or specific language impairments.
 </details>
 
