@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "Hee Yeon Im, Ph.D."
-description: ""
+description: "heeyeon.im@ubc.ca"
 baseurl: ""
 url: "https://heeyeon-im.github.io"
 logo: "/images/heeyeon.jpg"
@@ -109,7 +109,7 @@ defaults:
 author:
   name: Hee Yeon Im
   picture: /images/heeyeon.jpg
-  email: HeeYeon.Im@childrens.harvard.edu
+  email: heeyeon.im@ubc.ca
   # twitter: mmistakes
 #   links:
 #     - title: Twitter
