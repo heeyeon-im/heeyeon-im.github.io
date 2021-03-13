@@ -28,6 +28,7 @@ Reaching and rapid serial visual presentation (RSVP) tasks<br/>
 * Im, H.Y., Adams, R.B.Jr., Boshyan, J., Ward, N., Cushing, C., & Kveraga, K. (2017). Observer’s anxiety facilitates magnocellular processing of clear facial threat cues, but impairs parvocellular processing of ambiguous facial threat cues. _Scientific Reports._ <br/>
 * Im, H.Y., Adams, R.B.Jr., Cushing, C., Boshyan, J., Ward, N., & Kveraga, K. (2018). Sex-related differences in behavioral and amygdalar responses to compound facial threat cues. _Human Brain Mapping._ <br/>
 * Cushing, C., Im, H.Y., Adams, R.B.Jr., Ward, N., & Kveraga, K. (2019). Magnocellular and parvocellular pathway contributions to facial threat cue processing. _Social Cognitive and Affective Neuroscience._ <br/>
+* Kveraga, K., Im, H.Y., Ward, N., & Adams, R.B.Jr. (2020). Fast saccadic and manual responses to faces presented to the koniocellular visual pathway. Journal of Vision
 
 ------
 **4. Average size task** (Click the image to see animation.)<br/> 
