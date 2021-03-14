@@ -5,6 +5,8 @@ permalink: /projects/
 nohead: true
 ---
 
+## Current projects
+
 ------
 * **Brain dynamics in perceiving threats from faces**
 
