@@ -11,9 +11,6 @@ nohead: true
 * **Brain dynamics in perceiving threats from faces**
 
 ------
-* **Visual perception of ensembles and objects linked to different action goals:** This research characterizes how the human brain is wired up to create different units of perception - individual objects and ensembles - as a means of managing efficient and flexible descriptions of the visual world. Our work shows that the human brain can quickly form higher-order descriptions of multiple objects (e.g., average, variance, or numerosity of sets), while it can also perceive a few objects as “individual” entities at the same time. These representations (objects and ensembles) can provide complementary information about parts and the whole. Combining or flexibly shifting between them allows for a coherent and comprehensive perception of the (ever-changing) visual world, which is crucial for our everyday actions and behaviours to be adaptive, motivated, and interactive. We study how this is achieved through interactions among different brain areas. Our recent work also explores how different action goals and behavioural motivations influence the way the visual system utilizes representations of objects and ensembles, selectively prioritizing one over the other.<br/>
-
-------
 * **Visually-guided actions**
 
 ------
@@ -21,6 +18,9 @@ nohead: true
 _Collaborators: Drs. Yoshio Okada (Boston Children's Hospital, Harvard Medical School) and Sheraz Khan (Massachusetts General Hospital, Harvard Medical School)_<br/>
  
   ![Fig1](/images/R21Fig.png)<br/>
+
+------
+* **Visual perception of ensembles and objects linked to different action goals:** This research characterizes how the human brain is wired up to create different units of perception - individual objects and ensembles - as a means of managing efficient and flexible descriptions of the visual world. Our work shows that the human brain can quickly form higher-order descriptions of multiple objects (e.g., average, variance, or numerosity of sets), while it can also perceive a few objects as “individual” entities at the same time. These two different representations can provide complementary information about parts and the whole. Combining or flexibly shifting between them allows for a coherent and comprehensive perception of the (ever-changing) visual world, which is crucial for our everyday actions and behaviours to be adaptive, motivated, and interactive. We study how this is achieved through interactions among different brain areas. Our recent work also explores how different action goals and behavioural motivations influence the way the visual system utilizes representations of objects and ensembles, selectively prioritizing one over the other.<br/>
 
 ------
 * **Development of perception-action links**
