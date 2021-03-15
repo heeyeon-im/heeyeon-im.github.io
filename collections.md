@@ -16,7 +16,6 @@ nohead: true
 |<img width="802" alt="IMG_2608" src="/images/IMG_2608.png">  |  <img width="802" alt="IMG_2611" src="/images/IMG_2611.png">|<img width="802" alt="IMG_2617" src="/images/IMG_2617.png">|<img width="802" alt="IMG_2614" src="/images/IMG_2614.png">|
 
 
-
 ------
 ### Things in color
 
