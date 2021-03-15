@@ -22,5 +22,4 @@ nohead: true
 ### Objects with emotions 
 
 
-------
-### Things that are organized
+
