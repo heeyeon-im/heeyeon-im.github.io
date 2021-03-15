@@ -35,5 +35,5 @@ entries_layout: list
 * [Current research projects](https://heeyeon-im.github.io/projects/)<br/>
 * [Publications](https://heeyeon-im.github.io/publications/)<br/>
 * [Demos](https://heeyeon-im.github.io/demo/)<br/>
-* [Google Scholar Link](https://scholar.google.com/citations?user=Zq3Z-ioAAAAJ&hl=en)
 * Detailed CV can be downloaded here: [[pdf]](/HeeYeon_Im_CV_2021_March.pdf)<br/>
+* [Google Scholar Link](https://scholar.google.com/citations?user=Zq3Z-ioAAAAJ&hl=en)
