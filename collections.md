@@ -14,4 +14,4 @@ nohead: true
 
 
 ------
-### Colletions, patterns, and repetitions 
+### Collections, patterns, and repetitions 
