@@ -8,8 +8,9 @@ entries_layout: list
 
 ------
 __Academic Appointments__<br/>
-* Assistant Professor, University of British Columbia (2021-2024)<br/>
+* Assistant Professor, University of British Columbia<br/>
     Department of Psychology and BC Children's Hospital<br/>
+    
 * Instructor, Boston Children's Hospital / Harvard Medical School (2020)<br/>
     Fetal-Neonatal Neuroimaging and Developmental Science Center, Department of Pediatrics<br/>
 * Postdoctoral Fellow, Massachusetts General Hospital / Harvard Medical School (2015-2019)<br/>
