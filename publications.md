@@ -5,7 +5,7 @@ permalink: /publications/
 nohead: true
 ---
 ------
-# Publications<br />
+## Publications<br />
 
 * **Im, H.Y.**, Cushing, C., Ward, N., & Kveraga, K. (in press). Differential neurodynamics and connectivity in the dorsal and ventral visual pathways during perception of emotional crowds and individuals: a MEG study. _Cognitive, Affective, and Behavioral Neuroscience_.
 
