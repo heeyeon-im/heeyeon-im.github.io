@@ -1,7 +1,7 @@
 ---
-title: Images
+title: collections
 layout: page
-permalink: /images/
+permalink: /collections/
 nohead: true
 ---
 
