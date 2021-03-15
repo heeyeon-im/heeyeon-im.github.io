@@ -5,6 +5,8 @@ permalink: /demo/
 nohead: true
 ---
 
+## Demos 
+
 ------
 **1. Visuomotor learning: dual-task paradigms** (Click the image to see animation.)<br/>
 Reaching and rapid serial visual presentation (RSVP) tasks<br/>
