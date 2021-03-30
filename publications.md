@@ -7,7 +7,7 @@ nohead: true
 ------
 ## Publications<br />
 
-* **Im, H.Y.**, Cushing, C., Ward, N., & Kveraga, K. (in press). Differential neurodynamics and connectivity in the dorsal and ventral visual pathways during perception of emotional crowds and individuals: a MEG study. _Cognitive, Affective, and Behavioral Neuroscience_.
+* **Im, H.Y.**, Cushing, C., Ward, N., & Kveraga, K. (2021). Differential neurodynamics and connectivity in the dorsal and ventral visual pathways during perception of emotional crowds and individuals: a MEG study. _Cognitive, Affective, and Behavioral Neuroscience_. [[PDF]](../Im_etal_CABN2021.pdf)
 
 * **Im, H.Y.**, Tiurina, N.A., & Utochkin, I.S. (2020). An explicit investigation of the roles that feature distributions play in rapid visual categorization. _Attention, Perception, & Psychophysics_. [[PDF]](../Im_etal_AP&P2020.pdf) 
 
