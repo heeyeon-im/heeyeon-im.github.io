@@ -21,3 +21,7 @@ This project examines how the human brain is wired up to mediate different units
 * **MEG decoding of children’s brains:** This decoding project is to discover brain dynamics in perceiving spoken languages during the early period of life (6 months - 4 years). Based on our preliminary MEG decoding data, we expect to be able to characterize fine-scale time courses of different Japanese speech sounds encoded across the superior temporal plane of the children’s brains. We can also determine functional brain connectivity emerging in children with vs. without previous exposure to the Japanese language. In addition to contributing to developmental neuroscience, our work may provide valuable information for speech-language pathology and designing a device for replaying spoken speech sounds encoded in the brain to assist children with hearing or specific language impairments. We also hope to develop and extend this approach to test other perceptual abilities, including understanding facial expressions and reading other’s actions and intentions.<br/>
  
   ![Fig1](/images/R21Fig.png)<br/>
+
+------
+* **Altered brain network connectivity in children with developmental disorders:**  
+This project investigates different patterns of functional brain network connectivity in chldren with atypical brain development, including those with amblyopia or dyslexia, compared to typically developing children. 
