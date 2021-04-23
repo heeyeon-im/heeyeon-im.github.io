@@ -10,7 +10,7 @@ entries_layout: list
 ### Academic Appointments
 #### Current:
 
-* Assistant Professor, University of British Columbia<br/>
+* Visiting Assistant Professor, University of British Columbia<br/>
     Department of Psychology and BC Children's Hospital<br/>
 
 #### Previous:  
